@@ -1,0 +1,1101 @@
+[ 2017-08-09T15:50:05+08:00 ] 127.0.0.1 /a/index.html
+ERR: 非法操作:index
+
+[ 2017-08-09T15:50:44+08:00 ] 127.0.0.1 /a/index.html
+ERR: 非法操作:index
+
+[ 2017-08-09T15:50:45+08:00 ] 127.0.0.1 /a/index.html
+ERR: 非法操作:index
+
+[ 2017-08-09T15:51:03+08:00 ] 127.0.0.1 /a/index.html
+ERR: Call to a member function configAll() on boolean
+
+[ 2017-08-09T15:51:46+08:00 ] 127.0.0.1 /a/index.html
+ERR: 模板不存在:./Application/Admin/View/mstp_85_empire/index.html
+
+[ 2017-08-09T15:51:47+08:00 ] 127.0.0.1 /a/index.html
+ERR: 模板不存在:./Application/Admin/View/mstp_85_empire/index.html
+
+[ 2017-08-09T15:52:59+08:00 ] 127.0.0.1 /a/main.html
+ERR: 模板不存在:./Application/Admin/View/mstp_85_empire/main.html
+
+[ 2017-08-09T15:53:19+08:00 ] 127.0.0.1 /a/css/mplayer.css
+ERR: 模板不存在:./Application/Admin/View/default/css.html
+
+[ 2017-08-09T15:53:20+08:00 ] 127.0.0.1 /a/plugin/font-awesome/css/font-awesome.min.css
+ERR: 模板不存在:./Application/Admin/View/default/plugin.html
+
+[ 2017-08-09T15:53:20+08:00 ] 127.0.0.1 /a/plugin/layui/css/layui.css
+ERR: 模板不存在:./Application/Admin/View/default/plugin.html
+
+[ 2017-08-09T15:53:20+08:00 ] 127.0.0.1 /a/css/main.css
+ERR: 模板不存在:./Application/Admin/View/default/css.html
+
+[ 2017-08-09T15:53:20+08:00 ] 127.0.0.1 /a/plugin/layui/layui.js
+ERR: 模板不存在:./Application/Admin/View/default/plugin.html
+
+[ 2017-08-09T15:53:20+08:00 ] 127.0.0.1 /a/js/jquery.js
+ERR: 模板不存在:./Application/Admin/View/default/js.html
+
+[ 2017-08-09T15:53:20+08:00 ] 127.0.0.1 /a/js/mplayer.js
+ERR: 模板不存在:./Application/Admin/View/default/js.html
+
+[ 2017-08-09T15:53:20+08:00 ] 127.0.0.1 /a/js/mplayer-list.js
+ERR: 模板不存在:./Application/Admin/View/default/js.html
+
+[ 2017-08-09T15:53:20+08:00 ] 127.0.0.1 /a/js/mplayer-functions.js
+ERR: 模板不存在:./Application/Admin/View/default/js.html
+
+[ 2017-08-09T15:53:20+08:00 ] 127.0.0.1 /a/img/mplayer_error.png
+ERR: 模板不存在:./Application/Admin/View/default/img.html
+
+[ 2017-08-09T15:58:13+08:00 ] 127.0.0.1 /a/plugin/layui/layui.js
+ERR: 模板不存在:./Application/Admin/View/default/plugin.html
+
+[ 2017-08-09T15:58:13+08:00 ] 127.0.0.1 /a/js/jquery.js
+ERR: 模板不存在:./Application/Admin/View/default/js.html
+
+[ 2017-08-09T15:58:13+08:00 ] 127.0.0.1 /a/js/mplayer-list.js
+ERR: 模板不存在:./Application/Admin/View/default/js.html
+
+[ 2017-08-09T15:58:13+08:00 ] 127.0.0.1 /a/js/mplayer-functions.js
+ERR: 模板不存在:./Application/Admin/View/default/js.html
+
+[ 2017-08-09T15:58:13+08:00 ] 127.0.0.1 /a/plugin/layui/layui.js
+ERR: 模板不存在:./Application/Admin/View/default/plugin.html
+
+[ 2017-08-09T15:58:14+08:00 ] 127.0.0.1 /a/js/jquery.js
+ERR: 模板不存在:./Application/Admin/View/default/js.html
+
+[ 2017-08-09T15:58:14+08:00 ] 127.0.0.1 /a/js/mplayer.js
+ERR: 模板不存在:./Application/Admin/View/default/js.html
+
+[ 2017-08-09T15:58:14+08:00 ] 127.0.0.1 /a/img/mplayer_error.png
+ERR: 模板不存在:./Application/Admin/View/default/img.html
+
+[ 2017-08-09T15:58:15+08:00 ] 127.0.0.1 /a/js/mplayer-list.js
+ERR: 模板不存在:./Application/Admin/View/default/js.html
+
+[ 2017-08-09T15:58:15+08:00 ] 127.0.0.1 /a/js/mplayer-functions.js
+ERR: 模板不存在:./Application/Admin/View/default/js.html
+
+[ 2017-08-09T15:59:14+08:00 ] 127.0.0.1 /a/plugin/layui/layui.js
+ERR: 模板不存在:./Application/Admin/View/default/plugin.html
+
+[ 2017-08-09T15:59:14+08:00 ] 127.0.0.1 /a/js/jquery.js
+ERR: 模板不存在:./Application/Admin/View/default/js.html
+
+[ 2017-08-09T15:59:15+08:00 ] 127.0.0.1 /a/plugin/layui/layui.js
+ERR: 模板不存在:./Application/Admin/View/default/plugin.html
+
+[ 2017-08-09T15:59:15+08:00 ] 127.0.0.1 /a/js/mplayer-list.js
+ERR: 模板不存在:./Application/Admin/View/default/js.html
+
+[ 2017-08-09T15:59:15+08:00 ] 127.0.0.1 /a/js/mplayer.js
+ERR: 模板不存在:./Application/Admin/View/default/js.html
+
+[ 2017-08-09T15:59:15+08:00 ] 127.0.0.1 /a/js/mplayer-functions.js
+ERR: 模板不存在:./Application/Admin/View/default/js.html
+
+[ 2017-08-09T15:59:16+08:00 ] 127.0.0.1 /a/js/mplayer-functions.js
+ERR: 模板不存在:./Application/Admin/View/default/js.html
+
+[ 2017-08-09T15:59:16+08:00 ] 127.0.0.1 /a/js/mplayer-list.js
+ERR: 模板不存在:./Application/Admin/View/default/js.html
+
+[ 2017-08-09T15:59:16+08:00 ] 127.0.0.1 /a/js/jquery.js
+ERR: 模板不存在:./Application/Admin/View/default/js.html
+
+[ 2017-08-09T15:59:16+08:00 ] 127.0.0.1 /a/js/mplayer.js
+ERR: 模板不存在:./Application/Admin/View/default/js.html
+
+[ 2017-08-09T15:59:16+08:00 ] 127.0.0.1 /a/js/mplayer-list.js
+ERR: 模板不存在:./Application/Admin/View/default/js.html
+
+[ 2017-08-09T15:59:16+08:00 ] 127.0.0.1 /a/js/mplayer-functions.js
+ERR: 模板不存在:./Application/Admin/View/default/js.html
+
+[ 2017-08-09T15:59:19+08:00 ] 127.0.0.1 /a/plugin/layui/layui.js
+ERR: 模板不存在:./Application/Admin/View/default/plugin.html
+
+[ 2017-08-09T15:59:19+08:00 ] 127.0.0.1 /a/js/jquery.js
+ERR: 模板不存在:./Application/Admin/View/default/js.html
+
+[ 2017-08-09T15:59:19+08:00 ] 127.0.0.1 /a/js/mplayer-functions.js
+ERR: 模板不存在:./Application/Admin/View/default/js.html
+
+[ 2017-08-09T15:59:19+08:00 ] 127.0.0.1 /a/js/mplayer.js
+ERR: 模板不存在:./Application/Admin/View/default/js.html
+
+[ 2017-08-09T15:59:19+08:00 ] 127.0.0.1 /a/js/mplayer-list.js
+ERR: 模板不存在:./Application/Admin/View/default/js.html
+
+[ 2017-08-09T15:59:19+08:00 ] 127.0.0.1 /a/js/jquery.js
+ERR: 模板不存在:./Application/Admin/View/default/js.html
+
+[ 2017-08-09T15:59:19+08:00 ] 127.0.0.1 /a/js/mplayer.js
+ERR: 模板不存在:./Application/Admin/View/default/js.html
+
+[ 2017-08-09T15:59:19+08:00 ] 127.0.0.1 /a/js/mplayer-list.js
+ERR: 模板不存在:./Application/Admin/View/default/js.html
+
+[ 2017-08-09T15:59:19+08:00 ] 127.0.0.1 /a/js/mplayer-functions.js
+ERR: 模板不存在:./Application/Admin/View/default/js.html
+
+[ 2017-08-09T15:59:43+08:00 ] 127.0.0.1 /a/js/mplayer-list.js
+ERR: 模板不存在:./Application/Admin/View/default/js.html
+
+[ 2017-08-09T15:59:43+08:00 ] 127.0.0.1 /a/js/mplayer.js
+ERR: 模板不存在:./Application/Admin/View/default/js.html
+
+[ 2017-08-09T15:59:43+08:00 ] 127.0.0.1 /a/js/mplayer-functions.js
+ERR: 模板不存在:./Application/Admin/View/default/js.html
+
+[ 2017-08-09T15:59:43+08:00 ] 127.0.0.1 /a/js/jquery.js
+ERR: 模板不存在:./Application/Admin/View/default/js.html
+
+[ 2017-08-09T15:59:43+08:00 ] 127.0.0.1 /a/img/mplayer_error.png
+ERR: 模板不存在:./Application/Admin/View/default/img.html
+
+[ 2017-08-09T15:59:43+08:00 ] 127.0.0.1 /a/js/main.js
+ERR: 模板不存在:./Application/Admin/View/default/js.html
+
+[ 2017-08-09T15:59:43+08:00 ] 127.0.0.1 /a/js/mplayer.js
+ERR: 模板不存在:./Application/Admin/View/default/js.html
+
+[ 2017-08-09T15:59:43+08:00 ] 127.0.0.1 /a/js/mplayer-list.js
+ERR: 模板不存在:./Application/Admin/View/default/js.html
+
+[ 2017-08-09T15:59:43+08:00 ] 127.0.0.1 /a/js/mplayer-functions.js
+ERR: 模板不存在:./Application/Admin/View/default/js.html
+
+[ 2017-08-09T16:00:20+08:00 ] 127.0.0.1 /a/js/jquery.js
+ERR: 模板不存在:./Application/Admin/View/default/js.html
+
+[ 2017-08-09T16:00:20+08:00 ] 127.0.0.1 /a/js/mplayer-functions.js
+ERR: 模板不存在:./Application/Admin/View/default/js.html
+
+[ 2017-08-09T16:00:20+08:00 ] 127.0.0.1 /a/js/mplayer.js
+ERR: 模板不存在:./Application/Admin/View/default/js.html
+
+[ 2017-08-09T16:00:20+08:00 ] 127.0.0.1 /a/js/mplayer-list.js
+ERR: 模板不存在:./Application/Admin/View/default/js.html
+
+[ 2017-08-09T16:00:20+08:00 ] 127.0.0.1 /a/js/mplayer-functions.js
+ERR: 模板不存在:./Application/Admin/View/default/js.html
+
+[ 2017-08-09T16:00:21+08:00 ] 127.0.0.1 /a/img/mplayer_error.png
+ERR: 模板不存在:./Application/Admin/View/default/img.html
+
+[ 2017-08-09T16:00:21+08:00 ] 127.0.0.1 /a/js/main.js
+ERR: 模板不存在:./Application/Admin/View/default/js.html
+
+[ 2017-08-09T16:00:39+08:00 ] 127.0.0.1 /a/js/main.js
+ERR: 模板不存在:./Application/Admin/View/default/js.html
+
+[ 2017-08-09T16:01:38+08:00 ] 127.0.0.1 /a/datalist.html
+ERR: 模板不存在:./Application/Admin/View/default/datalist.html
+
+[ 2017-08-09T16:01:40+08:00 ] 127.0.0.1 /a/datalist.html
+ERR: 模板不存在:./Application/Admin/View/default/datalist.html
+
+[ 2017-08-09T16:01:41+08:00 ] 127.0.0.1 /a/datalist.html
+ERR: 模板不存在:./Application/Admin/View/default/datalist.html
+
+[ 2017-08-09T16:05:28+08:00 ] 127.0.0.1 /a/datalist.html
+ERR: 模板不存在:./Application/Admin/View/default/datalist.html
+
+[ 2017-08-09T16:06:08+08:00 ] 127.0.0.1 /a/datalist.html
+ERR: 模板不存在:./Application/Admin/View/default/datalist.html
+
+[ 2017-08-09T16:06:10+08:00 ] 127.0.0.1 /a/datalist.html
+ERR: 模板不存在:./Application/Admin/View/default/datalist.html
+
+[ 2017-08-09T16:41:07+08:00 ] 127.0.0.1 /a/datalist.html
+ERR: 模板不存在:./Application/Admin/View/default/datalist.html
+
+[ 2017-08-09T16:46:19+08:00 ] 127.0.0.1 /a/DataTables-1.10.15/media/css/jquery.dataTables.css
+ERR: 模板不存在:./Application/Admin/View/default/DataTables-1.10.html
+
+[ 2017-08-09T16:46:20+08:00 ] 127.0.0.1 /a/DataTables-1.10.15/media/js/jquery.js
+ERR: 模板不存在:./Application/Admin/View/default/DataTables-1.10.html
+
+[ 2017-08-09T16:46:20+08:00 ] 127.0.0.1 /a/DataTables-1.10.15/media/js/jquery.dataTables.js
+ERR: 模板不存在:./Application/Admin/View/default/DataTables-1.10.html
+
+[ 2017-08-09T16:46:20+08:00 ] 127.0.0.1 /a/DataTables-1.10.15/media/js/jquery.js
+ERR: 模板不存在:./Application/Admin/View/default/DataTables-1.10.html
+
+[ 2017-08-09T16:46:20+08:00 ] 127.0.0.1 /a/DataTables-1.10.15/media/css/jquery.dataTables.css
+ERR: 模板不存在:./Application/Admin/View/default/DataTables-1.10.html
+
+[ 2017-08-09T16:46:20+08:00 ] 127.0.0.1 /a/DataTables-1.10.15/media/js/jquery.dataTables.js
+ERR: 模板不存在:./Application/Admin/View/default/DataTables-1.10.html
+
+[ 2017-08-09T16:47:14+08:00 ] 127.0.0.1 /a/DataTables-1.10.15/media/css/jquery.dataTables.css
+ERR: 模板不存在:./Application/Admin/View/default/DataTables-1.10.html
+
+[ 2017-08-09T16:47:14+08:00 ] 127.0.0.1 /a/DataTables-1.10.15/media/js/jquery.js
+ERR: 模板不存在:./Application/Admin/View/default/DataTables-1.10.html
+
+[ 2017-08-09T16:47:15+08:00 ] 127.0.0.1 /a/DataTables-1.10.15/media/js/jquery.dataTables.js
+ERR: 模板不存在:./Application/Admin/View/default/DataTables-1.10.html
+
+[ 2017-08-09T16:47:34+08:00 ] 127.0.0.1 /a/DataTables-1.10.15/media/css/jquery.dataTables.css
+ERR: 模板不存在:./Application/Admin/View/default/DataTables-1.10.html
+
+[ 2017-08-09T16:47:34+08:00 ] 127.0.0.1 /a/DataTables-1.10.15/media/js/jquery.dataTables.js
+ERR: 模板不存在:./Application/Admin/View/default/DataTables-1.10.html
+
+[ 2017-08-09T16:47:35+08:00 ] 127.0.0.1 /a/DataTables-1.10.15/media/js/jquery.js
+ERR: 模板不存在:./Application/Admin/View/default/DataTables-1.10.html
+
+[ 2017-08-09T16:47:35+08:00 ] 127.0.0.1 /a/DataTables-1.10.15/media/js/jquery.dataTables.js
+ERR: 模板不存在:./Application/Admin/View/default/DataTables-1.10.html
+
+[ 2017-08-09T16:47:54+08:00 ] 127.0.0.1 /a/DataTables-1.10.15/media/js/jquery.js
+ERR: 模板不存在:./Application/Admin/View/default/DataTables-1.10.html
+
+[ 2017-08-09T16:47:54+08:00 ] 127.0.0.1 /a/DataTables-1.10.15/media/css/jquery.dataTables.css
+ERR: 模板不存在:./Application/Admin/View/default/DataTables-1.10.html
+
+[ 2017-08-09T16:48:16+08:00 ] 127.0.0.1 /a/DataTables-1.10.15/media/css/jquery.dataTables.css
+ERR: 模板不存在:./Application/Admin/View/default/DataTables-1.10.html
+
+[ 2017-08-09T16:48:31+08:00 ] 127.0.0.1 /a/DataTables-1.10.15/media/css/jquery.dataTables.css
+ERR: 模板不存在:./Application/Admin/View/default/DataTables-1.10.html
+
+[ 2017-08-09T16:48:31+08:00 ] 127.0.0.1 /a/DataTables-1.10.15/media/js/jquery.js
+ERR: 模板不存在:./Application/Admin/View/default/DataTables-1.10.html
+
+[ 2017-08-09T16:48:32+08:00 ] 127.0.0.1 /a/DataTables-1.10.15/media/js/jquery.dataTables.js
+ERR: 模板不存在:./Application/Admin/View/default/DataTables-1.10.html
+
+[ 2017-08-09T16:48:36+08:00 ] 127.0.0.1 /a/DataTables-1.10.15/media/js/jquery.js
+ERR: 模板不存在:./Application/Admin/View/default/DataTables-1.10.html
+
+[ 2017-08-09T16:48:36+08:00 ] 127.0.0.1 /a/DataTables-1.10.15/media/css/jquery.dataTables.css
+ERR: 模板不存在:./Application/Admin/View/default/DataTables-1.10.html
+
+[ 2017-08-09T16:48:37+08:00 ] 127.0.0.1 /a/DataTables-1.10.15/media/js/jquery.dataTables.js
+ERR: 模板不存在:./Application/Admin/View/default/DataTables-1.10.html
+
+[ 2017-08-09T16:48:45+08:00 ] 127.0.0.1 /a/DataTables-1.10.15/media/js/jquery.js
+ERR: 模板不存在:./Application/Admin/View/default/DataTables-1.10.html
+
+[ 2017-08-09T16:48:45+08:00 ] 127.0.0.1 /a/DataTables-1.10.15/media/css/jquery.dataTables.css
+ERR: 模板不存在:./Application/Admin/View/default/DataTables-1.10.html
+
+[ 2017-08-09T16:48:59+08:00 ] 127.0.0.1 /a/DataTables-1.10.15/media/css/jquery.dataTables.css
+ERR: 模板不存在:./Application/Admin/View/default/DataTables-1.10.html
+
+[ 2017-08-09T16:48:59+08:00 ] 127.0.0.1 /a/DataTables-1.10.15/media/js/jquery.js
+ERR: 模板不存在:./Application/Admin/View/default/DataTables-1.10.html
+
+[ 2017-08-09T16:49:07+08:00 ] 127.0.0.1 /a/DataTables-1.10.15/media/css/jquery.dataTables.css
+ERR: 模板不存在:./Application/Admin/View/default/DataTables-1.10.html
+
+[ 2017-08-09T16:49:07+08:00 ] 127.0.0.1 /a/DataTables-1.10.15/media/js/jquery.js
+ERR: 模板不存在:./Application/Admin/View/default/DataTables-1.10.html
+
+[ 2017-08-09T16:49:25+08:00 ] 127.0.0.1 /a/DataTables-1.10.15/media/css/jquery.dataTables.css
+ERR: 模板不存在:./Application/Admin/View/default/DataTables-1.10.html
+
+[ 2017-08-09T16:49:25+08:00 ] 127.0.0.1 /a/DataTables-1.10.15/media/js/jquery.js
+ERR: 模板不存在:./Application/Admin/View/default/DataTables-1.10.html
+
+[ 2017-08-09T16:49:54+08:00 ] 127.0.0.1 /a/DataTables-1.10.15/media/css/jquery.dataTables.css
+ERR: 模板不存在:./Application/Admin/View/default/DataTables-1.10.html
+
+[ 2017-08-09T16:49:54+08:00 ] 127.0.0.1 /a/DataTables-1.10.15/media/js/jquery.js
+ERR: 模板不存在:./Application/Admin/View/default/DataTables-1.10.html
+
+[ 2017-08-09T16:50:04+08:00 ] 127.0.0.1 /a/DataTables-1.10.15/media/css/jquery.dataTables.css
+ERR: 模板不存在:./Application/Admin/View/default/DataTables-1.10.html
+
+[ 2017-08-09T16:50:04+08:00 ] 127.0.0.1 /a/DataTables-1.10.15/media/js/jquery.js
+ERR: 模板不存在:./Application/Admin/View/default/DataTables-1.10.html
+
+[ 2017-08-09T16:55:20+08:00 ] 127.0.0.1 /a/DataTables-1.10.15/media/css/jquery.dataTables.css
+ERR: 模板不存在:./Application/Admin/View/default/DataTables-1.10.html
+
+[ 2017-08-09T16:55:21+08:00 ] 127.0.0.1 /a/DataTables-1.10.15/media/js/jquery.js
+ERR: 模板不存在:./Application/Admin/View/default/DataTables-1.10.html
+
+[ 2017-08-09T16:55:35+08:00 ] 127.0.0.1 /a/DataTables-1.10.15/media/css/jquery.dataTables.css
+ERR: 模板不存在:./Application/Admin/View/default/DataTables-1.10.html
+
+[ 2017-08-09T16:55:36+08:00 ] 127.0.0.1 /a/DataTables-1.10.15/media/js/jquery.js
+ERR: 模板不存在:./Application/Admin/View/default/DataTables-1.10.html
+
+[ 2017-08-09T16:56:00+08:00 ] 127.0.0.1 /a/DataTables-1.10.15/media/css/jquery.dataTables.css
+ERR: 模板不存在:./Application/Admin/View/default/DataTables-1.10.html
+
+[ 2017-08-09T16:56:07+08:00 ] 127.0.0.1 /a/DataTables-1.10.15/media/css/jquery.dataTables.css
+ERR: 模板不存在:./Application/Admin/View/default/DataTables-1.10.html
+
+[ 2017-08-09T16:56:08+08:00 ] 127.0.0.1 /a/DataTables-1.10.15/media/js/jquery.js
+ERR: 模板不存在:./Application/Admin/View/default/DataTables-1.10.html
+
+[ 2017-08-09T16:56:20+08:00 ] 127.0.0.1 /a/DataTables-1.10.15/media/css/jquery.dataTables.css
+ERR: 模板不存在:./Application/Admin/View/default/DataTables-1.10.html
+
+[ 2017-08-09T17:01:36+08:00 ] 127.0.0.1 /a/styles.css
+ERR: 模板不存在:./Application/Admin/View/default/styles.html
+
+[ 2017-08-09T17:01:36+08:00 ] 127.0.0.1 /a/images/bg_header.jpg
+ERR: 模板不存在:./Application/Admin/View/default/images.html
+
+[ 2017-08-09T17:01:37+08:00 ] 127.0.0.1 /a/images/bullet1.gif
+ERR: 模板不存在:./Application/Admin/View/default/images.html
+
+[ 2017-08-09T17:01:37+08:00 ] 127.0.0.1 /a/images/bullet2.gif
+ERR: 模板不存在:./Application/Admin/View/default/images.html
+
+[ 2017-08-09T17:02:01+08:00 ] 127.0.0.1 /a/styles.css
+ERR: 模板不存在:./Application/Admin/View/default/styles.html
+
+[ 2017-08-09T17:02:01+08:00 ] 127.0.0.1 /a/images/bullet1.gif
+ERR: 模板不存在:./Application/Admin/View/default/images.html
+
+[ 2017-08-09T17:02:01+08:00 ] 127.0.0.1 /a/images/bg_header.jpg
+ERR: 模板不存在:./Application/Admin/View/default/images.html
+
+[ 2017-08-09T17:02:02+08:00 ] 127.0.0.1 /a/images/bullet2.gif
+ERR: 模板不存在:./Application/Admin/View/default/images.html
+
+[ 2017-08-09T17:02:08+08:00 ] 127.0.0.1 /a/styles.css
+ERR: 模板不存在:./Application/Admin/View/default/styles.html
+
+[ 2017-08-09T17:02:08+08:00 ] 127.0.0.1 /a/images/bg_header.jpg
+ERR: 模板不存在:./Application/Admin/View/default/images.html
+
+[ 2017-08-09T17:02:08+08:00 ] 127.0.0.1 /a/images/bullet1.gif
+ERR: 模板不存在:./Application/Admin/View/default/images.html
+
+[ 2017-08-09T17:02:09+08:00 ] 127.0.0.1 /a/styles.css
+ERR: 模板不存在:./Application/Admin/View/default/styles.html
+
+[ 2017-08-09T17:02:09+08:00 ] 127.0.0.1 /a/images/bg_header.jpg
+ERR: 模板不存在:./Application/Admin/View/default/images.html
+
+[ 2017-08-09T17:02:09+08:00 ] 127.0.0.1 /a/images/bullet1.gif
+ERR: 模板不存在:./Application/Admin/View/default/images.html
+
+[ 2017-08-09T17:02:09+08:00 ] 127.0.0.1 /a/images/bullet2.gif
+ERR: 模板不存在:./Application/Admin/View/default/images.html
+
+[ 2017-08-09T17:02:10+08:00 ] 127.0.0.1 /a/images/bullet2.gif
+ERR: 模板不存在:./Application/Admin/View/default/images.html
+
+[ 2017-08-09T17:02:41+08:00 ] 127.0.0.1 /a/styles.css
+ERR: 模板不存在:./Application/Admin/View/default/styles.html
+
+[ 2017-08-09T17:02:41+08:00 ] 127.0.0.1 /a/images/bullet2.gif
+ERR: 模板不存在:./Application/Admin/View/default/images.html
+
+[ 2017-08-09T17:02:41+08:00 ] 127.0.0.1 /a/images/bg_header.jpg
+ERR: 模板不存在:./Application/Admin/View/default/images.html
+
+[ 2017-08-09T17:02:42+08:00 ] 127.0.0.1 /a/styles.css
+ERR: 模板不存在:./Application/Admin/View/default/styles.html
+
+[ 2017-08-09T17:02:42+08:00 ] 127.0.0.1 /a/images/bg_header.jpg
+ERR: 模板不存在:./Application/Admin/View/default/images.html
+
+[ 2017-08-09T17:02:42+08:00 ] 127.0.0.1 /a/images/bullet1.gif
+ERR: 模板不存在:./Application/Admin/View/default/images.html
+
+[ 2017-08-09T17:02:42+08:00 ] 127.0.0.1 /a/images/bullet1.gif
+ERR: 模板不存在:./Application/Admin/View/default/images.html
+
+[ 2017-08-09T17:02:43+08:00 ] 127.0.0.1 /a/images/bullet2.gif
+ERR: 模板不存在:./Application/Admin/View/default/images.html
+
+[ 2017-08-09T17:02:54+08:00 ] 127.0.0.1 /a/styles.css
+ERR: 模板不存在:./Application/Admin/View/default/styles.html
+
+[ 2017-08-09T17:02:54+08:00 ] 127.0.0.1 /a/images/bg_header.jpg
+ERR: 模板不存在:./Application/Admin/View/default/images.html
+
+[ 2017-08-09T17:02:55+08:00 ] 127.0.0.1 /a/images/bullet1.gif
+ERR: 模板不存在:./Application/Admin/View/default/images.html
+
+[ 2017-08-09T17:02:55+08:00 ] 127.0.0.1 /a/images/bullet2.gif
+ERR: 模板不存在:./Application/Admin/View/default/images.html
+
+[ 2017-08-09T17:03:05+08:00 ] 127.0.0.1 /a/styles.css
+ERR: 模板不存在:./Application/Admin/View/default/styles.html
+
+[ 2017-08-09T17:03:05+08:00 ] 127.0.0.1 /a/images/bg_header.jpg
+ERR: 模板不存在:./Application/Admin/View/default/images.html
+
+[ 2017-08-09T17:03:05+08:00 ] 127.0.0.1 /a/images/bullet1.gif
+ERR: 模板不存在:./Application/Admin/View/default/images.html
+
+[ 2017-08-09T17:03:06+08:00 ] 127.0.0.1 /a/images/bullet2.gif
+ERR: 模板不存在:./Application/Admin/View/default/images.html
+
+[ 2017-08-09T17:03:53+08:00 ] 127.0.0.1 /a/styles.css
+ERR: 模板不存在:./Application/Admin/View/default/styles.html
+
+[ 2017-08-09T17:03:53+08:00 ] 127.0.0.1 /a/images/bg_header.jpg
+ERR: 模板不存在:./Application/Admin/View/default/images.html
+
+[ 2017-08-09T17:03:53+08:00 ] 127.0.0.1 /a/images/bullet1.gif
+ERR: 模板不存在:./Application/Admin/View/default/images.html
+
+[ 2017-08-09T17:03:54+08:00 ] 127.0.0.1 /a/images/bullet2.gif
+ERR: 模板不存在:./Application/Admin/View/default/images.html
+
+[ 2017-08-09T17:04:03+08:00 ] 127.0.0.1 /a/styles.css
+ERR: 模板不存在:./Application/Admin/View/default/styles.html
+
+[ 2017-08-09T17:04:03+08:00 ] 127.0.0.1 /a/images/bullet1.gif
+ERR: 模板不存在:./Application/Admin/View/default/images.html
+
+[ 2017-08-09T17:04:03+08:00 ] 127.0.0.1 /a/images/bg_header.jpg
+ERR: 模板不存在:./Application/Admin/View/default/images.html
+
+[ 2017-08-09T17:04:04+08:00 ] 127.0.0.1 /a/images/bullet2.gif
+ERR: 模板不存在:./Application/Admin/View/default/images.html
+
+[ 2017-08-09T17:05:00+08:00 ] 127.0.0.1 /a/styles.css
+ERR: 模板不存在:./Application/Admin/View/default/styles.html
+
+[ 2017-08-09T17:05:00+08:00 ] 127.0.0.1 /a/images/bg_header.jpg
+ERR: 模板不存在:./Application/Admin/View/default/images.html
+
+[ 2017-08-09T17:05:00+08:00 ] 127.0.0.1 /a/images/bullet1.gif
+ERR: 模板不存在:./Application/Admin/View/default/images.html
+
+[ 2017-08-09T17:05:01+08:00 ] 127.0.0.1 /a/images/bullet2.gif
+ERR: 模板不存在:./Application/Admin/View/default/images.html
+
+[ 2017-08-09T17:05:09+08:00 ] 127.0.0.1 /a/styles.css
+ERR: 模板不存在:./Application/Admin/View/default/styles.html
+
+[ 2017-08-09T17:05:09+08:00 ] 127.0.0.1 /a/images/bg_header.jpg
+ERR: 模板不存在:./Application/Admin/View/default/images.html
+
+[ 2017-08-09T17:05:09+08:00 ] 127.0.0.1 /a/images/bullet2.gif
+ERR: 模板不存在:./Application/Admin/View/default/images.html
+
+[ 2017-08-09T17:05:10+08:00 ] 127.0.0.1 /a/images/bullet1.gif
+ERR: 模板不存在:./Application/Admin/View/default/images.html
+
+[ 2017-08-09T17:05:57+08:00 ] 127.0.0.1 /a/styles.css
+ERR: 模板不存在:./Application/Admin/View/default/styles.html
+
+[ 2017-08-09T17:05:57+08:00 ] 127.0.0.1 /a/images/bullet1.gif
+ERR: 模板不存在:./Application/Admin/View/default/images.html
+
+[ 2017-08-09T17:05:57+08:00 ] 127.0.0.1 /a/images/bg_header.jpg
+ERR: 模板不存在:./Application/Admin/View/default/images.html
+
+[ 2017-08-09T17:05:58+08:00 ] 127.0.0.1 /a/images/bullet2.gif
+ERR: 模板不存在:./Application/Admin/View/default/images.html
+
+[ 2017-08-09T17:07:18+08:00 ] 127.0.0.1 /a/styles.css
+ERR: 模板不存在:./Application/Admin/View/default/styles.html
+
+[ 2017-08-09T17:07:18+08:00 ] 127.0.0.1 /a/images/bg_header.jpg
+ERR: 模板不存在:./Application/Admin/View/default/images.html
+
+[ 2017-08-09T17:07:18+08:00 ] 127.0.0.1 /a/images/bullet2.gif
+ERR: 模板不存在:./Application/Admin/View/default/images.html
+
+[ 2017-08-09T17:07:19+08:00 ] 127.0.0.1 /a/images/bullet1.gif
+ERR: 模板不存在:./Application/Admin/View/default/images.html
+
+[ 2017-08-09T17:07:25+08:00 ] 127.0.0.1 /a/styles.css
+ERR: 模板不存在:./Application/Admin/View/default/styles.html
+
+[ 2017-08-09T17:07:25+08:00 ] 127.0.0.1 /a/images/bullet1.gif
+ERR: 模板不存在:./Application/Admin/View/default/images.html
+
+[ 2017-08-09T17:07:25+08:00 ] 127.0.0.1 /a/images/bg_header.jpg
+ERR: 模板不存在:./Application/Admin/View/default/images.html
+
+[ 2017-08-09T17:07:26+08:00 ] 127.0.0.1 /a/images/bullet2.gif
+ERR: 模板不存在:./Application/Admin/View/default/images.html
+
+[ 2017-08-09T17:07:30+08:00 ] 127.0.0.1 /a/styles.css
+ERR: 模板不存在:./Application/Admin/View/default/styles.html
+
+[ 2017-08-09T17:07:30+08:00 ] 127.0.0.1 /a/images/bg_header.jpg
+ERR: 模板不存在:./Application/Admin/View/default/images.html
+
+[ 2017-08-09T17:07:30+08:00 ] 127.0.0.1 /a/images/bullet1.gif
+ERR: 模板不存在:./Application/Admin/View/default/images.html
+
+[ 2017-08-09T17:07:31+08:00 ] 127.0.0.1 /a/images/bullet2.gif
+ERR: 模板不存在:./Application/Admin/View/default/images.html
+
+[ 2017-08-09T17:07:42+08:00 ] 127.0.0.1 /a/styles.css
+ERR: 模板不存在:./Application/Admin/View/default/styles.html
+
+[ 2017-08-09T17:07:42+08:00 ] 127.0.0.1 /a/images/bullet1.gif
+ERR: 模板不存在:./Application/Admin/View/default/images.html
+
+[ 2017-08-09T17:07:42+08:00 ] 127.0.0.1 /a/images/bullet2.gif
+ERR: 模板不存在:./Application/Admin/View/default/images.html
+
+[ 2017-08-09T17:07:49+08:00 ] 127.0.0.1 /a/styles.css
+ERR: 模板不存在:./Application/Admin/View/default/styles.html
+
+[ 2017-08-09T17:07:49+08:00 ] 127.0.0.1 /a/images/bg_header.jpg
+ERR: 模板不存在:./Application/Admin/View/default/images.html
+
+[ 2017-08-09T17:07:49+08:00 ] 127.0.0.1 /a/images/bullet1.gif
+ERR: 模板不存在:./Application/Admin/View/default/images.html
+
+[ 2017-08-09T17:07:50+08:00 ] 127.0.0.1 /a/images/bullet2.gif
+ERR: 模板不存在:./Application/Admin/View/default/images.html
+
+[ 2017-08-09T17:08:02+08:00 ] 127.0.0.1 /a/styles.css
+ERR: 模板不存在:./Application/Admin/View/default/styles.html
+
+[ 2017-08-09T17:08:02+08:00 ] 127.0.0.1 /a/images/bg_header.jpg
+ERR: 模板不存在:./Application/Admin/View/default/images.html
+
+[ 2017-08-09T17:08:02+08:00 ] 127.0.0.1 /a/images/bullet2.gif
+ERR: 模板不存在:./Application/Admin/View/default/images.html
+
+[ 2017-08-09T17:08:03+08:00 ] 127.0.0.1 /a/images/bullet1.gif
+ERR: 模板不存在:./Application/Admin/View/default/images.html
+
+[ 2017-08-09T17:08:40+08:00 ] 127.0.0.1 /a/styles.css
+ERR: 模板不存在:./Application/Admin/View/default/styles.html
+
+[ 2017-08-09T17:08:40+08:00 ] 127.0.0.1 /a/images/bullet2.gif
+ERR: 模板不存在:./Application/Admin/View/default/images.html
+
+[ 2017-08-09T17:08:40+08:00 ] 127.0.0.1 /a/images/bg_header.jpg
+ERR: 模板不存在:./Application/Admin/View/default/images.html
+
+[ 2017-08-09T17:08:41+08:00 ] 127.0.0.1 /a/images/bullet1.gif
+ERR: 模板不存在:./Application/Admin/View/default/images.html
+
+[ 2017-08-09T17:09:24+08:00 ] 127.0.0.1 /a/styles.css
+ERR: 模板不存在:./Application/Admin/View/default/styles.html
+
+[ 2017-08-09T17:09:24+08:00 ] 127.0.0.1 /a/images/bg_header.jpg
+ERR: 模板不存在:./Application/Admin/View/default/images.html
+
+[ 2017-08-09T17:09:25+08:00 ] 127.0.0.1 /a/images/bullet2.gif
+ERR: 模板不存在:./Application/Admin/View/default/images.html
+
+[ 2017-08-09T17:09:25+08:00 ] 127.0.0.1 /a/images/bullet1.gif
+ERR: 模板不存在:./Application/Admin/View/default/images.html
+
+[ 2017-08-09T17:09:36+08:00 ] 127.0.0.1 /a/styles.css
+ERR: 模板不存在:./Application/Admin/View/default/styles.html
+
+[ 2017-08-09T17:09:36+08:00 ] 127.0.0.1 /a/images/bg_header.jpg
+ERR: 模板不存在:./Application/Admin/View/default/images.html
+
+[ 2017-08-09T17:09:36+08:00 ] 127.0.0.1 /a/images/bullet1.gif
+ERR: 模板不存在:./Application/Admin/View/default/images.html
+
+[ 2017-08-09T17:09:37+08:00 ] 127.0.0.1 /a/images/bullet2.gif
+ERR: 模板不存在:./Application/Admin/View/default/images.html
+
+[ 2017-08-09T17:09:48+08:00 ] 127.0.0.1 /a/styles.css
+ERR: 模板不存在:./Application/Admin/View/default/styles.html
+
+[ 2017-08-09T17:09:48+08:00 ] 127.0.0.1 /a/images/bg_header.jpg
+ERR: 模板不存在:./Application/Admin/View/default/images.html
+
+[ 2017-08-09T17:09:48+08:00 ] 127.0.0.1 /a/images/bullet1.gif
+ERR: 模板不存在:./Application/Admin/View/default/images.html
+
+[ 2017-08-09T17:09:49+08:00 ] 127.0.0.1 /a/images/bullet2.gif
+ERR: 模板不存在:./Application/Admin/View/default/images.html
+
+[ 2017-08-09T17:09:56+08:00 ] 127.0.0.1 /a/styles.css
+ERR: 模板不存在:./Application/Admin/View/default/styles.html
+
+[ 2017-08-09T17:09:56+08:00 ] 127.0.0.1 /a/images/bg_header.jpg
+ERR: 模板不存在:./Application/Admin/View/default/images.html
+
+[ 2017-08-09T17:09:56+08:00 ] 127.0.0.1 /a/images/bullet1.gif
+ERR: 模板不存在:./Application/Admin/View/default/images.html
+
+[ 2017-08-09T17:09:57+08:00 ] 127.0.0.1 /a/images/bullet2.gif
+ERR: 模板不存在:./Application/Admin/View/default/images.html
+
+[ 2017-08-09T17:11:05+08:00 ] 127.0.0.1 /a/styles.css
+ERR: 模板不存在:./Application/Admin/View/default/styles.html
+
+[ 2017-08-09T17:11:05+08:00 ] 127.0.0.1 /a/images/bg_header.jpg
+ERR: 模板不存在:./Application/Admin/View/default/images.html
+
+[ 2017-08-09T17:11:05+08:00 ] 127.0.0.1 /a/images/bullet1.gif
+ERR: 模板不存在:./Application/Admin/View/default/images.html
+
+[ 2017-08-09T17:11:06+08:00 ] 127.0.0.1 /a/images/bullet2.gif
+ERR: 模板不存在:./Application/Admin/View/default/images.html
+
+[ 2017-08-09T17:11:18+08:00 ] 127.0.0.1 /a/styles.css
+ERR: 模板不存在:./Application/Admin/View/default/styles.html
+
+[ 2017-08-09T17:11:18+08:00 ] 127.0.0.1 /a/images/bg_header.jpg
+ERR: 模板不存在:./Application/Admin/View/default/images.html
+
+[ 2017-08-09T17:11:18+08:00 ] 127.0.0.1 /a/images/bullet1.gif
+ERR: 模板不存在:./Application/Admin/View/default/images.html
+
+[ 2017-08-09T17:11:19+08:00 ] 127.0.0.1 /a/images/bullet2.gif
+ERR: 模板不存在:./Application/Admin/View/default/images.html
+
+[ 2017-08-09T17:12:29+08:00 ] 127.0.0.1 /a/styles.css
+ERR: 模板不存在:./Application/Admin/View/default/styles.html
+
+[ 2017-08-09T17:12:29+08:00 ] 127.0.0.1 /a/images/bg_header.jpg
+ERR: 模板不存在:./Application/Admin/View/default/images.html
+
+[ 2017-08-09T17:12:29+08:00 ] 127.0.0.1 /a/images/bullet1.gif
+ERR: 模板不存在:./Application/Admin/View/default/images.html
+
+[ 2017-08-09T17:12:30+08:00 ] 127.0.0.1 /a/images/bullet2.gif
+ERR: 模板不存在:./Application/Admin/View/default/images.html
+
+[ 2017-08-09T17:12:30+08:00 ] 127.0.0.1 /a/styles.css
+ERR: 模板不存在:./Application/Admin/View/default/styles.html
+
+[ 2017-08-09T17:12:30+08:00 ] 127.0.0.1 /a/images/bg_header.jpg
+ERR: 模板不存在:./Application/Admin/View/default/images.html
+
+[ 2017-08-09T17:12:30+08:00 ] 127.0.0.1 /a/images/bullet1.gif
+ERR: 模板不存在:./Application/Admin/View/default/images.html
+
+[ 2017-08-09T17:12:31+08:00 ] 127.0.0.1 /a/images/bullet2.gif
+ERR: 模板不存在:./Application/Admin/View/default/images.html
+
+[ 2017-08-09T17:12:31+08:00 ] 127.0.0.1 /a/styles.css
+ERR: 模板不存在:./Application/Admin/View/default/styles.html
+
+[ 2017-08-09T17:12:31+08:00 ] 127.0.0.1 /a/images/bullet1.gif
+ERR: 模板不存在:./Application/Admin/View/default/images.html
+
+[ 2017-08-09T17:12:31+08:00 ] 127.0.0.1 /a/images/bg_header.jpg
+ERR: 模板不存在:./Application/Admin/View/default/images.html
+
+[ 2017-08-09T17:12:32+08:00 ] 127.0.0.1 /a/images/bullet2.gif
+ERR: 模板不存在:./Application/Admin/View/default/images.html
+
+[ 2017-08-09T17:12:32+08:00 ] 127.0.0.1 /a/styles.css
+ERR: 模板不存在:./Application/Admin/View/default/styles.html
+
+[ 2017-08-09T17:12:33+08:00 ] 127.0.0.1 /a/images/bullet1.gif
+ERR: 模板不存在:./Application/Admin/View/default/images.html
+
+[ 2017-08-09T17:12:33+08:00 ] 127.0.0.1 /a/images/bg_header.jpg
+ERR: 模板不存在:./Application/Admin/View/default/images.html
+
+[ 2017-08-09T17:12:34+08:00 ] 127.0.0.1 /a/images/bullet2.gif
+ERR: 模板不存在:./Application/Admin/View/default/images.html
+
+[ 2017-08-09T17:12:34+08:00 ] 127.0.0.1 /a/styles.css
+ERR: 模板不存在:./Application/Admin/View/default/styles.html
+
+[ 2017-08-09T17:12:34+08:00 ] 127.0.0.1 /a/images/bg_header.jpg
+ERR: 模板不存在:./Application/Admin/View/default/images.html
+
+[ 2017-08-09T17:12:34+08:00 ] 127.0.0.1 /a/images/bullet1.gif
+ERR: 模板不存在:./Application/Admin/View/default/images.html
+
+[ 2017-08-09T17:12:35+08:00 ] 127.0.0.1 /a/images/bullet2.gif
+ERR: 模板不存在:./Application/Admin/View/default/images.html
+
+[ 2017-08-09T17:12:35+08:00 ] 127.0.0.1 /a/styles.css
+ERR: 模板不存在:./Application/Admin/View/default/styles.html
+
+[ 2017-08-09T17:12:35+08:00 ] 127.0.0.1 /a/images/bullet1.gif
+ERR: 模板不存在:./Application/Admin/View/default/images.html
+
+[ 2017-08-09T17:12:35+08:00 ] 127.0.0.1 /a/images/bg_header.jpg
+ERR: 模板不存在:./Application/Admin/View/default/images.html
+
+[ 2017-08-09T17:12:36+08:00 ] 127.0.0.1 /a/images/bullet2.gif
+ERR: 模板不存在:./Application/Admin/View/default/images.html
+
+[ 2017-08-09T17:12:36+08:00 ] 127.0.0.1 /a/styles.css
+ERR: 模板不存在:./Application/Admin/View/default/styles.html
+
+[ 2017-08-09T17:12:36+08:00 ] 127.0.0.1 /a/images/bg_header.jpg
+ERR: 模板不存在:./Application/Admin/View/default/images.html
+
+[ 2017-08-09T17:12:36+08:00 ] 127.0.0.1 /a/images/bullet1.gif
+ERR: 模板不存在:./Application/Admin/View/default/images.html
+
+[ 2017-08-09T17:12:37+08:00 ] 127.0.0.1 /a/images/bullet2.gif
+ERR: 模板不存在:./Application/Admin/View/default/images.html
+
+[ 2017-08-09T17:12:37+08:00 ] 127.0.0.1 /a/styles.css
+ERR: 模板不存在:./Application/Admin/View/default/styles.html
+
+[ 2017-08-09T17:12:37+08:00 ] 127.0.0.1 /a/images/bg_header.jpg
+ERR: 模板不存在:./Application/Admin/View/default/images.html
+
+[ 2017-08-09T17:12:37+08:00 ] 127.0.0.1 /a/images/bullet1.gif
+ERR: 模板不存在:./Application/Admin/View/default/images.html
+
+[ 2017-08-09T17:12:38+08:00 ] 127.0.0.1 /a/images/bullet2.gif
+ERR: 模板不存在:./Application/Admin/View/default/images.html
+
+[ 2017-08-09T17:12:38+08:00 ] 127.0.0.1 /a/styles.css
+ERR: 模板不存在:./Application/Admin/View/default/styles.html
+
+[ 2017-08-09T17:12:38+08:00 ] 127.0.0.1 /a/images/bullet1.gif
+ERR: 模板不存在:./Application/Admin/View/default/images.html
+
+[ 2017-08-09T17:12:38+08:00 ] 127.0.0.1 /a/images/bg_header.jpg
+ERR: 模板不存在:./Application/Admin/View/default/images.html
+
+[ 2017-08-09T17:12:39+08:00 ] 127.0.0.1 /a/images/bullet2.gif
+ERR: 模板不存在:./Application/Admin/View/default/images.html
+
+[ 2017-08-09T17:12:39+08:00 ] 127.0.0.1 /a/styles.css
+ERR: 模板不存在:./Application/Admin/View/default/styles.html
+
+[ 2017-08-09T17:12:39+08:00 ] 127.0.0.1 /a/images/bg_header.jpg
+ERR: 模板不存在:./Application/Admin/View/default/images.html
+
+[ 2017-08-09T17:12:39+08:00 ] 127.0.0.1 /a/images/bullet1.gif
+ERR: 模板不存在:./Application/Admin/View/default/images.html
+
+[ 2017-08-09T17:12:40+08:00 ] 127.0.0.1 /a/images/bullet2.gif
+ERR: 模板不存在:./Application/Admin/View/default/images.html
+
+[ 2017-08-09T17:12:40+08:00 ] 127.0.0.1 /a/styles.css
+ERR: 模板不存在:./Application/Admin/View/default/styles.html
+
+[ 2017-08-09T17:12:40+08:00 ] 127.0.0.1 /a/images/bg_header.jpg
+ERR: 模板不存在:./Application/Admin/View/default/images.html
+
+[ 2017-08-09T17:12:40+08:00 ] 127.0.0.1 /a/images/bullet1.gif
+ERR: 模板不存在:./Application/Admin/View/default/images.html
+
+[ 2017-08-09T17:12:41+08:00 ] 127.0.0.1 /a/images/bullet2.gif
+ERR: 模板不存在:./Application/Admin/View/default/images.html
+
+[ 2017-08-09T17:12:41+08:00 ] 127.0.0.1 /a/styles.css
+ERR: 模板不存在:./Application/Admin/View/default/styles.html
+
+[ 2017-08-09T17:12:41+08:00 ] 127.0.0.1 /a/images/bg_header.jpg
+ERR: 模板不存在:./Application/Admin/View/default/images.html
+
+[ 2017-08-09T17:12:41+08:00 ] 127.0.0.1 /a/images/bullet1.gif
+ERR: 模板不存在:./Application/Admin/View/default/images.html
+
+[ 2017-08-09T17:12:42+08:00 ] 127.0.0.1 /a/images/bullet2.gif
+ERR: 模板不存在:./Application/Admin/View/default/images.html
+
+[ 2017-08-09T17:12:42+08:00 ] 127.0.0.1 /a/styles.css
+ERR: 模板不存在:./Application/Admin/View/default/styles.html
+
+[ 2017-08-09T17:12:42+08:00 ] 127.0.0.1 /a/images/bullet1.gif
+ERR: 模板不存在:./Application/Admin/View/default/images.html
+
+[ 2017-08-09T17:12:42+08:00 ] 127.0.0.1 /a/images/bg_header.jpg
+ERR: 模板不存在:./Application/Admin/View/default/images.html
+
+[ 2017-08-09T17:12:43+08:00 ] 127.0.0.1 /a/images/bullet2.gif
+ERR: 模板不存在:./Application/Admin/View/default/images.html
+
+[ 2017-08-09T17:12:43+08:00 ] 127.0.0.1 /a/styles.css
+ERR: 模板不存在:./Application/Admin/View/default/styles.html
+
+[ 2017-08-09T17:12:43+08:00 ] 127.0.0.1 /a/images/bullet1.gif
+ERR: 模板不存在:./Application/Admin/View/default/images.html
+
+[ 2017-08-09T17:12:43+08:00 ] 127.0.0.1 /a/images/bg_header.jpg
+ERR: 模板不存在:./Application/Admin/View/default/images.html
+
+[ 2017-08-09T17:12:44+08:00 ] 127.0.0.1 /a/images/bullet2.gif
+ERR: 模板不存在:./Application/Admin/View/default/images.html
+
+[ 2017-08-09T17:35:43+08:00 ] 127.0.0.1 /a/styles.css
+ERR: 模板不存在:./Application/Admin/View/default/styles.html
+
+[ 2017-08-09T17:35:43+08:00 ] 127.0.0.1 /a/images/bg_header.jpg
+ERR: 模板不存在:./Application/Admin/View/default/images.html
+
+[ 2017-08-09T17:35:44+08:00 ] 127.0.0.1 /a/images/bullet1.gif
+ERR: 模板不存在:./Application/Admin/View/default/images.html
+
+[ 2017-08-09T17:35:44+08:00 ] 127.0.0.1 /a/images/bullet2.gif
+ERR: 模板不存在:./Application/Admin/View/default/images.html
+
+[ 2017-08-09T17:36:45+08:00 ] 127.0.0.1 /a/css/bootstrap.min.css
+ERR: 模板不存在:./Application/Admin/View/default/css.html
+
+[ 2017-08-09T17:36:45+08:00 ] 127.0.0.1 /a/plugin/layui/css/layui.css
+ERR: 模板不存在:./Application/Admin/View/default/plugin.html
+
+[ 2017-08-09T17:36:46+08:00 ] 127.0.0.1 /a/plugin/layui/layui.js
+ERR: 模板不存在:./Application/Admin/View/default/plugin.html
+
+[ 2017-08-09T17:36:46+08:00 ] 127.0.0.1 /a/js/bootstrap.min.js
+ERR: 模板不存在:./Application/Admin/View/default/js.html
+
+[ 2017-08-09T17:36:46+08:00 ] 127.0.0.1 /a/plugin/layui/layui.js
+ERR: 模板不存在:./Application/Admin/View/default/plugin.html
+
+[ 2017-08-09T17:36:47+08:00 ] 127.0.0.1 /a/plugin/layui/layui.js
+ERR: 模板不存在:./Application/Admin/View/default/plugin.html
+
+[ 2017-08-09T17:37:22+08:00 ] 127.0.0.1 /a/styles.css
+ERR: 模板不存在:./Application/Admin/View/default/styles.html
+
+[ 2017-08-09T17:37:22+08:00 ] 127.0.0.1 /a/styles.css
+ERR: 模板不存在:./Application/Admin/View/default/styles.html
+
+[ 2017-08-09T17:37:23+08:00 ] 127.0.0.1 /a/styles.css
+ERR: 模板不存在:./Application/Admin/View/default/styles.html
+
+[ 2017-08-09T17:37:23+08:00 ] 127.0.0.1 /a/plugin/layui/css/layui.css
+ERR: 模板不存在:./Application/Admin/View/default/plugin.html
+
+[ 2017-08-09T17:37:23+08:00 ] 127.0.0.1 /a/css/bootstrap.min.css
+ERR: 模板不存在:./Application/Admin/View/default/css.html
+
+[ 2017-08-09T17:37:32+08:00 ] 127.0.0.1 /a/styles.css
+ERR: 模板不存在:./Application/Admin/View/default/styles.html
+
+[ 2017-08-09T17:37:32+08:00 ] 127.0.0.1 /a/images/bg_header.jpg
+ERR: 模板不存在:./Application/Admin/View/default/images.html
+
+[ 2017-08-09T17:37:32+08:00 ] 127.0.0.1 /a/images/bullet2.gif
+ERR: 模板不存在:./Application/Admin/View/default/images.html
+
+[ 2017-08-09T17:50:28+08:00 ] 127.0.0.1 /a/styles.css
+ERR: 模板不存在:./Application/Admin/View/default/styles.html
+
+[ 2017-08-09T17:50:28+08:00 ] 127.0.0.1 /a/images/bg_header.jpg
+ERR: 模板不存在:./Application/Admin/View/default/images.html
+
+[ 2017-08-09T17:50:29+08:00 ] 127.0.0.1 /a/images/bullet1.gif
+ERR: 模板不存在:./Application/Admin/View/default/images.html
+
+[ 2017-08-09T17:50:29+08:00 ] 127.0.0.1 /a/images/bullet2.gif
+ERR: 模板不存在:./Application/Admin/View/default/images.html
+
+[ 2017-08-09T17:50:39+08:00 ] 127.0.0.1 /a/styles.css
+ERR: 模板不存在:./Application/Admin/View/default/styles.html
+
+[ 2017-08-09T17:50:39+08:00 ] 127.0.0.1 /a/images/bg_header.jpg
+ERR: 模板不存在:./Application/Admin/View/default/images.html
+
+[ 2017-08-09T17:50:39+08:00 ] 127.0.0.1 /a/images/bullet1.gif
+ERR: 模板不存在:./Application/Admin/View/default/images.html
+
+[ 2017-08-09T17:50:40+08:00 ] 127.0.0.1 /a/images/bullet2.gif
+ERR: 模板不存在:./Application/Admin/View/default/images.html
+
+[ 2017-08-09T17:50:55+08:00 ] 127.0.0.1 /a/styles.css
+ERR: 模板不存在:./Application/Admin/View/default/styles.html
+
+[ 2017-08-09T17:50:55+08:00 ] 127.0.0.1 /a/images/bg_header.jpg
+ERR: 模板不存在:./Application/Admin/View/default/images.html
+
+[ 2017-08-09T17:50:55+08:00 ] 127.0.0.1 /a/images/bullet1.gif
+ERR: 模板不存在:./Application/Admin/View/default/images.html
+
+[ 2017-08-09T17:50:56+08:00 ] 127.0.0.1 /a/images/bullet2.gif
+ERR: 模板不存在:./Application/Admin/View/default/images.html
+
+[ 2017-08-09T17:51:25+08:00 ] 127.0.0.1 /a/styles.css
+ERR: 模板不存在:./Application/Admin/View/default/styles.html
+
+[ 2017-08-09T17:51:25+08:00 ] 127.0.0.1 /a/images/bg_header.jpg
+ERR: 模板不存在:./Application/Admin/View/default/images.html
+
+[ 2017-08-09T17:51:25+08:00 ] 127.0.0.1 /a/images/bullet1.gif
+ERR: 模板不存在:./Application/Admin/View/default/images.html
+
+[ 2017-08-09T17:51:26+08:00 ] 127.0.0.1 /a/images/bullet2.gif
+ERR: 模板不存在:./Application/Admin/View/default/images.html
+
+[ 2017-08-09T17:51:38+08:00 ] 127.0.0.1 /a/styles.css
+ERR: 模板不存在:./Application/Admin/View/default/styles.html
+
+[ 2017-08-09T17:51:38+08:00 ] 127.0.0.1 /a/images/bg_header.jpg
+ERR: 模板不存在:./Application/Admin/View/default/images.html
+
+[ 2017-08-09T17:51:38+08:00 ] 127.0.0.1 /a/images/bullet1.gif
+ERR: 模板不存在:./Application/Admin/View/default/images.html
+
+[ 2017-08-09T17:51:39+08:00 ] 127.0.0.1 /a/images/bullet2.gif
+ERR: 模板不存在:./Application/Admin/View/default/images.html
+
+[ 2017-08-09T17:52:12+08:00 ] 127.0.0.1 /a/styles.css
+ERR: 模板不存在:./Application/Admin/View/default/styles.html
+
+[ 2017-08-09T17:52:12+08:00 ] 127.0.0.1 /a/images/bg_header.jpg
+ERR: 模板不存在:./Application/Admin/View/default/images.html
+
+[ 2017-08-09T17:52:13+08:00 ] 127.0.0.1 /a/images/bullet1.gif
+ERR: 模板不存在:./Application/Admin/View/default/images.html
+
+[ 2017-08-09T17:52:13+08:00 ] 127.0.0.1 /a/images/bullet2.gif
+ERR: 模板不存在:./Application/Admin/View/default/images.html
+
+[ 2017-08-09T17:53:46+08:00 ] 127.0.0.1 /a/datalist.html
+ERR: syntax error, unexpected '}', expecting ';'
+
+[ 2017-08-09T17:53:56+08:00 ] 127.0.0.1 /a/styles.css
+ERR: 模板不存在:./Application/Admin/View/default/styles.html
+
+[ 2017-08-09T17:53:56+08:00 ] 127.0.0.1 /a/images/bg_header.jpg
+ERR: 模板不存在:./Application/Admin/View/default/images.html
+
+[ 2017-08-09T17:53:56+08:00 ] 127.0.0.1 /a/images/bullet1.gif
+ERR: 模板不存在:./Application/Admin/View/default/images.html
+
+[ 2017-08-09T17:53:57+08:00 ] 127.0.0.1 /a/images/bullet2.gif
+ERR: 模板不存在:./Application/Admin/View/default/images.html
+
+[ 2017-08-09T18:10:27+08:00 ] 127.0.0.1 /a/datalist.html
+ERR: syntax error, unexpected '$show' (T_VARIABLE), expecting ',' or ')'
+
+[ 2017-08-09T18:10:35+08:00 ] 127.0.0.1 /a/datalist.html
+ERR: syntax error, unexpected '$show' (T_VARIABLE), expecting ',' or ')'
+
+[ 2017-08-09T18:10:48+08:00 ] 127.0.0.1 /a/datalist.html
+ERR: syntax error, unexpected ';'
+
+[ 2017-08-09T18:11:14+08:00 ] 127.0.0.1 /a/styles.css
+ERR: 模板不存在:./Application/Admin/View/default/styles.html
+
+[ 2017-08-09T18:11:15+08:00 ] 127.0.0.1 /a/images/bg_header.jpg
+ERR: 模板不存在:./Application/Admin/View/default/images.html
+
+[ 2017-08-09T18:11:16+08:00 ] 127.0.0.1 /a/images/bullet1.gif
+ERR: 模板不存在:./Application/Admin/View/default/images.html
+
+[ 2017-08-09T18:11:16+08:00 ] 127.0.0.1 /a/images/bullet2.gif
+ERR: 模板不存在:./Application/Admin/View/default/images.html
+
+[ 2017-08-09T18:12:57+08:00 ] 127.0.0.1 /a/styles.css
+ERR: 模板不存在:./Application/Admin/View/default/styles.html
+
+[ 2017-08-09T18:12:57+08:00 ] 127.0.0.1 /a/images/bg_header.jpg
+ERR: 模板不存在:./Application/Admin/View/default/images.html
+
+[ 2017-08-09T18:12:57+08:00 ] 127.0.0.1 /a/images/bullet1.gif
+ERR: 模板不存在:./Application/Admin/View/default/images.html
+
+[ 2017-08-09T18:12:58+08:00 ] 127.0.0.1 /a/images/bullet2.gif
+ERR: 模板不存在:./Application/Admin/View/default/images.html
+
+[ 2017-08-09T18:13:12+08:00 ] 127.0.0.1 /a/styles.css
+ERR: 模板不存在:./Application/Admin/View/default/styles.html
+
+[ 2017-08-09T18:13:12+08:00 ] 127.0.0.1 /a/images/bg_header.jpg
+ERR: 模板不存在:./Application/Admin/View/default/images.html
+
+[ 2017-08-09T18:13:12+08:00 ] 127.0.0.1 /a/images/bullet1.gif
+ERR: 模板不存在:./Application/Admin/View/default/images.html
+
+[ 2017-08-09T18:13:13+08:00 ] 127.0.0.1 /a/images/bullet2.gif
+ERR: 模板不存在:./Application/Admin/View/default/images.html
+
+[ 2017-08-09T18:13:31+08:00 ] 127.0.0.1 /a/styles.css
+ERR: 模板不存在:./Application/Admin/View/default/styles.html
+
+[ 2017-08-09T18:13:31+08:00 ] 127.0.0.1 /a/images/bg_header.jpg
+ERR: 模板不存在:./Application/Admin/View/default/images.html
+
+[ 2017-08-09T18:13:31+08:00 ] 127.0.0.1 /a/images/bullet2.gif
+ERR: 模板不存在:./Application/Admin/View/default/images.html
+
+[ 2017-08-09T18:13:32+08:00 ] 127.0.0.1 /a/images/bullet1.gif
+ERR: 模板不存在:./Application/Admin/View/default/images.html
+
+[ 2017-08-09T18:14:30+08:00 ] 127.0.0.1 /a/article
+ERR: 模板不存在:./Application/Admin/View/default/article.html
+
+[ 2017-08-09T18:14:51+08:00 ] 127.0.0.1 /a/article
+ERR: 模板不存在:./Application/Admin/View/default/article.html
+
+[ 2017-08-09T18:14:52+08:00 ] 127.0.0.1 /a/article
+ERR: 模板不存在:./Application/Admin/View/default/article.html
+
+[ 2017-08-09T18:15:02+08:00 ] 127.0.0.1 /a/article
+ERR: 模板不存在:./Application/Admin/View/default/article.html
+
+[ 2017-08-09T18:15:03+08:00 ] 127.0.0.1 /a/article
+ERR: 模板不存在:./Application/Admin/View/default/article.html
+
+[ 2017-08-09T18:15:27+08:00 ] 127.0.0.1 /a/article
+ERR: 模板不存在:./Application/Admin/View/default/article.html
+
+[ 2017-08-09T18:15:28+08:00 ] 127.0.0.1 /a/article
+ERR: 模板不存在:./Application/Admin/View/default/article.html
+
+[ 2017-08-09T18:15:28+08:00 ] 127.0.0.1 /a/article
+ERR: 模板不存在:./Application/Admin/View/default/article.html
+
+[ 2017-08-09T18:15:28+08:00 ] 127.0.0.1 /a/article
+ERR: 模板不存在:./Application/Admin/View/default/article.html
+
+[ 2017-08-09T18:15:37+08:00 ] 127.0.0.1 /a/article
+ERR: 模板不存在:./Application/Admin/View/default/article.html
+
+[ 2017-08-09T18:15:37+08:00 ] 127.0.0.1 /a/article
+ERR: 模板不存在:./Application/Admin/View/default/article.html
+
+[ 2017-08-09T18:15:37+08:00 ] 127.0.0.1 /a/article
+ERR: 模板不存在:./Application/Admin/View/default/article.html
+
+[ 2017-08-09T18:15:37+08:00 ] 127.0.0.1 /a/article
+ERR: 模板不存在:./Application/Admin/View/default/article.html
+
+[ 2017-08-09T18:15:37+08:00 ] 127.0.0.1 /a/article
+ERR: 模板不存在:./Application/Admin/View/default/article.html
+
+[ 2017-08-09T18:15:44+08:00 ] 127.0.0.1 /a/article
+ERR: 模板不存在:./Application/Admin/View/default/article.html
+
+[ 2017-08-09T18:15:44+08:00 ] 127.0.0.1 /a/article
+ERR: 模板不存在:./Application/Admin/View/default/article.html
+
+[ 2017-08-09T18:15:44+08:00 ] 127.0.0.1 /a/article
+ERR: 模板不存在:./Application/Admin/View/default/article.html
+
+[ 2017-08-09T18:15:57+08:00 ] 127.0.0.1 /a/article
+ERR: 模板不存在:./Application/Admin/View/default/article.html
+
+[ 2017-08-09T18:15:58+08:00 ] 127.0.0.1 /a/article
+ERR: 模板不存在:./Application/Admin/View/default/article.html
+
+[ 2017-08-09T18:15:58+08:00 ] 127.0.0.1 /a/article
+ERR: 模板不存在:./Application/Admin/View/default/article.html
+
+[ 2017-08-09T18:15:58+08:00 ] 127.0.0.1 /a/article
+ERR: 模板不存在:./Application/Admin/View/default/article.html
+
+[ 2017-08-09T18:15:58+08:00 ] 127.0.0.1 /a/article
+ERR: 模板不存在:./Application/Admin/View/default/article.html
+
+[ 2017-08-09T18:16:48+08:00 ] 127.0.0.1 /a/article
+ERR: 模板不存在:./Application/Admin/View/default/article.html
+
+[ 2017-08-09T18:16:49+08:00 ] 127.0.0.1 /a/article
+ERR: 模板不存在:./Application/Admin/View/default/article.html
+
+[ 2017-08-09T18:16:49+08:00 ] 127.0.0.1 /a/article
+ERR: 模板不存在:./Application/Admin/View/default/article.html
+
+[ 2017-08-09T18:16:49+08:00 ] 127.0.0.1 /a/article
+ERR: 模板不存在:./Application/Admin/View/default/article.html
+
+[ 2017-08-09T18:16:54+08:00 ] 127.0.0.1 /a/article
+ERR: 模板不存在:./Application/Admin/View/default/article.html
+
+[ 2017-08-09T18:16:58+08:00 ] 127.0.0.1 /a/article
+ERR: 模板不存在:./Application/Admin/View/default/article.html
+

@@ -1,0 +1,678 @@
+[ 2017-08-11T09:13:34+08:00 ] 127.0.0.1 /a/css/bootstrap.min.css
+ERR: 模板不存在:./Application/Admin/View/default/css.html
+
+[ 2017-08-11T09:13:35+08:00 ] 127.0.0.1 /a/plugin/layui/css/layui.css
+ERR: 模板不存在:./Application/Admin/View/default/plugin.html
+
+[ 2017-08-11T09:13:35+08:00 ] 127.0.0.1 /a/plugin/layui/layui.js
+ERR: 模板不存在:./Application/Admin/View/default/plugin.html
+
+[ 2017-08-11T09:13:35+08:00 ] 127.0.0.1 /a/js/bootstrap.min.js
+ERR: 模板不存在:./Application/Admin/View/default/js.html
+
+[ 2017-08-11T09:13:35+08:00 ] 127.0.0.1 /a/plugin/layui/layui.js
+ERR: 模板不存在:./Application/Admin/View/default/plugin.html
+
+[ 2017-08-11T09:18:47+08:00 ] 127.0.0.1 /a/plugin/layui/layui.js
+ERR: 模板不存在:./Application/Admin/View/default/plugin.html
+
+[ 2017-08-11T09:32:30+08:00 ] 127.0.0.1 /a/images/bg_header.jpg
+ERR: 模板不存在:./Application/Admin/View/default/images.html
+
+[ 2017-08-11T09:32:31+08:00 ] 127.0.0.1 /a/images/bullet1.gif
+ERR: 模板不存在:./Application/Admin/View/default/images.html
+
+[ 2017-08-11T09:32:35+08:00 ] 127.0.0.1 /a/images/bg_header.jpg
+ERR: 模板不存在:./Application/Admin/View/default/images.html
+
+[ 2017-08-11T09:32:36+08:00 ] 127.0.0.1 /a/images/bullet1.gif
+ERR: 模板不存在:./Application/Admin/View/default/images.html
+
+[ 2017-08-11T09:32:37+08:00 ] 127.0.0.1 /a/images/bg_header.jpg
+ERR: 模板不存在:./Application/Admin/View/default/images.html
+
+[ 2017-08-11T09:32:38+08:00 ] 127.0.0.1 /a/images/bullet1.gif
+ERR: 模板不存在:./Application/Admin/View/default/images.html
+
+[ 2017-08-11T09:32:41+08:00 ] 127.0.0.1 /a/images/bg_header.jpg
+ERR: 模板不存在:./Application/Admin/View/default/images.html
+
+[ 2017-08-11T09:32:42+08:00 ] 127.0.0.1 /a/images/bullet1.gif
+ERR: 模板不存在:./Application/Admin/View/default/images.html
+
+[ 2017-08-11T09:37:34+08:00 ] 127.0.0.1 /Admin/Request/add
+ERR: 非法操作:add
+
+[ 2017-08-11T13:54:28+08:00 ] 127.0.0.1 /a/images/bg_header.jpg
+ERR: 模板不存在:./Application/Admin/View/default/images.html
+
+[ 2017-08-11T13:54:29+08:00 ] 127.0.0.1 /a/images/bullet1.gif
+ERR: 模板不存在:./Application/Admin/View/default/images.html
+
+[ 2017-08-11T13:59:48+08:00 ] 127.0.0.1 /a/images/bg_header.jpg
+ERR: 模板不存在:./Application/Admin/View/default/images.html
+
+[ 2017-08-11T13:59:49+08:00 ] 127.0.0.1 /a/images/bullet1.gif
+ERR: 模板不存在:./Application/Admin/View/default/images.html
+
+[ 2017-08-11T13:59:50+08:00 ] 127.0.0.1 /a/images/bg_header.jpg
+ERR: 模板不存在:./Application/Admin/View/default/images.html
+
+[ 2017-08-11T13:59:50+08:00 ] 127.0.0.1 /a/images/bullet1.gif
+ERR: 模板不存在:./Application/Admin/View/default/images.html
+
+[ 2017-08-11T13:59:53+08:00 ] 127.0.0.1 /a/images/bullet1.gif
+ERR: 模板不存在:./Application/Admin/View/default/images.html
+
+[ 2017-08-11T13:59:54+08:00 ] 127.0.0.1 /a/images/bg_header.jpg
+ERR: 模板不存在:./Application/Admin/View/default/images.html
+
+[ 2017-08-11T13:59:58+08:00 ] 127.0.0.1 /a/images/bg_header.jpg
+ERR: 模板不存在:./Application/Admin/View/default/images.html
+
+[ 2017-08-11T13:59:59+08:00 ] 127.0.0.1 /a/images/bullet1.gif
+ERR: 模板不存在:./Application/Admin/View/default/images.html
+
+[ 2017-08-11T13:59:59+08:00 ] 127.0.0.1 /a/images/bullet1.gif
+ERR: 模板不存在:./Application/Admin/View/default/images.html
+
+[ 2017-08-11T14:00:00+08:00 ] 127.0.0.1 /a/images/bg_header.jpg
+ERR: 模板不存在:./Application/Admin/View/default/images.html
+
+[ 2017-08-11T14:00:03+08:00 ] 127.0.0.1 /a/images/bg_header.jpg
+ERR: 模板不存在:./Application/Admin/View/default/images.html
+
+[ 2017-08-11T14:00:03+08:00 ] 127.0.0.1 /a/images/bullet1.gif
+ERR: 模板不存在:./Application/Admin/View/default/images.html
+
+[ 2017-08-11T14:00:04+08:00 ] 127.0.0.1 /a/images/bg_header.jpg
+ERR: 模板不存在:./Application/Admin/View/default/images.html
+
+[ 2017-08-11T14:00:04+08:00 ] 127.0.0.1 /a/images/bullet1.gif
+ERR: 模板不存在:./Application/Admin/View/default/images.html
+
+[ 2017-08-11T14:00:04+08:00 ] 127.0.0.1 /a/images/bg_header.jpg
+ERR: 模板不存在:./Application/Admin/View/default/images.html
+
+[ 2017-08-11T14:00:05+08:00 ] 127.0.0.1 /a/images/bullet1.gif
+ERR: 模板不存在:./Application/Admin/View/default/images.html
+
+[ 2017-08-11T14:05:23+08:00 ] 127.0.0.1 /a/images/bg_header.jpg
+ERR: 模板不存在:./Application/Admin/View/default/images.html
+
+[ 2017-08-11T14:05:24+08:00 ] 127.0.0.1 /a/images/bullet1.gif
+ERR: 模板不存在:./Application/Admin/View/default/images.html
+
+[ 2017-08-11T14:07:16+08:00 ] 127.0.0.1 /a/images/bg_header.jpg
+ERR: 模板不存在:./Application/Admin/View/default/images.html
+
+[ 2017-08-11T14:07:17+08:00 ] 127.0.0.1 /a/images/bg_header.jpg
+ERR: 模板不存在:./Application/Admin/View/default/images.html
+
+[ 2017-08-11T14:07:32+08:00 ] 127.0.0.1 /a/images/bg_header.jpg
+ERR: 模板不存在:./Application/Admin/View/default/images.html
+
+[ 2017-08-11T14:07:33+08:00 ] 127.0.0.1 /a/images/bullet1.gif
+ERR: 模板不存在:./Application/Admin/View/default/images.html
+
+[ 2017-08-11T14:08:04+08:00 ] 127.0.0.1 /a/images/bg_header.jpg
+ERR: 模板不存在:./Application/Admin/View/default/images.html
+
+[ 2017-08-11T14:08:05+08:00 ] 127.0.0.1 /a/images/bg_header.jpg
+ERR: 模板不存在:./Application/Admin/View/default/images.html
+
+[ 2017-08-11T14:08:24+08:00 ] 127.0.0.1 /a/images/bg_header.jpg
+ERR: 模板不存在:./Application/Admin/View/default/images.html
+
+[ 2017-08-11T14:08:25+08:00 ] 127.0.0.1 /a/images/bg_header.jpg
+ERR: 模板不存在:./Application/Admin/View/default/images.html
+
+[ 2017-08-11T14:08:35+08:00 ] 127.0.0.1 /a/images/bg_header.jpg
+ERR: 模板不存在:./Application/Admin/View/default/images.html
+
+[ 2017-08-11T14:08:36+08:00 ] 127.0.0.1 /a/images/bg_header.jpg
+ERR: 模板不存在:./Application/Admin/View/default/images.html
+
+[ 2017-08-11T14:09:41+08:00 ] 127.0.0.1 /a/images/bg_header.jpg
+ERR: 模板不存在:./Application/Admin/View/default/images.html
+
+[ 2017-08-11T14:09:42+08:00 ] 127.0.0.1 /a/images/bg_header.jpg
+ERR: 模板不存在:./Application/Admin/View/default/images.html
+
+[ 2017-08-11T14:09:52+08:00 ] 127.0.0.1 /a/images/bg_header.jpg
+ERR: 模板不存在:./Application/Admin/View/default/images.html
+
+[ 2017-08-11T14:09:52+08:00 ] 127.0.0.1 /a/images/bg_header.jpg
+ERR: 模板不存在:./Application/Admin/View/default/images.html
+
+[ 2017-08-11T14:10:08+08:00 ] 127.0.0.1 /a/images/bg_header.jpg
+ERR: 模板不存在:./Application/Admin/View/default/images.html
+
+[ 2017-08-11T14:10:09+08:00 ] 127.0.0.1 /a/images/bg_header.jpg
+ERR: 模板不存在:./Application/Admin/View/default/images.html
+
+[ 2017-08-11T14:10:09+08:00 ] 127.0.0.1 /a/images/bg_header.jpg
+ERR: 模板不存在:./Application/Admin/View/default/images.html
+
+[ 2017-08-11T14:10:10+08:00 ] 127.0.0.1 /a/images/bg_header.jpg
+ERR: 模板不存在:./Application/Admin/View/default/images.html
+
+[ 2017-08-11T14:11:25+08:00 ] 127.0.0.1 /a/images/bg_header.jpg
+ERR: 模板不存在:./Application/Admin/View/default/images.html
+
+[ 2017-08-11T14:12:45+08:00 ] 127.0.0.1 /a/images/bg_header.jpg
+ERR: 模板不存在:./Application/Admin/View/default/images.html
+
+[ 2017-08-11T14:13:47+08:00 ] 127.0.0.1 /a/images/bg_header.jpg
+ERR: 模板不存在:./Application/Admin/View/default/images.html
+
+[ 2017-08-11T14:13:48+08:00 ] 127.0.0.1 /a/images/bg_header.jpg
+ERR: 模板不存在:./Application/Admin/View/default/images.html
+
+[ 2017-08-11T14:13:48+08:00 ] 127.0.0.1 /a/images/bullet1.gif
+ERR: 模板不存在:./Application/Admin/View/default/images.html
+
+[ 2017-08-11T14:13:48+08:00 ] 127.0.0.1 /a/images/bullet1.gif
+ERR: 模板不存在:./Application/Admin/View/default/images.html
+
+[ 2017-08-11T14:17:55+08:00 ] 127.0.0.1 /Admin/Request/index/0/article/1/%E5%88%A0%E9%99%A4/id/2
+ERR: syntax error, unexpected '$k' (T_VARIABLE)
+
+[ 2017-08-11T14:17:56+08:00 ] 127.0.0.1 /Admin/Request/index/0/article/1/%E5%88%A0%E9%99%A4/id/2
+ERR: syntax error, unexpected '$k' (T_VARIABLE)
+
+[ 2017-08-11T14:19:16+08:00 ] 127.0.0.1 /a/images/bullet1.gif
+ERR: 模板不存在:./Application/Admin/View/default/images.html
+
+[ 2017-08-11T14:19:16+08:00 ] 127.0.0.1 /a/images/bg_header.jpg
+ERR: 模板不存在:./Application/Admin/View/default/images.html
+
+[ 2017-08-11T14:19:17+08:00 ] 127.0.0.1 /a/images/bg_header.jpg
+ERR: 模板不存在:./Application/Admin/View/default/images.html
+
+[ 2017-08-11T14:19:17+08:00 ] 127.0.0.1 /a/images/bullet1.gif
+ERR: 模板不存在:./Application/Admin/View/default/images.html
+
+[ 2017-08-11T14:19:19+08:00 ] 127.0.0.1 /a/images/bg_header.jpg
+ERR: 模板不存在:./Application/Admin/View/default/images.html
+
+[ 2017-08-11T14:19:20+08:00 ] 127.0.0.1 /a/images/bg_header.jpg
+ERR: 模板不存在:./Application/Admin/View/default/images.html
+
+[ 2017-08-11T14:19:36+08:00 ] 127.0.0.1 /a/images/bg_header.jpg
+ERR: 模板不存在:./Application/Admin/View/default/images.html
+
+[ 2017-08-11T14:24:57+08:00 ] 127.0.0.1 /Admin/Request/add/id/addarticle
+ERR: 1054:Unknown column 'name' in 'field list'
+ [ SQL语句 ] : INSERT INTO `my_articletype_kevin` (`name`,`article_type`,`text`,`image`) VALUES ('123','0','asdasdsa','123')
+
+[ 2017-08-11T14:39:54+08:00 ] 127.0.0.1 /Admin/Request/add/id/addarticle
+ERR: Call to a member function fetchsql() on string
+
+[ 2017-08-11T14:48:30+08:00 ] 127.0.0.1 /Admin/Request/add/id/addarticle
+ERR: syntax error, unexpected 'product' (T_STRING), expecting ']'
+
+[ 2017-08-11T14:52:35+08:00 ] 127.0.0.1 /Admin/Request/add/id/addarticle
+ERR: Call to a member function other() on string
+
+[ 2017-08-11T15:09:38+08:00 ] 127.0.0.1 /Admin/Request/add/id/addarticle
+ERR: 1054:Unknown column 'article_type' in 'field list'
+ [ SQL语句 ] : INSERT INTO `my_article_kevin` (`article_type`,`image`,`title`,`article`) VALUES ('0','123','123','asdasdsa')
+
+[ 2017-08-11T15:17:56+08:00 ] 127.0.0.1 /Admin/Request/add/id/addarticle
+ERR: Think\Model:filed方法不存在！
+
+[ 2017-08-11T15:20:35+08:00 ] 127.0.0.1 /Admin/Request/add/id/addarticle
+ERR: 1054:Unknown column 'article_type' in 'field list'
+ [ SQL语句 ] : INSERT INTO `my_article_kevin` (`article_type`,`image`,`title`,`article`) VALUES ('0','123','123','asdasdsa')
+
+[ 2017-08-11T15:21:28+08:00 ] 127.0.0.1 /Admin/Request/add/id/addarticle
+ERR: 1054:Unknown column 'article_type' in 'field list'
+ [ SQL语句 ] : INSERT INTO `my_article_kevin` (`article_type`,`image`,`title`,`article`) VALUES ('0','123','123','asdasdsa')
+
+[ 2017-08-11T15:22:25+08:00 ] 127.0.0.1 /Admin/Request/add/id/addarticle
+ERR: Call to a member function add() on array
+
+[ 2017-08-11T15:22:34+08:00 ] 127.0.0.1 /Admin/Request/add/id/addarticle
+ERR: Call to a member function add() on array
+
+[ 2017-08-11T15:22:36+08:00 ] 127.0.0.1 /Admin/Request/add/id/addarticle
+ERR: Call to a member function add() on array
+
+[ 2017-08-11T15:22:46+08:00 ] 127.0.0.1 /Admin/Request/add/id/addarticle
+ERR: Call to a member function add() on array
+
+[ 2017-08-11T15:23:47+08:00 ] 127.0.0.1 /Admin/Request/add/id/addarticle
+ERR: Call to a member function fetchsql() on array
+
+[ 2017-08-11T15:27:25+08:00 ] 127.0.0.1 /Admin/Request/add/id/addarticle
+ERR: syntax error, unexpected end of file
+
+[ 2017-08-11T15:28:36+08:00 ] 127.0.0.1 /Admin/Request/add/id/addarticle
+ERR: syntax error, unexpected '$content' (T_VARIABLE)
+
+[ 2017-08-11T15:28:46+08:00 ] 127.0.0.1 /Admin/Request/add/id/addarticle
+ERR: syntax error, unexpected '$content' (T_VARIABLE)
+
+[ 2017-08-11T16:02:51+08:00 ] 127.0.0.1 /a/article.html
+ERR: 1054:Unknown column 't.type' in 'where clause'
+ [ SQL语句 ] : SELECT a.id,a.title,substring(a.article,1,100),a.image,a.time FROM my_article_kevin a left join my_articlestate_kevin t on t.article_id=a.id  WHERE t.type <> '1' ORDER BY `id` asc 
+
+[ 2017-08-11T16:03:23+08:00 ] 127.0.0.1 /a/images/bg_header.jpg
+ERR: 模板不存在:./Application/Admin/View/default/images.html
+
+[ 2017-08-11T16:03:56+08:00 ] 127.0.0.1 /a/images/bg_header.jpg
+ERR: 模板不存在:./Application/Admin/View/default/images.html
+
+[ 2017-08-11T16:04:35+08:00 ] 127.0.0.1 /a/images/bg_header.jpg
+ERR: 模板不存在:./Application/Admin/View/default/images.html
+
+[ 2017-08-11T16:04:48+08:00 ] 127.0.0.1 /a/images/bg_header.jpg
+ERR: 模板不存在:./Application/Admin/View/default/images.html
+
+[ 2017-08-11T16:05:50+08:00 ] 127.0.0.1 /a/images/bg_header.jpg
+ERR: 模板不存在:./Application/Admin/View/default/images.html
+
+[ 2017-08-11T16:06:01+08:00 ] 127.0.0.1 /a/images/bg_header.jpg
+ERR: 模板不存在:./Application/Admin/View/default/images.html
+
+[ 2017-08-11T16:06:18+08:00 ] 127.0.0.1 /a/images/bg_header.jpg
+ERR: 模板不存在:./Application/Admin/View/default/images.html
+
+[ 2017-08-11T16:06:30+08:00 ] 127.0.0.1 /a/images/bg_header.jpg
+ERR: 模板不存在:./Application/Admin/View/default/images.html
+
+[ 2017-08-11T16:06:30+08:00 ] 127.0.0.1 /a/images/bullet1.gif
+ERR: 模板不存在:./Application/Admin/View/default/images.html
+
+[ 2017-08-11T16:07:15+08:00 ] 127.0.0.1 /a/images/bg_header.jpg
+ERR: 模板不存在:./Application/Admin/View/default/images.html
+
+[ 2017-08-11T16:07:16+08:00 ] 127.0.0.1 /a/images/bullet1.gif
+ERR: 模板不存在:./Application/Admin/View/default/images.html
+
+[ 2017-08-11T16:14:04+08:00 ] 127.0.0.1 /a/images/bg_header.jpg
+ERR: 模板不存在:./Application/Admin/View/default/images.html
+
+[ 2017-08-11T16:14:05+08:00 ] 127.0.0.1 /a/images/bullet1.gif
+ERR: 模板不存在:./Application/Admin/View/default/images.html
+
+[ 2017-08-11T16:14:08+08:00 ] 127.0.0.1 /a/images/bg_header.jpg
+ERR: 模板不存在:./Application/Admin/View/default/images.html
+
+[ 2017-08-11T16:14:09+08:00 ] 127.0.0.1 /a/images/bullet1.gif
+ERR: 模板不存在:./Application/Admin/View/default/images.html
+
+[ 2017-08-11T16:14:10+08:00 ] 127.0.0.1 /a/images/bg_header.jpg
+ERR: 模板不存在:./Application/Admin/View/default/images.html
+
+[ 2017-08-11T16:14:27+08:00 ] 127.0.0.1 /a/images/bullet1.gif
+ERR: 模板不存在:./Application/Admin/View/default/images.html
+
+[ 2017-08-11T16:14:28+08:00 ] 127.0.0.1 /a/images/bg_header.jpg
+ERR: 模板不存在:./Application/Admin/View/default/images.html
+
+[ 2017-08-11T16:15:00+08:00 ] 127.0.0.1 /a/images/bg_header.jpg
+ERR: 模板不存在:./Application/Admin/View/default/images.html
+
+[ 2017-08-11T16:15:01+08:00 ] 127.0.0.1 /a/images/bullet1.gif
+ERR: 模板不存在:./Application/Admin/View/default/images.html
+
+[ 2017-08-11T16:15:01+08:00 ] 127.0.0.1 /Admin/Request/index/0/recovery/1/%E6%81%A2%E5%A4%8D/id/14
+ERR: 1054:Unknown column 'type' in 'field list'
+ [ SQL语句 ] : UPDATE `my_articlestate_kevin` SET `type`='0' WHERE `article_id` = '14'
+
+[ 2017-08-11T16:15:20+08:00 ] 127.0.0.1 /a/images/bullet1.gif
+ERR: 模板不存在:./Application/Admin/View/default/images.html
+
+[ 2017-08-11T16:15:21+08:00 ] 127.0.0.1 /a/images/bg_header.jpg
+ERR: 模板不存在:./Application/Admin/View/default/images.html
+
+[ 2017-08-11T16:15:23+08:00 ] 127.0.0.1 /a/images/bg_header.jpg
+ERR: 模板不存在:./Application/Admin/View/default/images.html
+
+[ 2017-08-11T16:15:24+08:00 ] 127.0.0.1 /a/images/bullet1.gif
+ERR: 模板不存在:./Application/Admin/View/default/images.html
+
+[ 2017-08-11T16:15:24+08:00 ] 127.0.0.1 /a/images/bg_header.jpg
+ERR: 模板不存在:./Application/Admin/View/default/images.html
+
+[ 2017-08-11T16:15:25+08:00 ] 127.0.0.1 /a/images/bullet1.gif
+ERR: 模板不存在:./Application/Admin/View/default/images.html
+
+[ 2017-08-11T16:15:27+08:00 ] 127.0.0.1 /a/images/bg_header.jpg
+ERR: 模板不存在:./Application/Admin/View/default/images.html
+
+[ 2017-08-11T16:16:27+08:00 ] 127.0.0.1 /a/images/bg_header.jpg
+ERR: 模板不存在:./Application/Admin/View/default/images.html
+
+[ 2017-08-11T16:16:28+08:00 ] 127.0.0.1 /a/images/bullet1.gif
+ERR: 模板不存在:./Application/Admin/View/default/images.html
+
+[ 2017-08-11T16:16:28+08:00 ] 127.0.0.1 /a/images/bg_header.jpg
+ERR: 模板不存在:./Application/Admin/View/default/images.html
+
+[ 2017-08-11T16:16:33+08:00 ] 127.0.0.1 /a/images/bg_header.jpg
+ERR: 模板不存在:./Application/Admin/View/default/images.html
+
+[ 2017-08-11T16:16:34+08:00 ] 127.0.0.1 /a/images/bullet1.gif
+ERR: 模板不存在:./Application/Admin/View/default/images.html
+
+[ 2017-08-11T16:16:34+08:00 ] 127.0.0.1 /a/images/bg_header.jpg
+ERR: 模板不存在:./Application/Admin/View/default/images.html
+
+[ 2017-08-11T16:16:35+08:00 ] 127.0.0.1 /a/images/bullet1.gif
+ERR: 模板不存在:./Application/Admin/View/default/images.html
+
+[ 2017-08-11T16:16:53+08:00 ] 127.0.0.1 /a/images/bg_header.jpg
+ERR: 模板不存在:./Application/Admin/View/default/images.html
+
+[ 2017-08-11T16:16:54+08:00 ] 127.0.0.1 /a/images/bullet1.gif
+ERR: 模板不存在:./Application/Admin/View/default/images.html
+
+[ 2017-08-11T16:26:17+08:00 ] 127.0.0.1 /a/images/bg_header.jpg
+ERR: 模板不存在:./Application/Admin/View/default/images.html
+
+[ 2017-08-11T16:26:18+08:00 ] 127.0.0.1 /a/images/bullet1.gif
+ERR: 模板不存在:./Application/Admin/View/default/images.html
+
+[ 2017-08-11T16:26:42+08:00 ] 127.0.0.1 /a/images/bg_header.jpg
+ERR: 模板不存在:./Application/Admin/View/default/images.html
+
+[ 2017-08-11T16:26:43+08:00 ] 127.0.0.1 /a/images/bullet1.gif
+ERR: 模板不存在:./Application/Admin/View/default/images.html
+
+[ 2017-08-11T16:30:11+08:00 ] 127.0.0.1 /a/addarticle.html
+ERR: syntax error, unexpected ','
+
+[ 2017-08-11T16:30:37+08:00 ] 127.0.0.1 /a/addarticle.html
+ERR: syntax error, unexpected ','
+
+[ 2017-08-11T16:37:33+08:00 ] 127.0.0.1 /Admin/Request/add/id/addarticle1
+ERR: syntax error, unexpected end of file, expecting '('
+
+[ 2017-08-11T16:37:50+08:00 ] 127.0.0.1 /Admin/Request/add/id/addarticle1
+ERR: syntax error, unexpected end of file, expecting '('
+
+[ 2017-08-11T16:38:01+08:00 ] 127.0.0.1 /Admin/Request/add/id/addarticle1
+ERR: syntax error, unexpected '=', expecting end of file
+
+[ 2017-08-11T16:38:54+08:00 ] 127.0.0.1 /Admin/Request/add/id/addarticle1
+ERR: syntax error, unexpected end of file, expecting '('
+
+[ 2017-08-11T16:39:29+08:00 ] 127.0.0.1 /Admin/Request/add/id/addarticle1
+ERR: syntax error, unexpected '=', expecting end of file
+
+[ 2017-08-11T17:01:35+08:00 ] 127.0.0.1 /a/images/bg_header.jpg
+ERR: 模板不存在:./Application/Admin/View/default/images.html
+
+[ 2017-08-11T17:01:35+08:00 ] 127.0.0.1 /a/images/bullet1.gif
+ERR: 模板不存在:./Application/Admin/View/default/images.html
+
+[ 2017-08-11T17:05:17+08:00 ] 127.0.0.1 /a/images/bg_header.jpg
+ERR: 模板不存在:./Application/Admin/View/default/images.html
+
+[ 2017-08-11T17:05:17+08:00 ] 127.0.0.1 /a/images/bullet1.gif
+ERR: 模板不存在:./Application/Admin/View/default/images.html
+
+[ 2017-08-11T17:05:24+08:00 ] 127.0.0.1 /Admin/Request/addarticle
+ERR: Call to a member function add() on array
+
+[ 2017-08-11T17:06:14+08:00 ] 127.0.0.1 /Admin/Request/addarticle
+ERR: Call to a member function add() on array
+
+[ 2017-08-11T17:07:56+08:00 ] 127.0.0.1 /Admin/Request/addarticle
+ERR: syntax error, unexpected '->' (T_OBJECT_OPERATOR)
+
+[ 2017-08-11T17:08:04+08:00 ] 127.0.0.1 /Admin/Request/addarticle
+ERR: Call to a member function add() on array
+
+[ 2017-08-11T17:08:43+08:00 ] 127.0.0.1 /Admin/Request/addarticle
+ERR: Call to a member function add() on array
+
+[ 2017-08-11T17:09:05+08:00 ] 127.0.0.1 /Admin/Request/addarticle
+ERR: Call to a member function add() on array
+
+[ 2017-08-11T17:09:48+08:00 ] 127.0.0.1 /Admin/Request/addarticle
+ERR: Call to a member function add() on array
+
+[ 2017-08-11T17:11:00+08:00 ] 127.0.0.1 /Admin/Request/addarticle
+ERR: Call to a member function add() on array
+
+[ 2017-08-11T17:11:05+08:00 ] 127.0.0.1 /Admin/Request/addarticle
+ERR: Call to a member function save() on array
+
+[ 2017-08-11T17:18:59+08:00 ] 127.0.0.1 /Admin/Request/addarticle
+ERR: syntax error, unexpected 'goto' (T_GOTO)
+
+[ 2017-08-11T17:19:08+08:00 ] 127.0.0.1 /Admin/Request/addarticle
+ERR: syntax error, unexpected 'goto' (T_GOTO)
+
+[ 2017-08-11T17:19:35+08:00 ] 127.0.0.1 /Admin/Request/addarticle
+ERR: syntax error, unexpected '}', expecting ',' or ';'
+
+[ 2017-08-11T17:20:57+08:00 ] 127.0.0.1 /Admin/Request/addarticle
+ERR: syntax error, unexpected '}', expecting ';'
+
+[ 2017-08-11T17:21:45+08:00 ] 127.0.0.1 /Admin/Request/addarticle
+ERR: syntax error, unexpected 'goto' (T_GOTO)
+
+[ 2017-08-11T17:26:34+08:00 ] 127.0.0.1 /a/images/bg_header.jpg
+ERR: 模板不存在:./Application/Admin/View/default/images.html
+
+[ 2017-08-11T17:26:35+08:00 ] 127.0.0.1 /a/images/bullet1.gif
+ERR: 模板不存在:./Application/Admin/View/default/images.html
+
+[ 2017-08-11T17:26:37+08:00 ] 127.0.0.1 /a/images/bg_header.jpg
+ERR: 模板不存在:./Application/Admin/View/default/images.html
+
+[ 2017-08-11T17:26:38+08:00 ] 127.0.0.1 /a/images/bullet1.gif
+ERR: 模板不存在:./Application/Admin/View/default/images.html
+
+[ 2017-08-11T17:26:40+08:00 ] 127.0.0.1 /a/images/bg_header.jpg
+ERR: 模板不存在:./Application/Admin/View/default/images.html
+
+[ 2017-08-11T17:26:41+08:00 ] 127.0.0.1 /a/images/bullet1.gif
+ERR: 模板不存在:./Application/Admin/View/default/images.html
+
+[ 2017-08-11T17:27:46+08:00 ] 127.0.0.1 /a/images/bg_header.jpg
+ERR: 模板不存在:./Application/Admin/View/default/images.html
+
+[ 2017-08-11T17:27:47+08:00 ] 127.0.0.1 /a/images/bullet1.gif
+ERR: 模板不存在:./Application/Admin/View/default/images.html
+
+[ 2017-08-11T17:30:50+08:00 ] 127.0.0.1 /a/images/bg_header.jpg
+ERR: 模板不存在:./Application/Admin/View/default/images.html
+
+[ 2017-08-11T17:30:51+08:00 ] 127.0.0.1 /a/images/bullet1.gif
+ERR: 模板不存在:./Application/Admin/View/default/images.html
+
+[ 2017-08-11T17:32:05+08:00 ] 127.0.0.1 /a/images/bg_header.jpg
+ERR: 模板不存在:./Application/Admin/View/default/images.html
+
+[ 2017-08-11T17:32:06+08:00 ] 127.0.0.1 /a/images/bullet1.gif
+ERR: 模板不存在:./Application/Admin/View/default/images.html
+
+[ 2017-08-11T17:32:43+08:00 ] 127.0.0.1 /a/article.html
+ERR: syntax error, unexpected 'Y' (T_STRING), expecting ']'
+
+[ 2017-08-11T17:32:57+08:00 ] 127.0.0.1 /a/images/bg_header.jpg
+ERR: 模板不存在:./Application/Admin/View/default/images.html
+
+[ 2017-08-11T17:32:58+08:00 ] 127.0.0.1 /a/images/bullet1.gif
+ERR: 模板不存在:./Application/Admin/View/default/images.html
+
+[ 2017-08-11T17:34:01+08:00 ] 127.0.0.1 /a/images/bg_header.jpg
+ERR: 模板不存在:./Application/Admin/View/default/images.html
+
+[ 2017-08-11T17:34:02+08:00 ] 127.0.0.1 /a/images/bg_header.jpg
+ERR: 模板不存在:./Application/Admin/View/default/images.html
+
+[ 2017-08-11T17:34:02+08:00 ] 127.0.0.1 /a/images/bullet1.gif
+ERR: 模板不存在:./Application/Admin/View/default/images.html
+
+[ 2017-08-11T17:34:03+08:00 ] 127.0.0.1 /a/images/bg_header.jpg
+ERR: 模板不存在:./Application/Admin/View/default/images.html
+
+[ 2017-08-11T17:34:03+08:00 ] 127.0.0.1 /a/images/bullet1.gif
+ERR: 模板不存在:./Application/Admin/View/default/images.html
+
+[ 2017-08-11T17:34:04+08:00 ] 127.0.0.1 /a/images/bullet1.gif
+ERR: 模板不存在:./Application/Admin/View/default/images.html
+
+[ 2017-08-11T17:34:41+08:00 ] 127.0.0.1 /a/images/bg_header.jpg
+ERR: 模板不存在:./Application/Admin/View/default/images.html
+
+[ 2017-08-11T17:34:41+08:00 ] 127.0.0.1 /a/images/bg_header.jpg
+ERR: 模板不存在:./Application/Admin/View/default/images.html
+
+[ 2017-08-11T17:34:42+08:00 ] 127.0.0.1 /a/images/bullet1.gif
+ERR: 模板不存在:./Application/Admin/View/default/images.html
+
+[ 2017-08-11T17:34:42+08:00 ] 127.0.0.1 /a/images/bullet1.gif
+ERR: 模板不存在:./Application/Admin/View/default/images.html
+
+[ 2017-08-11T17:34:51+08:00 ] 127.0.0.1 /a/images/bg_header.jpg
+ERR: 模板不存在:./Application/Admin/View/default/images.html
+
+[ 2017-08-11T17:34:52+08:00 ] 127.0.0.1 /a/images/bullet1.gif
+ERR: 模板不存在:./Application/Admin/View/default/images.html
+
+[ 2017-08-11T17:35:02+08:00 ] 127.0.0.1 /a/images/bg_header.jpg
+ERR: 模板不存在:./Application/Admin/View/default/images.html
+
+[ 2017-08-11T17:35:03+08:00 ] 127.0.0.1 /a/images/bullet1.gif
+ERR: 模板不存在:./Application/Admin/View/default/images.html
+
+[ 2017-08-11T17:35:40+08:00 ] 127.0.0.1 /a/images/bg_header.jpg
+ERR: 模板不存在:./Application/Admin/View/default/images.html
+
+[ 2017-08-11T17:35:41+08:00 ] 127.0.0.1 /a/images/bullet1.gif
+ERR: 模板不存在:./Application/Admin/View/default/images.html
+
+[ 2017-08-11T17:35:46+08:00 ] 127.0.0.1 /a/images/bg_header.jpg
+ERR: 模板不存在:./Application/Admin/View/default/images.html
+
+[ 2017-08-11T17:35:47+08:00 ] 127.0.0.1 /a/images/bullet1.gif
+ERR: 模板不存在:./Application/Admin/View/default/images.html
+
+[ 2017-08-11T17:36:03+08:00 ] 127.0.0.1 /a/images/bg_header.jpg
+ERR: 模板不存在:./Application/Admin/View/default/images.html
+
+[ 2017-08-11T17:36:03+08:00 ] 127.0.0.1 /a/images/bg_header.jpg
+ERR: 模板不存在:./Application/Admin/View/default/images.html
+
+[ 2017-08-11T17:36:04+08:00 ] 127.0.0.1 /a/images/bullet1.gif
+ERR: 模板不存在:./Application/Admin/View/default/images.html
+
+[ 2017-08-11T17:36:04+08:00 ] 127.0.0.1 /a/images/bullet1.gif
+ERR: 模板不存在:./Application/Admin/View/default/images.html
+
+[ 2017-08-11T17:36:30+08:00 ] 127.0.0.1 /a/images/bg_header.jpg
+ERR: 模板不存在:./Application/Admin/View/default/images.html
+
+[ 2017-08-11T17:36:31+08:00 ] 127.0.0.1 /a/images/bg_header.jpg
+ERR: 模板不存在:./Application/Admin/View/default/images.html
+
+[ 2017-08-11T17:36:31+08:00 ] 127.0.0.1 /a/images/bullet1.gif
+ERR: 模板不存在:./Application/Admin/View/default/images.html
+
+[ 2017-08-11T17:36:31+08:00 ] 127.0.0.1 /a/images/bg_header.jpg
+ERR: 模板不存在:./Application/Admin/View/default/images.html
+
+[ 2017-08-11T17:36:32+08:00 ] 127.0.0.1 /a/images/bullet1.gif
+ERR: 模板不存在:./Application/Admin/View/default/images.html
+
+[ 2017-08-11T17:36:32+08:00 ] 127.0.0.1 /a/images/bullet1.gif
+ERR: 模板不存在:./Application/Admin/View/default/images.html
+
+[ 2017-08-11T17:36:38+08:00 ] 127.0.0.1 /a/images/bg_header.jpg
+ERR: 模板不存在:./Application/Admin/View/default/images.html
+
+[ 2017-08-11T17:36:39+08:00 ] 127.0.0.1 /a/images/bg_header.jpg
+ERR: 模板不存在:./Application/Admin/View/default/images.html
+
+[ 2017-08-11T17:36:39+08:00 ] 127.0.0.1 /a/images/bullet1.gif
+ERR: 模板不存在:./Application/Admin/View/default/images.html
+
+[ 2017-08-11T17:36:39+08:00 ] 127.0.0.1 /a/images/bg_header.jpg
+ERR: 模板不存在:./Application/Admin/View/default/images.html
+
+[ 2017-08-11T17:36:40+08:00 ] 127.0.0.1 /a/images/bullet1.gif
+ERR: 模板不存在:./Application/Admin/View/default/images.html
+
+[ 2017-08-11T17:36:40+08:00 ] 127.0.0.1 /a/images/bullet1.gif
+ERR: 模板不存在:./Application/Admin/View/default/images.html
+
+[ 2017-08-11T17:36:48+08:00 ] 127.0.0.1 /a/images/bg_header.jpg
+ERR: 模板不存在:./Application/Admin/View/default/images.html
+
+[ 2017-08-11T17:36:49+08:00 ] 127.0.0.1 /a/images/bullet1.gif
+ERR: 模板不存在:./Application/Admin/View/default/images.html
+
+[ 2017-08-11T17:36:49+08:00 ] 127.0.0.1 /a/images/bg_header.jpg
+ERR: 模板不存在:./Application/Admin/View/default/images.html
+
+[ 2017-08-11T17:36:50+08:00 ] 127.0.0.1 /a/images/bullet1.gif
+ERR: 模板不存在:./Application/Admin/View/default/images.html
+
+[ 2017-08-11T17:37:04+08:00 ] 127.0.0.1 /a/images/bg_header.jpg
+ERR: 模板不存在:./Application/Admin/View/default/images.html
+
+[ 2017-08-11T17:37:05+08:00 ] 127.0.0.1 /a/images/bg_header.jpg
+ERR: 模板不存在:./Application/Admin/View/default/images.html
+
+[ 2017-08-11T17:37:05+08:00 ] 127.0.0.1 /a/images/bullet1.gif
+ERR: 模板不存在:./Application/Admin/View/default/images.html
+
+[ 2017-08-11T17:37:06+08:00 ] 127.0.0.1 /a/images/bullet1.gif
+ERR: 模板不存在:./Application/Admin/View/default/images.html
+
+[ 2017-08-11T17:37:23+08:00 ] 127.0.0.1 /a/images/bg_header.jpg
+ERR: 模板不存在:./Application/Admin/View/default/images.html
+
+[ 2017-08-11T17:37:24+08:00 ] 127.0.0.1 /a/images/bullet1.gif
+ERR: 模板不存在:./Application/Admin/View/default/images.html
+
+[ 2017-08-11T17:37:31+08:00 ] 127.0.0.1 /a/images/bg_header.jpg
+ERR: 模板不存在:./Application/Admin/View/default/images.html
+
+[ 2017-08-11T17:37:32+08:00 ] 127.0.0.1 /a/images/bullet1.gif
+ERR: 模板不存在:./Application/Admin/View/default/images.html
+
+[ 2017-08-11T17:37:40+08:00 ] 127.0.0.1 /a/images/bg_header.jpg
+ERR: 模板不存在:./Application/Admin/View/default/images.html
+
+[ 2017-08-11T17:37:41+08:00 ] 127.0.0.1 /a/images/bullet1.gif
+ERR: 模板不存在:./Application/Admin/View/default/images.html
+
+[ 2017-08-11T17:38:19+08:00 ] 127.0.0.1 /a/images/bg_header.jpg
+ERR: 模板不存在:./Application/Admin/View/default/images.html
+
+[ 2017-08-11T17:38:20+08:00 ] 127.0.0.1 /a/images/bullet1.gif
+ERR: 模板不存在:./Application/Admin/View/default/images.html
+
+[ 2017-08-11T17:38:21+08:00 ] 127.0.0.1 /a/images/bg_header.jpg
+ERR: 模板不存在:./Application/Admin/View/default/images.html
+
+[ 2017-08-11T17:38:22+08:00 ] 127.0.0.1 /a/images/bullet1.gif
+ERR: 模板不存在:./Application/Admin/View/default/images.html
+
+[ 2017-08-11T17:38:38+08:00 ] 127.0.0.1 /a/images/bg_header.jpg
+ERR: 模板不存在:./Application/Admin/View/default/images.html
+
+[ 2017-08-11T17:38:39+08:00 ] 127.0.0.1 /a/images/bullet1.gif
+ERR: 模板不存在:./Application/Admin/View/default/images.html
+
+[ 2017-08-11T17:38:43+08:00 ] 127.0.0.1 /a/images/bg_header.jpg
+ERR: 模板不存在:./Application/Admin/View/default/images.html
+
+[ 2017-08-11T17:38:44+08:00 ] 127.0.0.1 /a/images/bullet1.gif
+ERR: 模板不存在:./Application/Admin/View/default/images.html
+
+[ 2017-08-11T17:38:46+08:00 ] 127.0.0.1 /a/images/bg_header.jpg
+ERR: 模板不存在:./Application/Admin/View/default/images.html
+
+[ 2017-08-11T17:38:47+08:00 ] 127.0.0.1 /a/images/bullet1.gif
+ERR: 模板不存在:./Application/Admin/View/default/images.html
+

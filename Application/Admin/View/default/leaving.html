@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="utf-8" />
+    <title>留言查看页面</title>
+    <link href="__PUBLIC__/Admin/css/bootstrap.min.css" rel="stylesheet" />
+    <!-- layui.css -->
+    <link href="__PUBLIC__/Admin/plugin/layui/css/layui.css" rel="stylesheet" />
+    <script src="http://apps.bdimg.com/libs/jquery/2.1.4/jquery.min.js"></script>
+    <script src="__PUBLIC__/Admin/js/bootstrap.min.js"></script>
+    <style>
+        .layui-btn-small {
+            padding: 0 15px;
+        }
+
+        .layui-form-checkbox {
+            margin: 0;
+        }
+
+        tr td:not(:nth-child(0)),
+        tr th:not(:nth-child(0)) {
+            text-align: center;
+        }
+
+        #dataConsole {
+            text-align: center;
+        }
+    </style>
+</head>
+<body>
+    <fieldset id="dataConsole" class="layui-elem-field layui-field-title">
+        <legend>控制台</legend>
+       
+    </fieldset>
+    <fieldset id="dataList" class="layui-elem-field layui-field-title sys-list-field">
+        <legend style="text-align:center;">留言查看列表</legend>
+
+
+        <div class="layui-field-box">
+            <div id="dataContent" class="">
+                <!--内容区域 ajax获取-->
+                <table style="" class="layui-table" lay-even="">
+                    <colgroup>
+                        <col width="180">
+                        <col width="180">
+                        <col >
+                        <col width="180">
+                        <col width="180">
+                        <col width="90">
+                        <col width="50">
+                        <col width="50">
+                    </colgroup>
+                    <thead>
+                         <tr>
+                             <volist name="content['tr']" id="tr">    
+                               <th>{$tr}</th> </th>
+                            </volist>
+                            <th colspan="<?php echo count($content['button']);?>">操作</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                       <volist name="content['content']" id="con">    
+  <tr> 
+    <!-- 输出信息 -->
+        <volist name="con" id="value">    
+           <td>{$value}</td> 
+        </volist>
+    <!-- 输出按钮 -->
+                          
+             <?php $bn = [1=>'layui-btn-normal',2=>'layui-btn-danger'];?>
+            <volist name="content['button']" id="button">
+             <td>
+              <a href="{$button[1]}0/{$url}/1/{$button[0]}/id/{$con.id}"><button class="layui-btn layui-btn-small {$bn[$i]}">{$button[0]}</button></a>
+            </td>
+            </volist>
+  </tr>
+</volist>
+                    </tbody>
+                </table>
+                <div id="pageNav"></div>
+            </div>
+        </div>
+        <div class="modal fade bs-example-modal-lg" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel">
+          <div class="modal-dialog modal-lg" role="document">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+                    <h4 class="modal-title" id="exampleModalLabel">添加新的友情链接</h4>
+                </div>
+                <div class="modal-body">
+                    <form>
+                      <div class="form-group">
+                        <label for="recipient-name" class="control-label">网站名称</label>
+                        <input type="text" class="form-control" id="recipient-name">
+                      </div>
+                      <div class="form-group">
+                        <label for="message-text" class="control-label">联系方式</label>
+                        <textarea class="form-control" id="message-text"></textarea>
+                      </div>
+                      <div class="form-group">
+                        <label for="recipient-name" class="control-label">网站地址</label>
+                        <input type="text" class="form-control" id="recipient-name">
+                      </div>
+                      <div class="form-group">
+                        <label for="recipient-name" class="control-label">网站简介</label>
+                        <input type="text" class="form-control" id="recipient-name">
+                      </div>
+                    </form>
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-default" data-dismiss="modal">取消</button>
+                    <button type="button" class="btn btn-primary">提交</button>
+                </div>
+            </div>
+          </div>
+        </div>
+    </fieldset>
+    <!-- layui.js -->
+    <script src="__PUBLIC__/Admin/plugin/layui/layui.js"></script>
+    <!-- layui规范化用法 -->
+    <!-- <script type="text/javascript">
+        layui.config({
+            base: './js/'
+        }).use('datalist');
+    </script> -->
+</body>
+</html>

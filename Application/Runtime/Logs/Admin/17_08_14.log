@@ -1,0 +1,1135 @@
+[ 2017-08-14T10:02:06+08:00 ] 127.0.0.1 /admin/request/add
+ERR: Think\Model:link方法不存在！
+
+[ 2017-08-14T10:03:19+08:00 ] 127.0.0.1 /admin/request/add
+ERR: Think\Model:link方法不存在！
+
+[ 2017-08-14T10:03:20+08:00 ] 127.0.0.1 /admin/request/add
+ERR: Think\Model:link方法不存在！
+
+[ 2017-08-14T10:38:09+08:00 ] 127.0.0.1 /admin/request/add
+ERR: syntax error, unexpected ''save'' (T_CONSTANT_ENCAPSED_STRING), expecting ']'
+
+[ 2017-08-14T10:38:17+08:00 ] 127.0.0.1 /admin/request/add
+ERR: syntax error, unexpected '，' (T_STRING), expecting ']'
+
+[ 2017-08-14T10:39:14+08:00 ] 127.0.0.1 /admin/request/add
+ERR: syntax error, unexpected '=>' (T_DOUBLE_ARROW), expecting ']'
+
+[ 2017-08-14T10:49:10+08:00 ] 127.0.0.1 /a/images/bg_header.jpg
+ERR: 模板不存在:./Application/Admin/View/default/images.html
+
+[ 2017-08-14T10:49:13+08:00 ] 127.0.0.1 /a/images/bg_header.jpg
+ERR: 模板不存在:./Application/Admin/View/default/images.html
+
+[ 2017-08-14T10:53:13+08:00 ] 127.0.0.1 /a/images/bg_header.jpg
+ERR: 模板不存在:./Application/Admin/View/default/images.html
+
+[ 2017-08-14T10:53:14+08:00 ] 127.0.0.1 /a/images/bullet1.gif
+ERR: 模板不存在:./Application/Admin/View/default/images.html
+
+[ 2017-08-14T10:53:16+08:00 ] 127.0.0.1 /a/images/bg_header.jpg
+ERR: 模板不存在:./Application/Admin/View/default/images.html
+
+[ 2017-08-14T10:53:17+08:00 ] 127.0.0.1 /a/images/bullet1.gif
+ERR: 模板不存在:./Application/Admin/View/default/images.html
+
+[ 2017-08-14T10:53:20+08:00 ] 127.0.0.1 /a/images/bg_header.jpg
+ERR: 模板不存在:./Application/Admin/View/default/images.html
+
+[ 2017-08-14T10:53:21+08:00 ] 127.0.0.1 /a/images/bullet1.gif
+ERR: 模板不存在:./Application/Admin/View/default/images.html
+
+[ 2017-08-14T10:53:22+08:00 ] 127.0.0.1 /a/images/bg_header.jpg
+ERR: 模板不存在:./Application/Admin/View/default/images.html
+
+[ 2017-08-14T10:53:23+08:00 ] 127.0.0.1 /a/images/bullet1.gif
+ERR: 模板不存在:./Application/Admin/View/default/images.html
+
+[ 2017-08-14T10:53:24+08:00 ] 127.0.0.1 /a/images/bg_header.jpg
+ERR: 模板不存在:./Application/Admin/View/default/images.html
+
+[ 2017-08-14T10:53:25+08:00 ] 127.0.0.1 /a/images/bullet1.gif
+ERR: 模板不存在:./Application/Admin/View/default/images.html
+
+[ 2017-08-14T11:18:35+08:00 ] 127.0.0.1 /a/article.html
+ERR: syntax error, unexpected '->' (T_OBJECT_OPERATOR), expecting end of file
+
+[ 2017-08-14T11:25:54+08:00 ] 127.0.0.1 /a/images/bg_header.jpg
+ERR: 模板不存在:./Application/Admin/View/default/images.html
+
+[ 2017-08-14T11:25:55+08:00 ] 127.0.0.1 /a/images/bullet1.gif
+ERR: 模板不存在:./Application/Admin/View/default/images.html
+
+[ 2017-08-14T11:26:49+08:00 ] 127.0.0.1 /a/images/bg_header.jpg
+ERR: 模板不存在:./Application/Admin/View/default/images.html
+
+[ 2017-08-14T11:26:50+08:00 ] 127.0.0.1 /a/images/bullet1.gif
+ERR: 模板不存在:./Application/Admin/View/default/images.html
+
+[ 2017-08-14T11:27:05+08:00 ] 127.0.0.1 /a/images/bg_header.jpg
+ERR: 模板不存在:./Application/Admin/View/default/images.html
+
+[ 2017-08-14T11:27:06+08:00 ] 127.0.0.1 /a/images/bullet1.gif
+ERR: 模板不存在:./Application/Admin/View/default/images.html
+
+[ 2017-08-14T11:27:49+08:00 ] 127.0.0.1 /a/images/bg_header.jpg
+ERR: 模板不存在:./Application/Admin/View/default/images.html
+
+[ 2017-08-14T11:27:50+08:00 ] 127.0.0.1 /a/images/bullet1.gif
+ERR: 模板不存在:./Application/Admin/View/default/images.html
+
+[ 2017-08-14T11:31:56+08:00 ] 127.0.0.1 /admin/request/add
+ERR: syntax error, unexpected end of file
+
+[ 2017-08-14T11:41:53+08:00 ] 127.0.0.1 /admin/request/add
+ERR: syntax error, unexpected end of file
+
+[ 2017-08-14T11:42:56+08:00 ] 127.0.0.1 /admin/request/add
+ERR: Call to a member function rollback() on unknown
+
+[ 2017-08-14T11:43:04+08:00 ] 127.0.0.1 /admin/request/add
+ERR: syntax error, unexpected '->' (T_OBJECT_OPERATOR), expecting end of file
+
+[ 2017-08-14T11:43:22+08:00 ] 127.0.0.1 /admin/request/add
+ERR: syntax error, unexpected '->' (T_OBJECT_OPERATOR), expecting end of file
+
+[ 2017-08-14T11:43:23+08:00 ] 127.0.0.1 /admin/request/add
+ERR: syntax error, unexpected '->' (T_OBJECT_OPERATOR), expecting end of file
+
+[ 2017-08-14T11:43:42+08:00 ] 127.0.0.1 /admin/request/add
+ERR: syntax error, unexpected end of file
+
+[ 2017-08-14T11:43:59+08:00 ] 127.0.0.1 /admin/request/add
+ERR: syntax error, unexpected '->' (T_OBJECT_OPERATOR), expecting end of file
+
+[ 2017-08-14T11:44:00+08:00 ] 127.0.0.1 /admin/request/add
+ERR: syntax error, unexpected '->' (T_OBJECT_OPERATOR), expecting end of file
+
+[ 2017-08-14T11:46:57+08:00 ] 127.0.0.1 /admin/request/add
+ERR: syntax error, unexpected '->' (T_OBJECT_OPERATOR), expecting end of file
+
+[ 2017-08-14T11:51:36+08:00 ] 127.0.0.1 /admin/request/add
+ERR: syntax error, unexpected end of file
+
+[ 2017-08-14T12:05:16+08:00 ] 127.0.0.1 /admin/request/add
+ERR: Call to a member function startTrans() on unknown
+
+[ 2017-08-14T12:06:02+08:00 ] 127.0.0.1 /admin/request/add
+ERR: Call to a member function startTrans() on unknown
+
+[ 2017-08-14T12:06:18+08:00 ] 127.0.0.1 /admin/request/add
+ERR: Call to a member function startTrans() on unknown
+
+[ 2017-08-14T12:06:19+08:00 ] 127.0.0.1 /admin/request/add
+ERR: Call to a member function startTrans() on unknown
+
+[ 2017-08-14T12:07:08+08:00 ] 127.0.0.1 /admin/request/add
+ERR: Call to a member function startTrans() on unknown
+
+[ 2017-08-14T12:07:09+08:00 ] 127.0.0.1 /admin/request/add
+ERR: Call to a member function startTrans() on unknown
+
+[ 2017-08-14T14:16:08+08:00 ] 127.0.0.1 /admin/request/add
+ERR: syntax error, unexpected '->' (T_OBJECT_OPERATOR), expecting end of file
+
+[ 2017-08-14T14:16:32+08:00 ] 127.0.0.1 /admin/request/add
+ERR: syntax error, unexpected end of file
+
+[ 2017-08-14T14:16:33+08:00 ] 127.0.0.1 /admin/request/add
+ERR: syntax error, unexpected end of file
+
+[ 2017-08-14T14:17:04+08:00 ] 127.0.0.1 /admin/request/add
+ERR: syntax error, unexpected end of file
+
+[ 2017-08-14T14:17:04+08:00 ] 127.0.0.1 /admin/request/add
+ERR: syntax error, unexpected end of file
+
+[ 2017-08-14T14:19:42+08:00 ] 127.0.0.1 /admin/request/add
+ERR: Call to a member function table() on unknown
+
+[ 2017-08-14T14:39:10+08:00 ] 127.0.0.1 /admin/request/add
+ERR: Call to a member function table() on unknown
+
+[ 2017-08-14T14:41:27+08:00 ] 127.0.0.1 /admin/request/add
+ERR: Call to a member function table() on unknown
+
+[ 2017-08-14T14:41:42+08:00 ] 127.0.0.1 /admin/request/add
+ERR: Call to a member function table() on unknown
+
+[ 2017-08-14T14:42:00+08:00 ] 127.0.0.1 /admin/request/add
+ERR: Call to a member function table() on unknown
+
+[ 2017-08-14T14:42:24+08:00 ] 127.0.0.1 /admin/request/add
+ERR: Call to a member function table() on unknown
+
+[ 2017-08-14T14:42:41+08:00 ] 127.0.0.1 /admin/request/add
+ERR: Call to a member function table() on unknown
+
+[ 2017-08-14T14:42:41+08:00 ] 127.0.0.1 /admin/request/add
+ERR: Call to a member function table() on unknown
+
+[ 2017-08-14T14:43:04+08:00 ] 127.0.0.1 /admin/request/add
+ERR: Call to a member function table() on unknown
+
+[ 2017-08-14T14:43:05+08:00 ] 127.0.0.1 /admin/request/add
+ERR: Call to a member function table() on unknown
+
+[ 2017-08-14T14:44:05+08:00 ] 127.0.0.1 /admin/request/add
+ERR: syntax error, unexpected end of file
+
+[ 2017-08-14T14:44:16+08:00 ] 127.0.0.1 /admin/request/add
+ERR: Call to a member function table() on unknown
+
+[ 2017-08-14T14:45:55+08:00 ] 127.0.0.1 /admin/request/add
+ERR: Call to a member function table() on unknown
+
+[ 2017-08-14T14:46:16+08:00 ] 127.0.0.1 /admin/request/add
+ERR: Call to a member function table() on unknown
+
+[ 2017-08-14T14:46:24+08:00 ] 127.0.0.1 /admin/request/add
+ERR: Call to a member function table() on unknown
+
+[ 2017-08-14T14:48:17+08:00 ] 127.0.0.1 /admin/request/add
+ERR: Call to a member function table() on unknown
+
+[ 2017-08-14T14:48:39+08:00 ] 127.0.0.1 /admin/request/add
+ERR: Call to a member function table() on unknown
+
+[ 2017-08-14T14:48:39+08:00 ] 127.0.0.1 /admin/request/add
+ERR: Call to a member function table() on unknown
+
+[ 2017-08-14T14:48:39+08:00 ] 127.0.0.1 /admin/request/add
+ERR: Call to a member function table() on unknown
+
+[ 2017-08-14T16:16:23+08:00 ] 127.0.0.1 /a/link
+ERR: syntax error, unexpected ''recovery'' (T_CONSTANT_ENCAPSED_STRING), expecting ']'
+
+[ 2017-08-14T16:27:53+08:00 ] 127.0.0.1 /Admin/Request/add/0/link/1/%E5%88%A0%E9%99%A4/id/1
+ERR: syntax error, unexpected '}', expecting end of file
+
+[ 2017-08-14T16:28:32+08:00 ] 127.0.0.1 /Admin/Request/add/0/link/1/%E5%88%A0%E9%99%A4/id/1
+ERR: syntax error, unexpected '}', expecting end of file
+
+[ 2017-08-14T16:28:34+08:00 ] 127.0.0.1 /Admin/Request/add/0/link/1/%E5%88%A0%E9%99%A4/id/1
+ERR: syntax error, unexpected '}', expecting end of file
+
+[ 2017-08-14T16:28:34+08:00 ] 127.0.0.1 /Admin/Request/add/0/link/1/%E5%88%A0%E9%99%A4/id/1
+ERR: syntax error, unexpected '}', expecting end of file
+
+[ 2017-08-14T16:52:51+08:00 ] 127.0.0.1 /a/images/bg_header.jpg
+ERR: 模板不存在:./Application/Admin/View/default/images.html
+
+[ 2017-08-14T16:52:52+08:00 ] 127.0.0.1 /a/images/bullet1.gif
+ERR: 模板不存在:./Application/Admin/View/default/images.html
+
+[ 2017-08-14T16:52:54+08:00 ] 127.0.0.1 /a/images/bg_header.jpg
+ERR: 模板不存在:./Application/Admin/View/default/images.html
+
+[ 2017-08-14T16:52:55+08:00 ] 127.0.0.1 /a/images/bullet1.gif
+ERR: 模板不存在:./Application/Admin/View/default/images.html
+
+[ 2017-08-14T16:52:56+08:00 ] 127.0.0.1 /a/images/bg_header.jpg
+ERR: 模板不存在:./Application/Admin/View/default/images.html
+
+[ 2017-08-14T16:52:57+08:00 ] 127.0.0.1 /a/images/bullet1.gif
+ERR: 模板不存在:./Application/Admin/View/default/images.html
+
+[ 2017-08-14T16:52:58+08:00 ] 127.0.0.1 /a/images/bg_header.jpg
+ERR: 模板不存在:./Application/Admin/View/default/images.html
+
+[ 2017-08-14T16:52:59+08:00 ] 127.0.0.1 /a/images/bullet1.gif
+ERR: 模板不存在:./Application/Admin/View/default/images.html
+
+[ 2017-08-14T16:52:59+08:00 ] 127.0.0.1 /a/images/bg_header.jpg
+ERR: 模板不存在:./Application/Admin/View/default/images.html
+
+[ 2017-08-14T16:53:00+08:00 ] 127.0.0.1 /a/images/bullet1.gif
+ERR: 模板不存在:./Application/Admin/View/default/images.html
+
+[ 2017-08-14T16:53:02+08:00 ] 127.0.0.1 /a/images/bg_header.jpg
+ERR: 模板不存在:./Application/Admin/View/default/images.html
+
+[ 2017-08-14T16:53:03+08:00 ] 127.0.0.1 /a/images/bullet1.gif
+ERR: 模板不存在:./Application/Admin/View/default/images.html
+
+[ 2017-08-14T16:53:03+08:00 ] 127.0.0.1 /a/images/bg_header.jpg
+ERR: 模板不存在:./Application/Admin/View/default/images.html
+
+[ 2017-08-14T16:53:04+08:00 ] 127.0.0.1 /a/images/bullet1.gif
+ERR: 模板不存在:./Application/Admin/View/default/images.html
+
+[ 2017-08-14T16:53:05+08:00 ] 127.0.0.1 /a/images/bullet1.gif
+ERR: 模板不存在:./Application/Admin/View/default/images.html
+
+[ 2017-08-14T16:53:06+08:00 ] 127.0.0.1 /a/images/bg_header.jpg
+ERR: 模板不存在:./Application/Admin/View/default/images.html
+
+[ 2017-08-14T16:53:07+08:00 ] 127.0.0.1 /a/images/bg_header.jpg
+ERR: 模板不存在:./Application/Admin/View/default/images.html
+
+[ 2017-08-14T16:53:08+08:00 ] 127.0.0.1 /a/images/bullet1.gif
+ERR: 模板不存在:./Application/Admin/View/default/images.html
+
+[ 2017-08-14T16:53:10+08:00 ] 127.0.0.1 /a/images/bg_header.jpg
+ERR: 模板不存在:./Application/Admin/View/default/images.html
+
+[ 2017-08-14T16:53:11+08:00 ] 127.0.0.1 /a/images/bullet1.gif
+ERR: 模板不存在:./Application/Admin/View/default/images.html
+
+[ 2017-08-14T16:53:15+08:00 ] 127.0.0.1 /a/images/bg_header.jpg
+ERR: 模板不存在:./Application/Admin/View/default/images.html
+
+[ 2017-08-14T16:53:16+08:00 ] 127.0.0.1 /a/images/bullet1.gif
+ERR: 模板不存在:./Application/Admin/View/default/images.html
+
+[ 2017-08-14T17:00:48+08:00 ] 127.0.0.1 /admin/request/add
+ERR: syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING)
+
+[ 2017-08-14T17:01:11+08:00 ] 127.0.0.1 /admin/request/add
+ERR: syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING)
+
+[ 2017-08-14T17:01:13+08:00 ] 127.0.0.1 /admin/request/add
+ERR: syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING)
+
+[ 2017-08-14T17:01:13+08:00 ] 127.0.0.1 /admin/request/add
+ERR: syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING)
+
+[ 2017-08-14T17:01:13+08:00 ] 127.0.0.1 /admin/request/add
+ERR: syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING)
+
+[ 2017-08-14T17:01:13+08:00 ] 127.0.0.1 /admin/request/add
+ERR: syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING)
+
+[ 2017-08-14T17:01:14+08:00 ] 127.0.0.1 /admin/request/add
+ERR: syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING)
+
+[ 2017-08-14T17:02:21+08:00 ] 127.0.0.1 /admin/request/add
+ERR: syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING)
+
+[ 2017-08-14T17:02:22+08:00 ] 127.0.0.1 /admin/request/add
+ERR: syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING)
+
+[ 2017-08-14T17:02:58+08:00 ] 127.0.0.1 /admin/request/add
+ERR: syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING)
+
+[ 2017-08-14T17:02:59+08:00 ] 127.0.0.1 /admin/request/add
+ERR: syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING)
+
+[ 2017-08-14T17:02:59+08:00 ] 127.0.0.1 /admin/request/add
+ERR: syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING)
+
+[ 2017-08-14T17:02:59+08:00 ] 127.0.0.1 /admin/request/add
+ERR: syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING)
+
+[ 2017-08-14T17:04:17+08:00 ] 127.0.0.1 /admin/request/add
+ERR: syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING)
+
+[ 2017-08-14T17:08:52+08:00 ] 127.0.0.1 /admin/request/add
+ERR: syntax error, unexpected '->' (T_OBJECT_OPERATOR), expecting end of file
+
+[ 2017-08-14T17:16:31+08:00 ] 127.0.0.1 /a/link
+ERR: syntax error, unexpected '=', expecting ')'
+
+[ 2017-08-14T17:16:32+08:00 ] 127.0.0.1 /a/link
+ERR: syntax error, unexpected '=', expecting ')'
+
+[ 2017-08-14T17:16:39+08:00 ] 127.0.0.1 /a/link
+ERR: syntax error, unexpected ';', expecting ')'
+
+[ 2017-08-14T17:16:39+08:00 ] 127.0.0.1 /a/link
+ERR: syntax error, unexpected ';', expecting ')'
+
+[ 2017-08-14T17:21:35+08:00 ] 127.0.0.1 /Admin/Request/add
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-08-14T17:22:56+08:00 ] 127.0.0.1 /Admin/Request/add
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-08-14T17:23:14+08:00 ] 127.0.0.1 /Admin/Request/add
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-08-14T17:24:29+08:00 ] 127.0.0.1 /Admin/Request/add
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-08-14T17:24:57+08:00 ] 127.0.0.1 /Admin/Request/add
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-08-14T17:25:52+08:00 ] 127.0.0.1 /Admin/Request/add
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2] explode() expects parameter 2 to be string, array given C:\User\phpStudy\WWW\thinkphp\Application\Admin\Controller\Request\add.class.php 第 16 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-08-14T17:26:05+08:00 ] 127.0.0.1 /Admin/Request/add
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2] explode() expects parameter 2 to be string, array given C:\User\phpStudy\WWW\thinkphp\Application\Admin\Controller\Request\add.class.php 第 15 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-08-14T17:26:23+08:00 ] 127.0.0.1 /Admin/Request/add
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: Call to undefined function Admin\Controller\Request\impload()
+
+[ 2017-08-14T17:26:48+08:00 ] 127.0.0.1 /Admin/Request/add
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001001s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-08-14T17:27:07+08:00 ] 127.0.0.1 /Admin/Request/add
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-08-14T17:27:20+08:00 ] 127.0.0.1 /Admin/Request/add
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-08-14T17:27:31+08:00 ] 127.0.0.1 /Admin/Request/add
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-08-14T17:27:58+08:00 ] 127.0.0.1 /Admin/Request/add
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-08-14T17:28:12+08:00 ] 127.0.0.1 /Admin/Request/add
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-08-14T17:28:29+08:00 ] 127.0.0.1 /Admin/Request/add
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-08-14T17:28:37+08:00 ] 127.0.0.1 /Admin/Request/add
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] explode() expects parameter 1 to be string, array given C:\User\phpStudy\WWW\thinkphp\Application\Admin\Controller\Request\add.class.php 第 15 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-08-14T17:28:52+08:00 ] 127.0.0.1 /Admin/Request/add
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] explode() expects parameter 2 to be string, array given C:\User\phpStudy\WWW\thinkphp\Application\Admin\Controller\Request\add.class.php 第 15 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-08-14T17:29:02+08:00 ] 127.0.0.1 /Admin/Request/add
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-08-14T17:29:15+08:00 ] 127.0.0.1 /Admin/Request/add
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-08-14T17:29:19+08:00 ] 127.0.0.1 /Admin/Request/add
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-08-14T17:29:24+08:00 ] 127.0.0.1 /Admin/Request/add
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-08-14T17:30:01+08:00 ] 127.0.0.1 /Admin/Request/add
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2] explode() expects parameter 2 to be string, array given C:\User\phpStudy\WWW\thinkphp\Application\Admin\Controller\Request\add.class.php 第 15 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-08-14T17:30:13+08:00 ] 127.0.0.1 /Admin/Request/add
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [2] explode() expects parameter 2 to be string, array given C:\User\phpStudy\WWW\thinkphp\Application\Admin\Controller\Request\add.class.php 第 15 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-08-14T17:30:29+08:00 ] 127.0.0.1 /Admin/Request/add
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] explode() expects parameter 2 to be string, array given C:\User\phpStudy\WWW\thinkphp\Application\Admin\Controller\Request\add.class.php 第 15 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-08-14T17:30:39+08:00 ] 127.0.0.1 /Admin/Request/add
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-08-14T17:35:32+08:00 ] 127.0.0.1 /Admin/Request/add
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-08-14T17:35:57+08:00 ] 127.0.0.1 /Admin/Request/add
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-08-14T17:36:47+08:00 ] 127.0.0.1 /Admin/Request/add
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] explode() expects parameter 2 to be string, array given C:\User\phpStudy\WWW\thinkphp\Application\Admin\Controller\Request\add.class.php 第 15 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-08-14T17:36:58+08:00 ] 127.0.0.1 /Admin/Request/add
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [2] explode() expects parameter 2 to be string, array given C:\User\phpStudy\WWW\thinkphp\Application\Admin\Controller\Request\add.class.php 第 15 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001001s ]
+
+[ 2017-08-14T17:37:21+08:00 ] 127.0.0.1 /Admin/Request/add
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] explode() expects parameter 2 to be string, array given C:\User\phpStudy\WWW\thinkphp\Application\Admin\Controller\Request\add.class.php 第 15 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-08-14T17:37:54+08:00 ] 127.0.0.1 /Admin/Request/add
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [2] explode() expects parameter 2 to be string, array given C:\User\phpStudy\WWW\thinkphp\Application\Admin\Controller\Request\add.class.php 第 15 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-08-14T17:39:09+08:00 ] 127.0.0.1 /Admin/Request/add
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] explode() expects parameter 2 to be string, array given C:\User\phpStudy\WWW\thinkphp\Application\Admin\Controller\Request\add.class.php 第 15 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-08-14T17:39:20+08:00 ] 127.0.0.1 /Admin/Request/add
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] explode() expects parameter 2 to be string, array given C:\User\phpStudy\WWW\thinkphp\Application\Admin\Controller\Request\add.class.php 第 15 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-08-14T17:39:31+08:00 ] 127.0.0.1 /Admin/Request/add
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-08-14T17:40:14+08:00 ] 127.0.0.1 /Admin/Request/add
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] explode() expects parameter 2 to be string, array given C:\User\phpStudy\WWW\thinkphp\Application\Admin\Controller\Request\add.class.php 第 15 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-08-14T17:40:31+08:00 ] 127.0.0.1 /Admin/Request/add
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2] explode() expects parameter 2 to be string, array given C:\User\phpStudy\WWW\thinkphp\Application\Admin\Controller\Request\add.class.php 第 15 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-08-14T17:40:49+08:00 ] 127.0.0.1 /Admin/Request/add
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-08-14T17:41:46+08:00 ] 127.0.0.1 /Admin/Request/add
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Array to string conversion C:\User\phpStudy\WWW\thinkphp\Application\Admin\Controller\Request\add.class.php 第 18 行.
+NOTIC: [8] Array to string conversion C:\User\phpStudy\WWW\thinkphp\Application\Admin\Controller\Request\add.class.php 第 18 行.
+NOTIC: [8] Array to string conversion C:\User\phpStudy\WWW\thinkphp\Application\Admin\Controller\Request\add.class.php 第 18 行.
+NOTIC: [8] Array to string conversion C:\User\phpStudy\WWW\thinkphp\Application\Admin\Controller\Request\add.class.php 第 18 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-08-14T17:42:04+08:00 ] 127.0.0.1 /Admin/Request/add
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-08-14T17:42:17+08:00 ] 127.0.0.1 /Admin/Request/add
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-08-14T17:43:08+08:00 ] 127.0.0.1 /Admin/Request/add
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING)
+
+[ 2017-08-14T17:43:21+08:00 ] 127.0.0.1 /Admin/Request/add
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-08-14T17:43:39+08:00 ] 127.0.0.1 /Admin/Request/add
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-08-14T17:45:40+08:00 ] 127.0.0.1 /Admin/Request/add
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: validate C:\User\phpStudy\WWW\thinkphp\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+SQL: SHOW COLUMNS FROM `my_friendlylink_kevin` [ RunTime:0.0030s ]
+NOTIC: [8] Undefined index: auto C:\User\phpStudy\WWW\thinkphp\ThinkPHP\Library\Think\Model.class.php 第 1128 行.
+SQL: SHOW COLUMNS FROM `my_friendlylink_kevin` [ RunTime:0.0020s ]
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'a (`friendname`,`link`,`img`) VALUES ('1','1','1')' at line 1
+ [ SQL语句 ] : INSERT INTO my_friendlylink_kevin a (`friendname`,`link`,`img`) VALUES ('1','1','1')
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'a (`friendname`,`link`,`img`) VALUES ('1','1','1')' at line 1
+ [ SQL语句 ] : INSERT INTO my_friendlylink_kevin a (`friendname`,`link`,`img`) VALUES ('1','1','1')
+
+[ 2017-08-14T17:46:35+08:00 ] 127.0.0.1 /Admin/Request/add
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: validate C:\User\phpStudy\WWW\thinkphp\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+SQL: SHOW COLUMNS FROM `my_friendlylink_kevin` [ RunTime:0.0040s ]
+NOTIC: [8] Undefined index: auto C:\User\phpStudy\WWW\thinkphp\ThinkPHP\Library\Think\Model.class.php 第 1128 行.
+SQL: SHOW COLUMNS FROM `my_friendlylink_kevin` [ RunTime:0.0020s ]
+SQL: INSERT INTO `my_friendlylink_kevin` (`friendname`,`link`,`img`) VALUES ('1','1','1') [ RunTime:0.0350s ]
+NOTIC: [8] Undefined variable: other C:\User\phpStudy\WWW\thinkphp\Application\Common\Common\function.php 第 94 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-08-14T17:47:17+08:00 ] 127.0.0.1 /Admin/Request/add
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: validate C:\User\phpStudy\WWW\thinkphp\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+SQL: SHOW COLUMNS FROM `my_friendlylink_kevin` [ RunTime:0.0030s ]
+NOTIC: [8] Undefined index: auto C:\User\phpStudy\WWW\thinkphp\ThinkPHP\Library\Think\Model.class.php 第 1128 行.
+SQL: SHOW COLUMNS FROM `my_friendlylink_kevin` [ RunTime:0.0030s ]
+SQL: INSERT INTO `my_friendlylink_kevin` (`friendname`,`link`,`img`) VALUES ('1','1','1') [ RunTime:0.0540s ]
+NOTIC: [8] Undefined variable: other C:\User\phpStudy\WWW\thinkphp\Application\Common\Common\function.php 第 94 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-08-14T17:48:33+08:00 ] 127.0.0.1 /Admin/Request/add
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: validate C:\User\phpStudy\WWW\thinkphp\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+SQL: SHOW COLUMNS FROM `my_friendlylink_kevin` [ RunTime:0.0050s ]
+NOTIC: [8] Undefined index: auto C:\User\phpStudy\WWW\thinkphp\ThinkPHP\Library\Think\Model.class.php 第 1128 行.
+SQL: SHOW COLUMNS FROM `my_friendlylink_kevin` [ RunTime:0.0020s ]
+SQL: INSERT INTO `my_friendlylink_kevin` (`friendname`,`link`,`img`) VALUES ('1','1','1') [ RunTime:0.0570s ]
+NOTIC: [8] Undefined variable: other C:\User\phpStudy\WWW\thinkphp\Application\Common\Common\function.php 第 94 行.
+
+[ 2017-08-14T17:49:59+08:00 ] 127.0.0.1 /Admin/Request/add
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-08-14T17:51:00+08:00 ] 127.0.0.1 /Admin/Request/add
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-08-14T17:55:21+08:00 ] 127.0.0.1 /Admin/Request/add
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-08-14T17:56:04+08:00 ] 127.0.0.1 /Admin/Request/add
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-08-14T17:56:11+08:00 ] 127.0.0.1 /Admin/Request/add
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-08-14T17:57:11+08:00 ] 127.0.0.1 /Admin/Request/add
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-08-14T17:57:56+08:00 ] 127.0.0.1 /Admin/Request/add
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-08-14T17:58:38+08:00 ] 127.0.0.1 /Admin/Request/add
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-08-14T17:58:56+08:00 ] 127.0.0.1 /Admin/Request/add
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-08-14T17:59:18+08:00 ] 127.0.0.1 /Admin/Request/add
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-08-14T17:59:26+08:00 ] 127.0.0.1 /Admin/Request/add
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-08-14T17:59:29+08:00 ] 127.0.0.1 /Admin/Request/add
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-08-14T17:59:32+08:00 ] 127.0.0.1 /Admin/Request/add
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-08-14T17:59:47+08:00 ] 127.0.0.1 /Admin/Request/add
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-08-14T18:00:26+08:00 ] 127.0.0.1 /Admin/Request/add
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-08-14T18:00:48+08:00 ] 127.0.0.1 /Admin/Request/add
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] Invalid argument supplied for foreach() C:\User\phpStudy\WWW\thinkphp\Application\Admin\Controller\Request\add.class.php 第 16 行.
+NOTIC: [8] Undefined variable: e C:\User\phpStudy\WWW\thinkphp\Application\Admin\Controller\Request\add.class.php 第 20 行.
+NOTIC: [8] Undefined index: validate C:\User\phpStudy\WWW\thinkphp\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+SQL: SHOW COLUMNS FROM `my_friendlylink_kevin` [ RunTime:0.0030s ]
+NOTIC: [8] Undefined index: auto C:\User\phpStudy\WWW\thinkphp\ThinkPHP\Library\Think\Model.class.php 第 1128 行.
+NOTIC: [8] Undefined variable: other C:\User\phpStudy\WWW\thinkphp\Application\Common\Common\function.php 第 94 行.
+
+[ 2017-08-14T18:00:52+08:00 ] 127.0.0.1 /Admin/Request/add
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] Invalid argument supplied for foreach() C:\User\phpStudy\WWW\thinkphp\Application\Admin\Controller\Request\add.class.php 第 16 行.
+NOTIC: [8] Undefined variable: e C:\User\phpStudy\WWW\thinkphp\Application\Admin\Controller\Request\add.class.php 第 20 行.
+NOTIC: [8] Undefined index: validate C:\User\phpStudy\WWW\thinkphp\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+SQL: SHOW COLUMNS FROM `my_friendlylink_kevin` [ RunTime:0.0030s ]
+NOTIC: [8] Undefined index: auto C:\User\phpStudy\WWW\thinkphp\ThinkPHP\Library\Think\Model.class.php 第 1128 行.
+NOTIC: [8] Undefined variable: other C:\User\phpStudy\WWW\thinkphp\Application\Common\Common\function.php 第 94 行.
+
+[ 2017-08-14T18:01:09+08:00 ] 127.0.0.1 /Admin/Request/add
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] Invalid argument supplied for foreach() C:\User\phpStudy\WWW\thinkphp\Application\Admin\Controller\Request\add.class.php 第 16 行.
+NOTIC: [8] Undefined variable: e C:\User\phpStudy\WWW\thinkphp\Application\Admin\Controller\Request\add.class.php 第 20 行.
+NOTIC: [8] Undefined index: validate C:\User\phpStudy\WWW\thinkphp\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+SQL: SHOW COLUMNS FROM `my_friendlylink_kevin` [ RunTime:0.0040s ]
+NOTIC: [8] Undefined index: auto C:\User\phpStudy\WWW\thinkphp\ThinkPHP\Library\Think\Model.class.php 第 1128 行.
+NOTIC: [8] Undefined variable: other C:\User\phpStudy\WWW\thinkphp\Application\Common\Common\function.php 第 94 行.
+
+[ 2017-08-14T18:01:44+08:00 ] 127.0.0.1 /Admin/Request/add
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] Invalid argument supplied for foreach() C:\User\phpStudy\WWW\thinkphp\Application\Admin\Controller\Request\add.class.php 第 16 行.
+NOTIC: [8] Undefined variable: e C:\User\phpStudy\WWW\thinkphp\Application\Admin\Controller\Request\add.class.php 第 20 行.
+NOTIC: [8] Undefined index: validate C:\User\phpStudy\WWW\thinkphp\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+SQL: SHOW COLUMNS FROM `my_friendlylink_kevin` [ RunTime:0.0040s ]
+NOTIC: [8] Undefined index: auto C:\User\phpStudy\WWW\thinkphp\ThinkPHP\Library\Think\Model.class.php 第 1128 行.
+NOTIC: [8] Undefined variable: other C:\User\phpStudy\WWW\thinkphp\Application\Common\Common\function.php 第 94 行.
+
+[ 2017-08-14T18:02:13+08:00 ] 127.0.0.1 /Admin/Request/add
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] Invalid argument supplied for foreach() C:\User\phpStudy\WWW\thinkphp\Application\Admin\Controller\Request\add.class.php 第 16 行.
+NOTIC: [8] Undefined variable: e C:\User\phpStudy\WWW\thinkphp\Application\Admin\Controller\Request\add.class.php 第 20 行.
+NOTIC: [8] Undefined index: validate C:\User\phpStudy\WWW\thinkphp\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+SQL: SHOW COLUMNS FROM `my_friendlylink_kevin` [ RunTime:0.0060s ]
+NOTIC: [8] Undefined index: auto C:\User\phpStudy\WWW\thinkphp\ThinkPHP\Library\Think\Model.class.php 第 1128 行.
+NOTIC: [8] Undefined variable: other C:\User\phpStudy\WWW\thinkphp\Application\Common\Common\function.php 第 96 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at C:\User\phpStudy\WWW\thinkphp\Application\Common\Common\function.php:87) C:\User\phpStudy\WWW\thinkphp\ThinkPHP\Library\Think\Controller.class.php 第 215 行.
+
+[ 2017-08-14T18:02:56+08:00 ] 127.0.0.1 /Admin/Request/add
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2] Invalid argument supplied for foreach() C:\User\phpStudy\WWW\thinkphp\Application\Admin\Controller\Request\add.class.php 第 16 行.
+NOTIC: [8] Undefined variable: e C:\User\phpStudy\WWW\thinkphp\Application\Admin\Controller\Request\add.class.php 第 20 行.
+NOTIC: [8] Undefined index: validate C:\User\phpStudy\WWW\thinkphp\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+SQL: SHOW COLUMNS FROM `my_friendlylink_kevin` [ RunTime:0.0040s ]
+NOTIC: [8] Undefined index: auto C:\User\phpStudy\WWW\thinkphp\ThinkPHP\Library\Think\Model.class.php 第 1128 行.
+NOTIC: [8] Undefined variable: other C:\User\phpStudy\WWW\thinkphp\Application\Common\Common\function.php 第 96 行.
+
+[ 2017-08-14T18:03:49+08:00 ] 127.0.0.1 /Admin/Request/add
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] Invalid argument supplied for foreach() C:\User\phpStudy\WWW\thinkphp\Application\Admin\Controller\Request\add.class.php 第 16 行.
+NOTIC: [8] Undefined variable: e C:\User\phpStudy\WWW\thinkphp\Application\Admin\Controller\Request\add.class.php 第 20 行.
+NOTIC: [8] Undefined index: validate C:\User\phpStudy\WWW\thinkphp\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+SQL: SHOW COLUMNS FROM `my_friendlylink_kevin` [ RunTime:0.0030s ]
+NOTIC: [8] Undefined index: auto C:\User\phpStudy\WWW\thinkphp\ThinkPHP\Library\Think\Model.class.php 第 1128 行.
+NOTIC: [8] Undefined variable: other C:\User\phpStudy\WWW\thinkphp\Application\Common\Common\function.php 第 96 行.
+
+[ 2017-08-14T18:04:09+08:00 ] 127.0.0.1 /Admin/Request/add
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] Invalid argument supplied for foreach() C:\User\phpStudy\WWW\thinkphp\Application\Admin\Controller\Request\add.class.php 第 16 行.
+NOTIC: [8] Undefined variable: e C:\User\phpStudy\WWW\thinkphp\Application\Admin\Controller\Request\add.class.php 第 20 行.
+NOTIC: [8] Undefined index: validate C:\User\phpStudy\WWW\thinkphp\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+SQL: SHOW COLUMNS FROM `my_friendlylink_kevin` [ RunTime:0.0040s ]
+NOTIC: [8] Undefined index: auto C:\User\phpStudy\WWW\thinkphp\ThinkPHP\Library\Think\Model.class.php 第 1128 行.
+NOTIC: [8] Undefined variable: other C:\User\phpStudy\WWW\thinkphp\Application\Common\Common\function.php 第 96 行.
+
+[ 2017-08-14T18:04:22+08:00 ] 127.0.0.1 /Admin/Request/add
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002001s ]
+NOTIC: [2] Invalid argument supplied for foreach() C:\User\phpStudy\WWW\thinkphp\Application\Admin\Controller\Request\add.class.php 第 17 行.
+NOTIC: [8] Undefined variable: e C:\User\phpStudy\WWW\thinkphp\Application\Admin\Controller\Request\add.class.php 第 21 行.
+NOTIC: [8] Undefined index: validate C:\User\phpStudy\WWW\thinkphp\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+SQL: SHOW COLUMNS FROM `my_friendlylink_kevin` [ RunTime:0.0050s ]
+NOTIC: [8] Undefined index: auto C:\User\phpStudy\WWW\thinkphp\ThinkPHP\Library\Think\Model.class.php 第 1128 行.
+NOTIC: [8] Undefined variable: other C:\User\phpStudy\WWW\thinkphp\Application\Common\Common\function.php 第 96 行.
+
+[ 2017-08-14T18:04:32+08:00 ] 127.0.0.1 /Admin/Request/add
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] Invalid argument supplied for foreach() C:\User\phpStudy\WWW\thinkphp\Application\Admin\Controller\Request\add.class.php 第 17 行.
+NOTIC: [8] Undefined variable: e C:\User\phpStudy\WWW\thinkphp\Application\Admin\Controller\Request\add.class.php 第 21 行.
+NOTIC: [8] Undefined index: validate C:\User\phpStudy\WWW\thinkphp\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+SQL: SHOW COLUMNS FROM `my_friendlylink_kevin` [ RunTime:0.0040s ]
+NOTIC: [8] Undefined index: auto C:\User\phpStudy\WWW\thinkphp\ThinkPHP\Library\Think\Model.class.php 第 1128 行.
+NOTIC: [8] Undefined variable: other C:\User\phpStudy\WWW\thinkphp\Application\Common\Common\function.php 第 96 行.
+
+[ 2017-08-14T18:04:41+08:00 ] 127.0.0.1 /Admin/Request/add
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] Invalid argument supplied for foreach() C:\User\phpStudy\WWW\thinkphp\Application\Admin\Controller\Request\add.class.php 第 17 行.
+NOTIC: [8] Undefined variable: e C:\User\phpStudy\WWW\thinkphp\Application\Admin\Controller\Request\add.class.php 第 21 行.
+NOTIC: [8] Undefined index: validate C:\User\phpStudy\WWW\thinkphp\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+SQL: SHOW COLUMNS FROM `my_friendlylink_kevin` [ RunTime:0.0040s ]
+NOTIC: [8] Undefined index: auto C:\User\phpStudy\WWW\thinkphp\ThinkPHP\Library\Think\Model.class.php 第 1128 行.
+NOTIC: [8] Undefined variable: other C:\User\phpStudy\WWW\thinkphp\Application\Common\Common\function.php 第 96 行.
+
+[ 2017-08-14T18:05:16+08:00 ] 127.0.0.1 /Admin/Request/add
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] Invalid argument supplied for foreach() C:\User\phpStudy\WWW\thinkphp\Application\Admin\Controller\Request\add.class.php 第 17 行.
+NOTIC: [8] Undefined variable: e C:\User\phpStudy\WWW\thinkphp\Application\Admin\Controller\Request\add.class.php 第 20 行.
+NOTIC: [8] Undefined variable: e C:\User\phpStudy\WWW\thinkphp\Application\Admin\Controller\Request\add.class.php 第 22 行.
+NOTIC: [8] Undefined index: validate C:\User\phpStudy\WWW\thinkphp\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+SQL: SHOW COLUMNS FROM `my_friendlylink_kevin` [ RunTime:0.0050s ]
+NOTIC: [8] Undefined index: auto C:\User\phpStudy\WWW\thinkphp\ThinkPHP\Library\Think\Model.class.php 第 1128 行.
+NOTIC: [8] Undefined variable: other C:\User\phpStudy\WWW\thinkphp\Application\Common\Common\function.php 第 96 行.
+
+[ 2017-08-14T18:05:41+08:00 ] 127.0.0.1 /Admin/Request/add
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] Invalid argument supplied for foreach() C:\User\phpStudy\WWW\thinkphp\Application\Admin\Controller\Request\add.class.php 第 17 行.
+NOTIC: [8] Undefined variable: e C:\User\phpStudy\WWW\thinkphp\Application\Admin\Controller\Request\add.class.php 第 21 行.
+NOTIC: [8] Undefined variable: e C:\User\phpStudy\WWW\thinkphp\Application\Admin\Controller\Request\add.class.php 第 23 行.
+NOTIC: [8] Undefined index: validate C:\User\phpStudy\WWW\thinkphp\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+SQL: SHOW COLUMNS FROM `my_friendlylink_kevin` [ RunTime:0.0030s ]
+NOTIC: [8] Undefined index: auto C:\User\phpStudy\WWW\thinkphp\ThinkPHP\Library\Think\Model.class.php 第 1128 行.
+NOTIC: [8] Undefined variable: other C:\User\phpStudy\WWW\thinkphp\Application\Common\Common\function.php 第 96 行.
+
+[ 2017-08-14T18:06:54+08:00 ] 127.0.0.1 /Admin/Request/add
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: validate C:\User\phpStudy\WWW\thinkphp\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+SQL: SHOW COLUMNS FROM `my_friendlylink_kevin` [ RunTime:0.0040s ]
+NOTIC: [8] Undefined index: auto C:\User\phpStudy\WWW\thinkphp\ThinkPHP\Library\Think\Model.class.php 第 1128 行.
+SQL: SHOW COLUMNS FROM `my_friendlylink_kevin` [ RunTime:0.0050s ]
+SQL: INSERT INTO `my_friendlylink_kevin` (`friendname`,`link`,`img`) VALUES ('阿迪','w','ss') [ RunTime:0.1380s ]
+NOTIC: [8] Undefined variable: other C:\User\phpStudy\WWW\thinkphp\Application\Common\Common\function.php 第 94 行.
+
+[ 2017-08-14T18:11:19+08:00 ] 127.0.0.1 /Admin/Request/index/0/link/1/%E5%88%A0%E9%99%A4/id/1
+ERR: syntax error, unexpected '}', expecting ';'
+
+[ 2017-08-14T18:11:20+08:00 ] 127.0.0.1 /Admin/Request/index/0/link/1/%E5%88%A0%E9%99%A4/id/1
+ERR: syntax error, unexpected '}', expecting ';'
+
+[ 2017-08-14T18:12:09+08:00 ] 127.0.0.1 /a/images/bg_header.jpg
+ERR: 模板不存在:./Application/Admin/View/default/images.html
+
+[ 2017-08-14T18:12:10+08:00 ] 127.0.0.1 /a/images/bullet1.gif
+ERR: 模板不存在:./Application/Admin/View/default/images.html
+
+[ 2017-08-14T18:12:11+08:00 ] 127.0.0.1 /a/images/bg_header.jpg
+ERR: 模板不存在:./Application/Admin/View/default/images.html
+
+[ 2017-08-14T18:12:11+08:00 ] 127.0.0.1 /a/images/bullet1.gif
+ERR: 模板不存在:./Application/Admin/View/default/images.html
+
+[ 2017-08-14T18:12:12+08:00 ] 127.0.0.1 /a/images/bg_header.jpg
+ERR: 模板不存在:./Application/Admin/View/default/images.html
+
+[ 2017-08-14T18:12:12+08:00 ] 127.0.0.1 /a/images/bullet1.gif
+ERR: 模板不存在:./Application/Admin/View/default/images.html
+
+[ 2017-08-14T18:16:32+08:00 ] 127.0.0.1 /a/user.html
+ERR: syntax error, unexpected ''find'' (T_CONSTANT_ENCAPSED_STRING), expecting ']'
+
+[ 2017-08-14T18:16:51+08:00 ] 127.0.0.1 /a/user.html
+ERR: syntax error, unexpected ''find'' (T_CONSTANT_ENCAPSED_STRING), expecting ']'
+
+[ 2017-08-14T18:18:04+08:00 ] 127.0.0.1 /a/usere
+ERR: 模板不存在:./Application/Admin/View/default/usere.html
+
+[ 2017-08-14T18:24:35+08:00 ] 127.0.0.1 /Admin/Request/add
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: validate C:\User\phpStudy\WWW\thinkphp\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+SQL: SHOW COLUMNS FROM `my_friendlylink_kevin` [ RunTime:0.0030s ]
+NOTIC: [8] Undefined index: auto C:\User\phpStudy\WWW\thinkphp\ThinkPHP\Library\Think\Model.class.php 第 1128 行.
+NOTIC: [8] Undefined variable: other C:\User\phpStudy\WWW\thinkphp\Application\Common\Common\function.php 第 92 行.
+
+[ 2017-08-14T18:24:46+08:00 ] 127.0.0.1 /Admin/Request/add
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8] Undefined index: validate C:\User\phpStudy\WWW\thinkphp\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+SQL: SHOW COLUMNS FROM `my_friendlylink_kevin` [ RunTime:0.0040s ]
+NOTIC: [8] Undefined index: auto C:\User\phpStudy\WWW\thinkphp\ThinkPHP\Library\Think\Model.class.php 第 1128 行.
+NOTIC: [8] Undefined variable: other C:\User\phpStudy\WWW\thinkphp\Application\Common\Common\function.php 第 92 行.
+
+[ 2017-08-14T18:25:38+08:00 ] 127.0.0.1 /Admin/Request/add
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: validate C:\User\phpStudy\WWW\thinkphp\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+SQL: SHOW COLUMNS FROM `my_friendlylink_kevin` [ RunTime:0.0040s ]
+NOTIC: [8] Undefined index: auto C:\User\phpStudy\WWW\thinkphp\ThinkPHP\Library\Think\Model.class.php 第 1128 行.
+NOTIC: [8] Undefined variable: other C:\User\phpStudy\WWW\thinkphp\Application\Common\Common\function.php 第 93 行.
+
+[ 2017-08-14T18:25:54+08:00 ] 127.0.0.1 /Admin/Request/add
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: validate C:\User\phpStudy\WWW\thinkphp\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+SQL: SHOW COLUMNS FROM `my_friendlylink_kevin` [ RunTime:0.0030s ]
+NOTIC: [8] Undefined index: auto C:\User\phpStudy\WWW\thinkphp\ThinkPHP\Library\Think\Model.class.php 第 1128 行.
+NOTIC: [8] Undefined variable: other C:\User\phpStudy\WWW\thinkphp\Application\Common\Common\function.php 第 92 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at C:\User\phpStudy\WWW\thinkphp\Application\Common\Common\function.php:85) C:\User\phpStudy\WWW\thinkphp\ThinkPHP\Library\Think\Controller.class.php 第 215 行.
+
+[ 2017-08-14T18:26:04+08:00 ] 127.0.0.1 /Admin/Request/add
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001001s ]
+NOTIC: [8] Undefined index: validate C:\User\phpStudy\WWW\thinkphp\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+SQL: SHOW COLUMNS FROM `my_friendlylink_kevin` [ RunTime:0.0050s ]
+NOTIC: [8] Undefined index: auto C:\User\phpStudy\WWW\thinkphp\ThinkPHP\Library\Think\Model.class.php 第 1128 行.
+NOTIC: [8] Undefined variable: other C:\User\phpStudy\WWW\thinkphp\Application\Common\Common\function.php 第 93 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at C:\User\phpStudy\WWW\thinkphp\Application\Common\Common\function.php:86) C:\User\phpStudy\WWW\thinkphp\ThinkPHP\Library\Think\Controller.class.php 第 215 行.
+
+[ 2017-08-14T18:26:41+08:00 ] 127.0.0.1 /Admin/Request/add
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: validate C:\User\phpStudy\WWW\thinkphp\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+SQL: SHOW COLUMNS FROM `my_friendlylink_kevin` [ RunTime:0.0040s ]
+NOTIC: [8] Undefined index: auto C:\User\phpStudy\WWW\thinkphp\ThinkPHP\Library\Think\Model.class.php 第 1128 行.
+NOTIC: [8] Undefined variable: other C:\User\phpStudy\WWW\thinkphp\Application\Common\Common\function.php 第 92 行.
+
+[ 2017-08-14T18:27:09+08:00 ] 127.0.0.1 /Admin/Request/add
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: validate C:\User\phpStudy\WWW\thinkphp\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+SQL: SHOW COLUMNS FROM `my_friendlylink_kevin` [ RunTime:0.0050s ]
+NOTIC: [8] Undefined index: auto C:\User\phpStudy\WWW\thinkphp\ThinkPHP\Library\Think\Model.class.php 第 1128 行.
+NOTIC: [8] Undefined variable: other C:\User\phpStudy\WWW\thinkphp\Application\Common\Common\function.php 第 92 行.
+
+[ 2017-08-14T18:27:32+08:00 ] 127.0.0.1 /Admin/Request/add
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8] Undefined index: validate C:\User\phpStudy\WWW\thinkphp\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+SQL: SHOW COLUMNS FROM `my_friendlylink_kevin` [ RunTime:0.0030s ]
+NOTIC: [8] Undefined index: auto C:\User\phpStudy\WWW\thinkphp\ThinkPHP\Library\Think\Model.class.php 第 1128 行.
+NOTIC: [8] Undefined variable: other C:\User\phpStudy\WWW\thinkphp\Application\Common\Common\function.php 第 92 行.
+
+[ 2017-08-14T18:27:50+08:00 ] 127.0.0.1 /Admin/Request/add
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: user C:\User\phpStudy\WWW\thinkphp\Application\Admin\Controller\Request\add.class.php 第 30 行.
+
+[ 2017-08-14T18:28:04+08:00 ] 127.0.0.1 /Admin/Request/add
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: syntax error, unexpected '$url' (T_VARIABLE)
+
+[ 2017-08-14T18:28:13+08:00 ] 127.0.0.1 /Admin/Request/add
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: user C:\User\phpStudy\WWW\thinkphp\Application\Admin\Controller\Request\add.class.php 第 30 行.
+
+[ 2017-08-14T18:28:41+08:00 ] 127.0.0.1 /Admin/Request/add
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8] Undefined index: validate C:\User\phpStudy\WWW\thinkphp\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+SQL: SHOW COLUMNS FROM `my_user_kevin` [ RunTime:0.0040s ]
+NOTIC: [8] Undefined index: auto C:\User\phpStudy\WWW\thinkphp\ThinkPHP\Library\Think\Model.class.php 第 1128 行.
+SQL: SHOW COLUMNS FROM `my_user_kevin` [ RunTime:0.0030s ]
+NOTIC: [8] Undefined variable: other C:\User\phpStudy\WWW\thinkphp\Application\Common\Common\function.php 第 92 行.
+
+[ 2017-08-14T18:28:49+08:00 ] 127.0.0.1 /Admin/Request/add
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: validate C:\User\phpStudy\WWW\thinkphp\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+SQL: SHOW COLUMNS FROM `my_user_kevin` [ RunTime:0.0040s ]
+NOTIC: [8] Undefined index: auto C:\User\phpStudy\WWW\thinkphp\ThinkPHP\Library\Think\Model.class.php 第 1128 行.
+SQL: SHOW COLUMNS FROM `my_user_kevin` [ RunTime:0.0030s ]
+NOTIC: [8] Undefined variable: other C:\User\phpStudy\WWW\thinkphp\Application\Common\Common\function.php 第 92 行.
+
+[ 2017-08-14T18:29:08+08:00 ] 127.0.0.1 /Admin/Request/add
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+

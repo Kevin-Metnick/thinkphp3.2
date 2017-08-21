@@ -1,0 +1,6 @@
+[ 2017-08-17T16:54:36+08:00 ] 127.0.0.1 /a/images/bg_header.jpg
+ERR: 模板不存在:./Application/Admin/View/default/images.html
+
+[ 2017-08-17T16:54:37+08:00 ] 127.0.0.1 /a/images/bullet1.gif
+ERR: 模板不存在:./Application/Admin/View/default/images.html
+

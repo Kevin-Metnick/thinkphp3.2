@@ -1,0 +1,832 @@
+[ 2017-08-16T09:30:37+08:00 ] 127.0.0.1 /s/images/preloader.gif
+ERR: 模板不存在:./Application/Home/View/mstp_85_empire/images.html
+
+[ 2017-08-16T09:30:42+08:00 ] 127.0.0.1 /s/captcha.php?c=163Z
+ERR: 无法加载控制器:163Z
+
+[ 2017-08-16T09:30:42+08:00 ] 127.0.0.1 /s/captcha.php?c=1TKZ
+ERR: 无法加载控制器:1TKZ
+
+[ 2017-08-16T09:30:43+08:00 ] 127.0.0.1 /s/images/image_overlay.png
+ERR: 模板不存在:./Application/Home/View/mstp_85_empire/images.html
+
+[ 2017-08-16T09:30:43+08:00 ] 127.0.0.1 /s/images/preloader.gif
+ERR: 模板不存在:./Application/Home/View/mstp_85_empire/images.html
+
+[ 2017-08-16T09:30:43+08:00 ] 127.0.0.1 /s/images/preloader.gif
+ERR: 模板不存在:./Application/Home/View/mstp_85_empire/images.html
+
+[ 2017-08-16T09:31:27+08:00 ] 127.0.0.1 /s/images/image_overlay.png
+ERR: 模板不存在:./Application/Home/View/mstp_85_empire/images.html
+
+[ 2017-08-16T09:32:12+08:00 ] 127.0.0.1 /s/images/preloader.gif
+ERR: 模板不存在:./Application/Home/View/mstp_85_empire/images.html
+
+[ 2017-08-16T09:32:13+08:00 ] 127.0.0.1 /s/captcha.php?c=LX8J
+ERR: 非法操作:index
+
+[ 2017-08-16T09:32:35+08:00 ] 127.0.0.1 /s/captcha.php?c=H4UR
+ERR: 非法操作:index
+
+[ 2017-08-16T09:32:36+08:00 ] 127.0.0.1 /s/images/preloader.gif
+ERR: 模板不存在:./Application/Home/View/mstp_85_empire/images.html
+
+[ 2017-08-16T09:32:45+08:00 ] 127.0.0.1 /s/images/image_overlay.png
+ERR: 模板不存在:./Application/Home/View/mstp_85_empire/images.html
+
+[ 2017-08-16T09:36:29+08:00 ] 127.0.0.1 /s/blog-1.html
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '(count(*)) FROM my_article_kevin a left join my_message_kevin m on m.article_id=' at line 1
+ [ SQL语句 ] : SELECT a.id,a.title,substring(a.article,1,100) as article,a.image,from_unixtime(a.time,'%c月 %d,%Y') as time,comment(count(*)) FROM my_article_kevin a left join my_message_kevin m on m.article_id=a.id  ORDER BY `id` desc LIMIT 5  
+
+[ 2017-08-16T09:36:53+08:00 ] 127.0.0.1 /s/captcha.php?c=8D5K
+ERR: 无法加载控制器:8D5K
+
+[ 2017-08-16T09:36:54+08:00 ] 127.0.0.1 /s/images/preloader.gif
+ERR: 模板不存在:./Application/Home/View/mstp_85_empire/images.html
+
+[ 2017-08-16T09:37:08+08:00 ] 127.0.0.1 /s/captcha.php?c=MLES
+ERR: 非法操作:index
+
+[ 2017-08-16T09:37:09+08:00 ] 127.0.0.1 /s/images/preloader.gif
+ERR: 模板不存在:./Application/Home/View/mstp_85_empire/images.html
+
+[ 2017-08-16T09:37:09+08:00 ] 127.0.0.1 /s/captcha.php?c=QX32
+ERR: 非法操作:index
+
+[ 2017-08-16T09:37:10+08:00 ] 127.0.0.1 /s/images/preloader.gif
+ERR: 模板不存在:./Application/Home/View/mstp_85_empire/images.html
+
+[ 2017-08-16T09:37:17+08:00 ] 127.0.0.1 /s/captcha.php?c=5XL3
+ERR: 无法加载控制器:5XL3
+
+[ 2017-08-16T09:37:17+08:00 ] 127.0.0.1 /s/images/image_overlay.png
+ERR: 模板不存在:./Application/Home/View/mstp_85_empire/images.html
+
+[ 2017-08-16T09:37:18+08:00 ] 127.0.0.1 /s/images/preloader.gif
+ERR: 模板不存在:./Application/Home/View/mstp_85_empire/images.html
+
+[ 2017-08-16T09:37:18+08:00 ] 127.0.0.1 /s/images/preloader.gif
+ERR: 模板不存在:./Application/Home/View/mstp_85_empire/images.html
+
+[ 2017-08-16T09:37:19+08:00 ] 127.0.0.1 /s/images/image_overlay.png
+ERR: 模板不存在:./Application/Home/View/mstp_85_empire/images.html
+
+[ 2017-08-16T09:37:20+08:00 ] 127.0.0.1 /s/captcha.php?c=HMUD
+ERR: 非法操作:index
+
+[ 2017-08-16T09:37:21+08:00 ] 127.0.0.1 /s/images/preloader.gif
+ERR: 模板不存在:./Application/Home/View/mstp_85_empire/images.html
+
+[ 2017-08-16T09:37:40+08:00 ] 127.0.0.1 /s/captcha.php?c=V3BT
+ERR: 非法操作:index
+
+[ 2017-08-16T09:37:41+08:00 ] 127.0.0.1 /s/images/image_overlay.png
+ERR: 模板不存在:./Application/Home/View/mstp_85_empire/images.html
+
+[ 2017-08-16T09:37:41+08:00 ] 127.0.0.1 /s/images/preloader.gif
+ERR: 模板不存在:./Application/Home/View/mstp_85_empire/images.html
+
+[ 2017-08-16T09:37:43+08:00 ] 127.0.0.1 /s/images/image_overlay.png
+ERR: 模板不存在:./Application/Home/View/mstp_85_empire/images.html
+
+[ 2017-08-16T09:38:04+08:00 ] 127.0.0.1 /s/blog-1.html
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '*) as comment FROM my_article_kevin a left join my_message_kevin m on m.article_' at line 1
+ [ SQL语句 ] : SELECT a.id,a.title,substring(a.article,1,100) as article,a.image,from_unixtime(a.time,'%c月 %d,%Y') as time,count(m.*) as comment FROM my_article_kevin a left join my_message_kevin m on m.article_id=a.id  ORDER BY `id` desc LIMIT 5  
+
+[ 2017-08-16T09:38:05+08:00 ] 127.0.0.1 /s/blog-1.html
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '*) as comment FROM my_article_kevin a left join my_message_kevin m on m.article_' at line 1
+ [ SQL语句 ] : SELECT a.id,a.title,substring(a.article,1,100) as article,a.image,from_unixtime(a.time,'%c月 %d,%Y') as time,count(m.*) as comment FROM my_article_kevin a left join my_message_kevin m on m.article_id=a.id  ORDER BY `id` desc LIMIT 5  
+
+[ 2017-08-16T09:38:21+08:00 ] 127.0.0.1 /s/captcha.php?c=XI8F
+ERR: 非法操作:index
+
+[ 2017-08-16T09:38:21+08:00 ] 127.0.0.1 /s/images/preloader.gif
+ERR: 模板不存在:./Application/Home/View/mstp_85_empire/images.html
+
+[ 2017-08-16T09:38:27+08:00 ] 127.0.0.1 /s/blog-1.html
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '*) as comment FROM my_article_kevin a left join my_message_kevin m on m.article_' at line 1
+ [ SQL语句 ] : SELECT a.id,a.title,substring(a.article,1,100) as article,a.image,from_unixtime(a.time,'%c月 %d,%Y') as time,count(m.*) as comment FROM my_article_kevin a left join my_message_kevin m on m.article_id=a.id  ORDER BY `id` desc LIMIT 5  
+
+[ 2017-08-16T09:40:32+08:00 ] 127.0.0.1 /s/blog-1.html
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '*) as comment FROM my_article_kevin a left join my_message_kevin m on m.article_' at line 1
+ [ SQL语句 ] : SELECT a.id,a.title,substring(a.article,1,100) as article,a.image,from_unixtime(a.time,'%c月 %d,%Y') as time,count(m.*) as comment FROM my_article_kevin a left join my_message_kevin m on m.article_id=a.id  ORDER BY `id` desc LIMIT 5  
+
+[ 2017-08-16T09:45:23+08:00 ] 127.0.0.1 /s/blog-1.html
+ERR: 1052:Column 'id' in order clause is ambiguous
+ [ SQL语句 ] : SELECT a.id,a.title,substring(a.article,1,100) as article,a.image,from_unixtime(a.time,'%c月 %d,%Y') as time,m.id FROM my_article_kevin a left join my_articlestate_kevin t on t.article_id=a.id left join my_message_kevin m on m.article_id=a.id  ORDER BY `id` desc LIMIT 5  
+
+[ 2017-08-16T09:45:50+08:00 ] 127.0.0.1 /s/captcha.php?c=MXXF
+ERR: 非法操作:index
+
+[ 2017-08-16T09:45:51+08:00 ] 127.0.0.1 /s/images/preloader.gif
+ERR: 模板不存在:./Application/Home/View/mstp_85_empire/images.html
+
+[ 2017-08-16T09:46:23+08:00 ] 127.0.0.1 /s/blog-1.html
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '*) as comment FROM my_article_kevin a left join my_articlestate_kevin t on t.art' at line 1
+ [ SQL语句 ] : SELECT a.id,a.title,substring(a.article,1,100) as article,a.image,from_unixtime(a.time,'%c月 %d,%Y') as time,m.id,count(m.*) as comment FROM my_article_kevin a left join my_articlestate_kevin t on t.article_id=a.id left join my_message_kevin m on m.article_id=a.id  ORDER BY a.id desc LIMIT 5  
+
+[ 2017-08-16T09:46:23+08:00 ] 127.0.0.1 /s/blog-1.html
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '*) as comment FROM my_article_kevin a left join my_articlestate_kevin t on t.art' at line 1
+ [ SQL语句 ] : SELECT a.id,a.title,substring(a.article,1,100) as article,a.image,from_unixtime(a.time,'%c月 %d,%Y') as time,m.id,count(m.*) as comment FROM my_article_kevin a left join my_articlestate_kevin t on t.article_id=a.id left join my_message_kevin m on m.article_id=a.id  ORDER BY a.id desc LIMIT 5  
+
+[ 2017-08-16T09:46:38+08:00 ] 127.0.0.1 /s/captcha.php?c=MRBP
+ERR: 非法操作:index
+
+[ 2017-08-16T09:46:39+08:00 ] 127.0.0.1 /s/images/preloader.gif
+ERR: 模板不存在:./Application/Home/View/mstp_85_empire/images.html
+
+[ 2017-08-16T09:46:47+08:00 ] 127.0.0.1 /s/blog-1.html
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '*) as comment FROM my_article_kevin a left join my_articlestate_kevin t on t.art' at line 1
+ [ SQL语句 ] : SELECT a.id,a.title,substring(a.article,1,100) as article,a.image,from_unixtime(a.time,'%c月 %d,%Y') as time,m.id,count(m.*) as comment FROM my_article_kevin a left join my_articlestate_kevin t on t.article_id=a.id left join my_message_kevin m on m.article_id=a.id  ORDER BY a.id desc LIMIT 5  
+
+[ 2017-08-16T09:50:12+08:00 ] 127.0.0.1 /s/blog-1.html
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '*) as comment FROM my_article_kevin a INNER JOIN  my_articlestate_kevin t on t.a' at line 1
+ [ SQL语句 ] : SELECT a.id,a.title,substring(a.article,1,100) as article,a.image,from_unixtime(a.time,'%c月 %d,%Y') as time,m.id,count(m.*) as comment FROM my_article_kevin a INNER JOIN  my_articlestate_kevin t on t.article_id=a.id INNER JOIN  my_message_kevin m on m.article_id=a.id  ORDER BY a.id desc LIMIT 5  
+
+[ 2017-08-16T09:50:12+08:00 ] 127.0.0.1 /s/blog-1.html
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '*) as comment FROM my_article_kevin a INNER JOIN  my_articlestate_kevin t on t.a' at line 1
+ [ SQL语句 ] : SELECT a.id,a.title,substring(a.article,1,100) as article,a.image,from_unixtime(a.time,'%c月 %d,%Y') as time,m.id,count(m.*) as comment FROM my_article_kevin a INNER JOIN  my_articlestate_kevin t on t.article_id=a.id INNER JOIN  my_message_kevin m on m.article_id=a.id  ORDER BY a.id desc LIMIT 5  
+
+[ 2017-08-16T09:50:26+08:00 ] 127.0.0.1 /s/captcha.php?c=5S4N
+ERR: 无法加载控制器:5S4N
+
+[ 2017-08-16T09:50:27+08:00 ] 127.0.0.1 /s/images/image_overlay.png
+ERR: 模板不存在:./Application/Home/View/mstp_85_empire/images.html
+
+[ 2017-08-16T09:50:27+08:00 ] 127.0.0.1 /s/images/preloader.gif
+ERR: 模板不存在:./Application/Home/View/mstp_85_empire/images.html
+
+[ 2017-08-16T09:52:35+08:00 ] 127.0.0.1 /s/blog-1.html
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'Array  ORDER BY a.id desc LIMIT 5' at line 1
+ [ SQL语句 ] : SELECT a.id,a.title,substring(a.article,1,100) as article,a.image,from_unixtime(a.time,'%c月 %d,%Y') as time,m.id,count(m.id) as comment FROM my_article_kevin a Array  ORDER BY a.id desc LIMIT 5  
+
+[ 2017-08-16T09:52:54+08:00 ] 127.0.0.1 /s/blog-1.html
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'left INNER JOIN  my_articlestate_kevin t on t.article_id=a.id INNER JOIN  my_mes' at line 1
+ [ SQL语句 ] : SELECT a.id,a.title,substring(a.article,1,100) as article,a.image,from_unixtime(a.time,'%c月 %d,%Y') as time,m.id,count(m.id) as comment FROM my_article_kevin a INNER JOIN left INNER JOIN  my_articlestate_kevin t on t.article_id=a.id INNER JOIN  my_message_kevin m on m.article_id=a.id  ORDER BY a.id desc LIMIT 5  
+
+[ 2017-08-16T09:53:50+08:00 ] 127.0.0.1 /s/blog-1.html
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'left my_articlestate_kevin t,my_message_kevin m on (t.article_id=a.id and  m.art' at line 1
+ [ SQL语句 ] : SELECT a.id,a.title,substring(a.article,1,100) as article,a.image,from_unixtime(a.time,'%c月 %d,%Y') as time,m.id,count(m.id) as comment FROM my_article_kevin a INNER JOIN left my_articlestate_kevin t,my_message_kevin m on (t.article_id=a.id and  m.article_id=a.id)  ORDER BY a.id desc LIMIT 5  
+
+[ 2017-08-16T09:53:51+08:00 ] 127.0.0.1 /s/blog-1.html
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'left my_articlestate_kevin t,my_message_kevin m on (t.article_id=a.id and  m.art' at line 1
+ [ SQL语句 ] : SELECT a.id,a.title,substring(a.article,1,100) as article,a.image,from_unixtime(a.time,'%c月 %d,%Y') as time,m.id,count(m.id) as comment FROM my_article_kevin a INNER JOIN left my_articlestate_kevin t,my_message_kevin m on (t.article_id=a.id and  m.article_id=a.id)  ORDER BY a.id desc LIMIT 5  
+
+[ 2017-08-16T09:53:52+08:00 ] 127.0.0.1 /s/blog-1.html
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'left my_articlestate_kevin t,my_message_kevin m on (t.article_id=a.id and  m.art' at line 1
+ [ SQL语句 ] : SELECT a.id,a.title,substring(a.article,1,100) as article,a.image,from_unixtime(a.time,'%c月 %d,%Y') as time,m.id,count(m.id) as comment FROM my_article_kevin a INNER JOIN left my_articlestate_kevin t,my_message_kevin m on (t.article_id=a.id and  m.article_id=a.id)  ORDER BY a.id desc LIMIT 5  
+
+[ 2017-08-16T09:54:04+08:00 ] 127.0.0.1 /s/blog-1.html
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'my_message_kevin m on (t.article_id=a.id and  m.article_id=a.id)  ORDER BY a.id ' at line 1
+ [ SQL语句 ] : SELECT a.id,a.title,substring(a.article,1,100) as article,a.image,from_unixtime(a.time,'%c月 %d,%Y') as time,m.id,count(m.id) as comment FROM my_article_kevin a left join my_articlestate_kevin t,my_message_kevin m on (t.article_id=a.id and  m.article_id=a.id)  ORDER BY a.id desc LIMIT 5  
+
+[ 2017-08-16T09:54:21+08:00 ] 127.0.0.1 /s/blog-1.html
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'my_message_kevin as m on (t.article_id=a.id and  m.article_id=a.id)  ORDER BY a.' at line 1
+ [ SQL语句 ] : SELECT a.id,a.title,substring(a.article,1,100) as article,a.image,from_unixtime(a.time,'%c月 %d,%Y') as time,m.id,count(m.id) as comment FROM my_article_kevin a left join my_articlestate_kevin as t,my_message_kevin as m on (t.article_id=a.id and  m.article_id=a.id)  ORDER BY a.id desc LIMIT 5  
+
+[ 2017-08-16T09:56:31+08:00 ] 127.0.0.1 /s/blog-1.html
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'left  ORDER BY a.id desc LIMIT 5' at line 1
+ [ SQL语句 ] : SELECT a.id,a.title,substring(a.article,1,100) as article,a.image,from_unixtime(a.time,'%c月 %d,%Y') as time,m.id,count(m.id) as comment FROM my_article_kevin a INNER JOIN my_message_kevin m on m.article_id=a.id INNER JOIN left  ORDER BY a.id desc LIMIT 5  
+
+[ 2017-08-16T09:58:31+08:00 ] 127.0.0.1 /s/blog-1.html
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'on t.article_id=a.id,m.article_id=a.id  ORDER BY a.id desc LIMIT 5' at line 1
+ [ SQL语句 ] : SELECT a.id,a.title,substring(a.article,1,100) as article,a.image,from_unixtime(a.time,'%c月 %d,%Y') as time,m.id,count(m.id) as comment FROM my_article_kevin a INNER JOIN my_articlestate_kevin t,my_message_kevin m  on t.article_id=a.id,m.article_id=a.id  ORDER BY a.id desc LIMIT 5  
+
+[ 2017-08-16T09:58:54+08:00 ] 127.0.0.1 /s/blog-1.html
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'my_message_kevin m  on t.article_id=a.id,m.article_id=a.id  ORDER BY a.id desc L' at line 1
+ [ SQL语句 ] : SELECT a.id,a.title,substring(a.article,1,100) as article,a.image,from_unixtime(a.time,'%c月 %d,%Y') as time,m.id,count(m.id) as comment FROM my_article_kevin a left join my_articlestate_kevin t,my_message_kevin m  on t.article_id=a.id,m.article_id=a.id  ORDER BY a.id desc LIMIT 5  
+
+[ 2017-08-16T09:58:55+08:00 ] 127.0.0.1 /s/blog-1.html
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'my_message_kevin m  on t.article_id=a.id,m.article_id=a.id  ORDER BY a.id desc L' at line 1
+ [ SQL语句 ] : SELECT a.id,a.title,substring(a.article,1,100) as article,a.image,from_unixtime(a.time,'%c月 %d,%Y') as time,m.id,count(m.id) as comment FROM my_article_kevin a left join my_articlestate_kevin t,my_message_kevin m  on t.article_id=a.id,m.article_id=a.id  ORDER BY a.id desc LIMIT 5  
+
+[ 2017-08-16T10:06:38+08:00 ] 127.0.0.1 /s/blog-1.html
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'my_message_kevin m  on t.article_id=a.id,m.article_id=a.id  ORDER BY a.id desc L' at line 1
+ [ SQL语句 ] : SELECT a.id,a.title,substring(a.article,1,100) as article,a.image,from_unixtime(a.time,'%c月 %d,%Y') as time,m.id,count(m.id) as comment FROM my_article_kevin a left join my_articlestate_kevin t,my_message_kevin m  on t.article_id=a.id,m.article_id=a.id  ORDER BY a.id desc LIMIT 5  
+
+[ 2017-08-16T10:08:43+08:00 ] 127.0.0.1 /s/captcha.php?c=RM1U
+ERR: 非法操作:index
+
+[ 2017-08-16T10:08:44+08:00 ] 127.0.0.1 /s/images/image_overlay.png
+ERR: 模板不存在:./Application/Home/View/mstp_85_empire/images.html
+
+[ 2017-08-16T10:08:44+08:00 ] 127.0.0.1 /s/images/preloader.gif
+ERR: 模板不存在:./Application/Home/View/mstp_85_empire/images.html
+
+[ 2017-08-16T10:09:25+08:00 ] 127.0.0.1 /s/blog-1.html
+ERR: 1054:Unknown column 't.article_id' in 'on clause'
+ [ SQL语句 ] : SELECT a.id,a.title,substring(a.article,1,100) as article,a.image,from_unixtime(a.time,'%c月 %d,%Y') as time,m.id,count(m.id) as comment FROM my_article_kevin a left join my_message_kevin m  on m.article_id=t.article_id  ORDER BY a.id desc LIMIT 5  
+
+[ 2017-08-16T10:09:26+08:00 ] 127.0.0.1 /s/blog-1.html
+ERR: 1054:Unknown column 't.article_id' in 'on clause'
+ [ SQL语句 ] : SELECT a.id,a.title,substring(a.article,1,100) as article,a.image,from_unixtime(a.time,'%c月 %d,%Y') as time,m.id,count(m.id) as comment FROM my_article_kevin a left join my_message_kevin m  on m.article_id=t.article_id  ORDER BY a.id desc LIMIT 5  
+
+[ 2017-08-16T10:09:46+08:00 ] 127.0.0.1 /s/blog-1.html
+ERR: 1054:Unknown column 'm.id' in 'field list'
+ [ SQL语句 ] : SELECT a.id,a.title,substring(a.article,1,100) as article,a.image,from_unixtime(a.time,'%c月 %d,%Y') as time,m.id,count(m.id) as comment FROM my_article_kevin a left join my_articlestate_kevin t on t.article_id=a.id  ORDER BY a.id desc LIMIT 5  
+
+[ 2017-08-16T10:09:47+08:00 ] 127.0.0.1 /s/blog-1.html
+ERR: 1054:Unknown column 'm.id' in 'field list'
+ [ SQL语句 ] : SELECT a.id,a.title,substring(a.article,1,100) as article,a.image,from_unixtime(a.time,'%c月 %d,%Y') as time,m.id,count(m.id) as comment FROM my_article_kevin a left join my_articlestate_kevin t on t.article_id=a.id  ORDER BY a.id desc LIMIT 5  
+
+[ 2017-08-16T10:09:58+08:00 ] 127.0.0.1 /s/blog-1.html
+ERR: 1054:Unknown column 'm.id' in 'field list'
+ [ SQL语句 ] : SELECT a.id,a.title,substring(a.article,1,100) as article,a.image,from_unixtime(a.time,'%c月 %d,%Y') as time,m.id FROM my_article_kevin a left join my_articlestate_kevin t on t.article_id=a.id  ORDER BY a.id desc LIMIT 5  
+
+[ 2017-08-16T10:09:58+08:00 ] 127.0.0.1 /s/blog-1.html
+ERR: 1054:Unknown column 'm.id' in 'field list'
+ [ SQL语句 ] : SELECT a.id,a.title,substring(a.article,1,100) as article,a.image,from_unixtime(a.time,'%c月 %d,%Y') as time,m.id FROM my_article_kevin a left join my_articlestate_kevin t on t.article_id=a.id  ORDER BY a.id desc LIMIT 5  
+
+[ 2017-08-16T10:10:05+08:00 ] 127.0.0.1 /s/captcha.php?c=TZ8Q
+ERR: 非法操作:index
+
+[ 2017-08-16T10:10:06+08:00 ] 127.0.0.1 /s/images/preloader.gif
+ERR: 模板不存在:./Application/Home/View/mstp_85_empire/images.html
+
+[ 2017-08-16T10:10:09+08:00 ] 127.0.0.1 /s/images/image_overlay.png
+ERR: 模板不存在:./Application/Home/View/mstp_85_empire/images.html
+
+[ 2017-08-16T10:11:10+08:00 ] 127.0.0.1 /s/captcha.php?c=PKTN
+ERR: 非法操作:index
+
+[ 2017-08-16T10:11:11+08:00 ] 127.0.0.1 /s/images/preloader.gif
+ERR: 模板不存在:./Application/Home/View/mstp_85_empire/images.html
+
+[ 2017-08-16T10:11:13+08:00 ] 127.0.0.1 /s/images/image_overlay.png
+ERR: 模板不存在:./Application/Home/View/mstp_85_empire/images.html
+
+[ 2017-08-16T10:11:16+08:00 ] 127.0.0.1 /s/images/image_overlay.png
+ERR: 模板不存在:./Application/Home/View/mstp_85_empire/images.html
+
+[ 2017-08-16T10:11:45+08:00 ] 127.0.0.1 /s/captcha.php?c=SHK4
+ERR: 非法操作:index
+
+[ 2017-08-16T10:11:46+08:00 ] 127.0.0.1 /s/images/preloader.gif
+ERR: 模板不存在:./Application/Home/View/mstp_85_empire/images.html
+
+[ 2017-08-16T10:12:02+08:00 ] 127.0.0.1 /s/images/image_overlay.png
+ERR: 模板不存在:./Application/Home/View/mstp_85_empire/images.html
+
+[ 2017-08-16T10:12:50+08:00 ] 127.0.0.1 /s/captcha.php?c=D5RH
+ERR: 非法操作:index
+
+[ 2017-08-16T10:12:50+08:00 ] 127.0.0.1 /s/captcha.php?c=M24Z
+ERR: 非法操作:index
+
+[ 2017-08-16T10:12:51+08:00 ] 127.0.0.1 /s/images/image_overlay.png
+ERR: 模板不存在:./Application/Home/View/mstp_85_empire/images.html
+
+[ 2017-08-16T10:12:51+08:00 ] 127.0.0.1 /s/captcha.php?c=8K5D
+ERR: 无法加载控制器:8K5D
+
+[ 2017-08-16T10:12:51+08:00 ] 127.0.0.1 /s/images/preloader.gif
+ERR: 模板不存在:./Application/Home/View/mstp_85_empire/images.html
+
+[ 2017-08-16T10:12:51+08:00 ] 127.0.0.1 /s/images/preloader.gif
+ERR: 模板不存在:./Application/Home/View/mstp_85_empire/images.html
+
+[ 2017-08-16T10:12:52+08:00 ] 127.0.0.1 /s/images/preloader.gif
+ERR: 模板不存在:./Application/Home/View/mstp_85_empire/images.html
+
+[ 2017-08-16T10:12:56+08:00 ] 127.0.0.1 /s/images/image_overlay.png
+ERR: 模板不存在:./Application/Home/View/mstp_85_empire/images.html
+
+[ 2017-08-16T10:13:15+08:00 ] 127.0.0.1 /s/images/image_overlay.png
+ERR: 模板不存在:./Application/Home/View/mstp_85_empire/images.html
+
+[ 2017-08-16T10:13:38+08:00 ] 127.0.0.1 /s/images/image_overlay.png
+ERR: 模板不存在:./Application/Home/View/mstp_85_empire/images.html
+
+[ 2017-08-16T10:14:05+08:00 ] 127.0.0.1 /s/captcha.php?c=5ZKM
+ERR: 无法加载控制器:5ZKM
+
+[ 2017-08-16T10:14:06+08:00 ] 127.0.0.1 /s/images/preloader.gif
+ERR: 模板不存在:./Application/Home/View/mstp_85_empire/images.html
+
+[ 2017-08-16T10:14:07+08:00 ] 127.0.0.1 /s/images/preloader.gif
+ERR: 模板不存在:./Application/Home/View/mstp_85_empire/images.html
+
+[ 2017-08-16T10:14:07+08:00 ] 127.0.0.1 /s/images/image_overlay.png
+ERR: 模板不存在:./Application/Home/View/mstp_85_empire/images.html
+
+[ 2017-08-16T10:14:09+08:00 ] 127.0.0.1 /s/captcha.php?c=7AZP
+ERR: 无法加载控制器:7AZP
+
+[ 2017-08-16T10:14:09+08:00 ] 127.0.0.1 /s/images/image_overlay.png
+ERR: 模板不存在:./Application/Home/View/mstp_85_empire/images.html
+
+[ 2017-08-16T10:14:10+08:00 ] 127.0.0.1 /s/images/preloader.gif
+ERR: 模板不存在:./Application/Home/View/mstp_85_empire/images.html
+
+[ 2017-08-16T10:14:12+08:00 ] 127.0.0.1 /s/images/image_overlay.png
+ERR: 模板不存在:./Application/Home/View/mstp_85_empire/images.html
+
+[ 2017-08-16T10:14:13+08:00 ] 127.0.0.1 /s/images/image_overlay.png
+ERR: 模板不存在:./Application/Home/View/mstp_85_empire/images.html
+
+[ 2017-08-16T10:14:54+08:00 ] 127.0.0.1 /s/captcha.php?c=E3QT
+ERR: 非法操作:index
+
+[ 2017-08-16T10:14:54+08:00 ] 127.0.0.1 /s/images/image_overlay.png
+ERR: 模板不存在:./Application/Home/View/mstp_85_empire/images.html
+
+[ 2017-08-16T10:14:55+08:00 ] 127.0.0.1 /s/images/preloader.gif
+ERR: 模板不存在:./Application/Home/View/mstp_85_empire/images.html
+
+[ 2017-08-16T10:14:58+08:00 ] 127.0.0.1 /s/images/image_overlay.png
+ERR: 模板不存在:./Application/Home/View/mstp_85_empire/images.html
+
+[ 2017-08-16T10:14:59+08:00 ] 127.0.0.1 /s/images/image_overlay.png
+ERR: 模板不存在:./Application/Home/View/mstp_85_empire/images.html
+
+[ 2017-08-16T10:14:59+08:00 ] 127.0.0.1 /s/images/image_overlay.png
+ERR: 模板不存在:./Application/Home/View/mstp_85_empire/images.html
+
+[ 2017-08-16T10:15:28+08:00 ] 127.0.0.1 /s/captcha.php?c=G7UR
+ERR: 非法操作:index
+
+[ 2017-08-16T10:15:29+08:00 ] 127.0.0.1 /s/images/image_overlay.png
+ERR: 模板不存在:./Application/Home/View/mstp_85_empire/images.html
+
+[ 2017-08-16T10:15:29+08:00 ] 127.0.0.1 /s/images/preloader.gif
+ERR: 模板不存在:./Application/Home/View/mstp_85_empire/images.html
+
+[ 2017-08-16T10:23:05+08:00 ] 127.0.0.1 /s/post.html/id/44
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'as article,a.image,from_unixtime(a.time,'%c月 %d,%Y') as time,(select count(id)' at line 1
+ [ SQL语句 ] : SELECT a.id,a.title,a.article, as article,a.image,from_unixtime(a.time,'%c月 %d,%Y') as time,(select count(id) from my_message_kevin m where  m.article_id=a.id) as comment FROM my_article_kevin a left join my_articlestate_kevin t on t.article_id=a.id  ORDER BY a.id desc LIMIT 1  
+
+[ 2017-08-16T10:25:17+08:00 ] 127.0.0.1 /s/post.html/id/44
+ERR: 1241:Operand should contain 1 column(s)
+ [ SQL语句 ] : SELECT a.id,a.title,a.article as article,a.image,from_unixtime(a.time,'%c月 %d,%Y') as time,(select count(id) from my_message_kevin m where  m.article_id=a.id) as comment,(select * from my_message_kevin m where  m.article_id=a.id) as commentall FROM my_article_kevin a left join my_articlestate_kevin t on t.article_id=a.id  ORDER BY a.id desc LIMIT 1  
+
+[ 2017-08-16T10:25:18+08:00 ] 127.0.0.1 /s/post.html/id/44
+ERR: 1241:Operand should contain 1 column(s)
+ [ SQL语句 ] : SELECT a.id,a.title,a.article as article,a.image,from_unixtime(a.time,'%c月 %d,%Y') as time,(select count(id) from my_message_kevin m where  m.article_id=a.id) as comment,(select * from my_message_kevin m where  m.article_id=a.id) as commentall FROM my_article_kevin a left join my_articlestate_kevin t on t.article_id=a.id  ORDER BY a.id desc LIMIT 1  
+
+[ 2017-08-16T10:32:15+08:00 ] 127.0.0.1 /s/post.html/id/44
+ERR: syntax error, unexpected ''order'' (T_CONSTANT_ENCAPSED_STRING), expecting ']'
+
+[ 2017-08-16T10:32:16+08:00 ] 127.0.0.1 /s/post.html/id/44
+ERR: syntax error, unexpected ''order'' (T_CONSTANT_ENCAPSED_STRING), expecting ']'
+
+[ 2017-08-16T10:32:21+08:00 ] 127.0.0.1 /s/post.html/id/44
+ERR: 1052:Column 'id' in where clause is ambiguous
+ [ SQL语句 ] : SELECT a.id,a.title,a.article as article,a.image,from_unixtime(a.time,'%c月 %d,%Y') as time,(select count(id) from my_message_kevin m where  m.article_id=a.id) as comment FROM my_article_kevin a left join my_articlestate_kevin t on t.article_id=a.id  WHERE `id` = '44' ORDER BY a.id desc LIMIT 1  
+
+[ 2017-08-16T10:32:22+08:00 ] 127.0.0.1 /s/post.html/id/44
+ERR: 1052:Column 'id' in where clause is ambiguous
+ [ SQL语句 ] : SELECT a.id,a.title,a.article as article,a.image,from_unixtime(a.time,'%c月 %d,%Y') as time,(select count(id) from my_message_kevin m where  m.article_id=a.id) as comment FROM my_article_kevin a left join my_articlestate_kevin t on t.article_id=a.id  WHERE `id` = '44' ORDER BY a.id desc LIMIT 1  
+
+[ 2017-08-16T10:35:24+08:00 ] 127.0.0.1 /s/images/image_overlay.png
+ERR: 模板不存在:./Application/Home/View/mstp_85_empire/images.html
+
+[ 2017-08-16T10:35:25+08:00 ] 127.0.0.1 /s/captcha.php?c=FE47
+ERR: 非法操作:index
+
+[ 2017-08-16T10:35:25+08:00 ] 127.0.0.1 /s/images/preloader.gif
+ERR: 模板不存在:./Application/Home/View/mstp_85_empire/images.html
+
+[ 2017-08-16T10:35:31+08:00 ] 127.0.0.1 /s/captcha.php?c=R4AF
+ERR: 非法操作:index
+
+[ 2017-08-16T10:35:31+08:00 ] 127.0.0.1 /s/images/preloader.gif
+ERR: 模板不存在:./Application/Home/View/mstp_85_empire/images.html
+
+[ 2017-08-16T10:35:36+08:00 ] 127.0.0.1 /s/images/image_overlay.png
+ERR: 模板不存在:./Application/Home/View/mstp_85_empire/images.html
+
+[ 2017-08-16T10:35:36+08:00 ] 127.0.0.1 /s/images/image_overlay.png
+ERR: 模板不存在:./Application/Home/View/mstp_85_empire/images.html
+
+[ 2017-08-16T10:35:40+08:00 ] 127.0.0.1 /s/images/preloader.gif
+ERR: 模板不存在:./Application/Home/View/mstp_85_empire/images.html
+
+[ 2017-08-16T10:35:40+08:00 ] 127.0.0.1 /s/captcha.php?c=XBNS
+ERR: 非法操作:index
+
+[ 2017-08-16T10:35:48+08:00 ] 127.0.0.1 /s/captcha.php?c=C54Z
+ERR: 非法操作:index
+
+[ 2017-08-16T10:35:48+08:00 ] 127.0.0.1 /s/images/preloader.gif
+ERR: 模板不存在:./Application/Home/View/mstp_85_empire/images.html
+
+[ 2017-08-16T10:37:03+08:00 ] 127.0.0.1 /s/blog-1.html
+ERR: Call to undefined function base_64()
+
+[ 2017-08-16T10:37:03+08:00 ] 127.0.0.1 /s/images/preloader.gif
+ERR: 模板不存在:./Application/Home/View/mstp_85_empire/images.html
+
+[ 2017-08-16T10:37:12+08:00 ] 127.0.0.1 /s/captcha.php?c=Q1EW
+ERR: 非法操作:index
+
+[ 2017-08-16T10:37:13+08:00 ] 127.0.0.1 /s/images/image_overlay.png
+ERR: 模板不存在:./Application/Home/View/mstp_85_empire/images.html
+
+[ 2017-08-16T10:37:13+08:00 ] 127.0.0.1 /s/images/preloader.gif
+ERR: 模板不存在:./Application/Home/View/mstp_85_empire/images.html
+
+[ 2017-08-16T10:37:15+08:00 ] 127.0.0.1 /s/images/image_overlay.png
+ERR: 模板不存在:./Application/Home/View/mstp_85_empire/images.html
+
+[ 2017-08-16T10:37:18+08:00 ] 127.0.0.1 /s/images/image_overlay.png
+ERR: 模板不存在:./Application/Home/View/mstp_85_empire/images.html
+
+[ 2017-08-16T10:37:18+08:00 ] 127.0.0.1 /s/images/image_overlay.png
+ERR: 模板不存在:./Application/Home/View/mstp_85_empire/images.html
+
+[ 2017-08-16T10:38:07+08:00 ] 127.0.0.1 /s/captcha.php?c=6P11
+ERR: 无法加载控制器:6P11
+
+[ 2017-08-16T10:38:07+08:00 ] 127.0.0.1 /s/images/image_overlay.png
+ERR: 模板不存在:./Application/Home/View/mstp_85_empire/images.html
+
+[ 2017-08-16T10:38:07+08:00 ] 127.0.0.1 /s/images/image_overlay.png
+ERR: 模板不存在:./Application/Home/View/mstp_85_empire/images.html
+
+[ 2017-08-16T10:38:08+08:00 ] 127.0.0.1 /s/images/preloader.gif
+ERR: 模板不存在:./Application/Home/View/mstp_85_empire/images.html
+
+[ 2017-08-16T10:38:10+08:00 ] 127.0.0.1 /s/images/image_overlay.png
+ERR: 模板不存在:./Application/Home/View/mstp_85_empire/images.html
+
+[ 2017-08-16T10:39:03+08:00 ] 127.0.0.1 /s/captcha.php?c=165D
+ERR: 无法加载控制器:165D
+
+[ 2017-08-16T10:39:04+08:00 ] 127.0.0.1 /s/images/preloader.gif
+ERR: 模板不存在:./Application/Home/View/mstp_85_empire/images.html
+
+[ 2017-08-16T10:39:30+08:00 ] 127.0.0.1 /s/blog-1.html
+ERR: Call to undefined function base64()
+
+[ 2017-08-16T10:39:30+08:00 ] 127.0.0.1 /s/images/preloader.gif
+ERR: 模板不存在:./Application/Home/View/mstp_85_empire/images.html
+
+[ 2017-08-16T10:39:32+08:00 ] 127.0.0.1 /s/images/image_overlay.png
+ERR: 模板不存在:./Application/Home/View/mstp_85_empire/images.html
+
+[ 2017-08-16T10:39:42+08:00 ] 127.0.0.1 /s/captcha.php?c=USGN
+ERR: 非法操作:index
+
+[ 2017-08-16T10:39:43+08:00 ] 127.0.0.1 /s/images/image_overlay.png
+ERR: 模板不存在:./Application/Home/View/mstp_85_empire/images.html
+
+[ 2017-08-16T10:39:43+08:00 ] 127.0.0.1 /s/images/image_overlay.png
+ERR: 模板不存在:./Application/Home/View/mstp_85_empire/images.html
+
+[ 2017-08-16T10:39:43+08:00 ] 127.0.0.1 /s/images/preloader.gif
+ERR: 模板不存在:./Application/Home/View/mstp_85_empire/images.html
+
+[ 2017-08-16T10:39:49+08:00 ] 127.0.0.1 /s/captcha.php?c=RKFG
+ERR: 非法操作:index
+
+[ 2017-08-16T10:39:50+08:00 ] 127.0.0.1 /s/images/preloader.gif
+ERR: 模板不存在:./Application/Home/View/mstp_85_empire/images.html
+
+[ 2017-08-16T10:45:12+08:00 ] 127.0.0.1 /s/captcha.php?c=EEB7
+ERR: 非法操作:index
+
+[ 2017-08-16T10:45:13+08:00 ] 127.0.0.1 /s/images/preloader.gif
+ERR: 模板不存在:./Application/Home/View/mstp_85_empire/images.html
+
+[ 2017-08-16T10:45:17+08:00 ] 127.0.0.1 /s/images/image_overlay.png
+ERR: 模板不存在:./Application/Home/View/mstp_85_empire/images.html
+
+[ 2017-08-16T10:45:22+08:00 ] 127.0.0.1 /s/images/image_overlay.png
+ERR: 模板不存在:./Application/Home/View/mstp_85_empire/images.html
+
+[ 2017-08-16T10:45:22+08:00 ] 127.0.0.1 /s/images/image_overlay.png
+ERR: 模板不存在:./Application/Home/View/mstp_85_empire/images.html
+
+[ 2017-08-16T10:45:23+08:00 ] 127.0.0.1 /s/images/image_overlay.png
+ERR: 模板不存在:./Application/Home/View/mstp_85_empire/images.html
+
+[ 2017-08-16T10:45:30+08:00 ] 127.0.0.1 /s/images/preloader.gif
+ERR: 模板不存在:./Application/Home/View/mstp_85_empire/images.html
+
+[ 2017-08-16T10:45:30+08:00 ] 127.0.0.1 /s/images/image_overlay.png
+ERR: 模板不存在:./Application/Home/View/mstp_85_empire/images.html
+
+[ 2017-08-16T10:45:31+08:00 ] 127.0.0.1 /s/captcha.php?c=671P
+ERR: 无法加载控制器:671P
+
+[ 2017-08-16T10:45:33+08:00 ] 127.0.0.1 /s/images/image_overlay.png
+ERR: 模板不存在:./Application/Home/View/mstp_85_empire/images.html
+
+[ 2017-08-16T10:45:43+08:00 ] 127.0.0.1 /s/captcha.php?c=F5VC
+ERR: 非法操作:index
+
+[ 2017-08-16T10:45:44+08:00 ] 127.0.0.1 /s/images/preloader.gif
+ERR: 模板不存在:./Application/Home/View/mstp_85_empire/images.html
+
+[ 2017-08-16T10:45:44+08:00 ] 127.0.0.1 /s/images/image_overlay.png
+ERR: 模板不存在:./Application/Home/View/mstp_85_empire/images.html
+
+[ 2017-08-16T10:46:19+08:00 ] 127.0.0.1 /s/captcha.php?c=H7Z8
+ERR: 非法操作:index
+
+[ 2017-08-16T10:46:20+08:00 ] 127.0.0.1 /s/images/preloader.gif
+ERR: 模板不存在:./Application/Home/View/mstp_85_empire/images.html
+
+[ 2017-08-16T10:46:24+08:00 ] 127.0.0.1 /s/images/image_overlay.png
+ERR: 模板不存在:./Application/Home/View/mstp_85_empire/images.html
+
+[ 2017-08-16T10:46:52+08:00 ] 127.0.0.1 /s/captcha.php?c=SF4B
+ERR: 非法操作:index
+
+[ 2017-08-16T10:46:53+08:00 ] 127.0.0.1 /s/images/preloader.gif
+ERR: 模板不存在:./Application/Home/View/mstp_85_empire/images.html
+
+[ 2017-08-16T10:46:54+08:00 ] 127.0.0.1 /s/images/image_overlay.png
+ERR: 模板不存在:./Application/Home/View/mstp_85_empire/images.html
+
+[ 2017-08-16T10:46:55+08:00 ] 127.0.0.1 /s/images/image_overlay.png
+ERR: 模板不存在:./Application/Home/View/mstp_85_empire/images.html
+
+[ 2017-08-16T10:46:55+08:00 ] 127.0.0.1 /s/images/image_overlay.png
+ERR: 模板不存在:./Application/Home/View/mstp_85_empire/images.html
+
+[ 2017-08-16T10:46:58+08:00 ] 127.0.0.1 /s/images/image_overlay.png
+ERR: 模板不存在:./Application/Home/View/mstp_85_empire/images.html
+
+[ 2017-08-16T10:47:07+08:00 ] 127.0.0.1 /s/captcha.php?c=3WZI
+ERR: 无法加载控制器:3WZI
+
+[ 2017-08-16T10:47:08+08:00 ] 127.0.0.1 /s/images/preloader.gif
+ERR: 模板不存在:./Application/Home/View/mstp_85_empire/images.html
+
+[ 2017-08-16T10:47:48+08:00 ] 127.0.0.1 /s/blog-1.html
+ERR: syntax error, unexpected '$info' (T_VARIABLE)
+
+[ 2017-08-16T10:47:49+08:00 ] 127.0.0.1 /s/blog-1.html
+ERR: syntax error, unexpected '$info' (T_VARIABLE)
+
+[ 2017-08-16T10:47:54+08:00 ] 127.0.0.1 /s/captcha.php?c=PD4C
+ERR: 非法操作:index
+
+[ 2017-08-16T10:47:54+08:00 ] 127.0.0.1 /s/images/image_overlay.png
+ERR: 模板不存在:./Application/Home/View/mstp_85_empire/images.html
+
+[ 2017-08-16T10:47:55+08:00 ] 127.0.0.1 /s/images/preloader.gif
+ERR: 模板不存在:./Application/Home/View/mstp_85_empire/images.html
+
+[ 2017-08-16T10:48:00+08:00 ] 127.0.0.1 /s/captcha.php?c=5VDC
+ERR: 无法加载控制器:5VDC
+
+[ 2017-08-16T10:48:01+08:00 ] 127.0.0.1 /s/images/image_overlay.png
+ERR: 模板不存在:./Application/Home/View/mstp_85_empire/images.html
+
+[ 2017-08-16T10:48:01+08:00 ] 127.0.0.1 /s/images/preloader.gif
+ERR: 模板不存在:./Application/Home/View/mstp_85_empire/images.html
+
+[ 2017-08-16T10:48:12+08:00 ] 127.0.0.1 /s/captcha.php?c=GRGQ
+ERR: 非法操作:index
+
+[ 2017-08-16T10:48:12+08:00 ] 127.0.0.1 /s/images/image_overlay.png
+ERR: 模板不存在:./Application/Home/View/mstp_85_empire/images.html
+
+[ 2017-08-16T10:48:13+08:00 ] 127.0.0.1 /s/images/preloader.gif
+ERR: 模板不存在:./Application/Home/View/mstp_85_empire/images.html
+
+[ 2017-08-16T10:48:14+08:00 ] 127.0.0.1 /s/captcha.php?c=9DGZ
+ERR: 无法加载控制器:9DGZ
+
+[ 2017-08-16T10:48:14+08:00 ] 127.0.0.1 /s/images/image_overlay.png
+ERR: 模板不存在:./Application/Home/View/mstp_85_empire/images.html
+
+[ 2017-08-16T10:48:15+08:00 ] 127.0.0.1 /s/images/preloader.gif
+ERR: 模板不存在:./Application/Home/View/mstp_85_empire/images.html
+
+[ 2017-08-16T10:48:17+08:00 ] 127.0.0.1 /s/captcha.php?c=N1B3
+ERR: 非法操作:index
+
+[ 2017-08-16T10:48:17+08:00 ] 127.0.0.1 /s/images/image_overlay.png
+ERR: 模板不存在:./Application/Home/View/mstp_85_empire/images.html
+
+[ 2017-08-16T10:48:18+08:00 ] 127.0.0.1 /s/images/image_overlay.png
+ERR: 模板不存在:./Application/Home/View/mstp_85_empire/images.html
+
+[ 2017-08-16T10:48:18+08:00 ] 127.0.0.1 /s/images/preloader.gif
+ERR: 模板不存在:./Application/Home/View/mstp_85_empire/images.html
+
+[ 2017-08-16T10:48:41+08:00 ] 127.0.0.1 /s/%EF%BF%BD6z%EF%BF%BD%EF%BF%BD%EF%BF%BD%14%7D%15%EF%BF%BD%EF%BF%BD%1F%EF%BF%BD%15%EF%BF%BD%EF%BF%BD
+ERR: 模板不存在:./Application/Home/View/mstp_85_empire/�6z���}�����.html
+
+[ 2017-08-16T10:48:44+08:00 ] 127.0.0.1 /s/captcha.php?c=47QE
+ERR: 无法加载控制器:47QE
+
+[ 2017-08-16T10:48:45+08:00 ] 127.0.0.1 /s/images/preloader.gif
+ERR: 模板不存在:./Application/Home/View/mstp_85_empire/images.html
+
+[ 2017-08-16T10:48:47+08:00 ] 127.0.0.1 /s/blog-1.html/captcha.php?c=4TP3
+ERR: 无法加载控制器:4TP3
+
+[ 2017-08-16T10:48:56+08:00 ] 127.0.0.1 /s/blog-1.html/id/captcha.php?c=712W
+ERR: 无法加载控制器:712W
+
+[ 2017-08-16T10:49:12+08:00 ] 127.0.0.1 /s/blog-1.html/id/captcha.php?c=VPCF
+ERR: 非法操作:index
+
+[ 2017-08-16T10:50:49+08:00 ] 127.0.0.1 /s/captcha.php?c=MCVX
+ERR: 非法操作:index
+
+[ 2017-08-16T10:50:50+08:00 ] 127.0.0.1 /s/images/image_overlay.png
+ERR: 模板不存在:./Application/Home/View/mstp_85_empire/images.html
+
+[ 2017-08-16T10:50:50+08:00 ] 127.0.0.1 /s/images/preloader.gif
+ERR: 模板不存在:./Application/Home/View/mstp_85_empire/images.html
+
+[ 2017-08-16T10:50:53+08:00 ] 127.0.0.1 /s/captcha.php?c=3GZ9
+ERR: 无法加载控制器:3GZ9
+
+[ 2017-08-16T10:50:54+08:00 ] 127.0.0.1 /s/images/preloader.gif
+ERR: 模板不存在:./Application/Home/View/mstp_85_empire/images.html
+
+[ 2017-08-16T10:52:14+08:00 ] 127.0.0.1 /s/captcha.php?c=MJJ3
+ERR: 非法操作:index
+
+[ 2017-08-16T10:52:14+08:00 ] 127.0.0.1 /s/images/image_overlay.png
+ERR: 模板不存在:./Application/Home/View/mstp_85_empire/images.html
+
+[ 2017-08-16T10:52:14+08:00 ] 127.0.0.1 /s/images/image_overlay.png
+ERR: 模板不存在:./Application/Home/View/mstp_85_empire/images.html
+
+[ 2017-08-16T10:52:15+08:00 ] 127.0.0.1 /s/images/preloader.gif
+ERR: 模板不存在:./Application/Home/View/mstp_85_empire/images.html
+
+[ 2017-08-16T10:53:27+08:00 ] 127.0.0.1 /s/post.html/article/1
+ERR: syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING)
+
+[ 2017-08-16T10:53:27+08:00 ] 127.0.0.1 /s/post.html/article/images/image_overlay.png
+ERR: syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING)
+
+[ 2017-08-16T10:53:28+08:00 ] 127.0.0.1 /s/post.html/article/1
+ERR: syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING)
+
+[ 2017-08-16T10:53:46+08:00 ] 127.0.0.1 /s/post.html/article/1
+ERR: syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING)
+
+[ 2017-08-16T10:53:47+08:00 ] 127.0.0.1 /s/post.html/article/1
+ERR: syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING)
+
+[ 2017-08-16T10:53:47+08:00 ] 127.0.0.1 /s/post.html/article/1
+ERR: syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING)
+
+[ 2017-08-16T10:53:47+08:00 ] 127.0.0.1 /s/post.html/article/1
+ERR: syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING)
+
+[ 2017-08-16T10:54:11+08:00 ] 127.0.0.1 /s/captcha.php?c=9CCZ
+ERR: 无法加载控制器:9CCZ
+
+[ 2017-08-16T10:54:12+08:00 ] 127.0.0.1 /s/images/preloader.gif
+ERR: 模板不存在:./Application/Home/View/mstp_85_empire/images.html
+
+[ 2017-08-16T10:54:13+08:00 ] 127.0.0.1 /s/captcha.php?c=731Q
+ERR: 无法加载控制器:731Q
+
+[ 2017-08-16T10:54:13+08:00 ] 127.0.0.1 /s/images/image_overlay.png
+ERR: 模板不存在:./Application/Home/View/mstp_85_empire/images.html
+
+[ 2017-08-16T10:54:13+08:00 ] 127.0.0.1 /s/images/preloader.gif
+ERR: 模板不存在:./Application/Home/View/mstp_85_empire/images.html
+
+[ 2017-08-16T10:54:14+08:00 ] 127.0.0.1 /s/captcha.php?c=DSPT
+ERR: 非法操作:index
+
+[ 2017-08-16T10:54:15+08:00 ] 127.0.0.1 /s/images/preloader.gif
+ERR: 模板不存在:./Application/Home/View/mstp_85_empire/images.html
+
+[ 2017-08-16T10:54:16+08:00 ] 127.0.0.1 /s/images/image_overlay.png
+ERR: 模板不存在:./Application/Home/View/mstp_85_empire/images.html
+
+[ 2017-08-16T10:54:16+08:00 ] 127.0.0.1 /s/captcha.php?c=XNMZ
+ERR: 非法操作:index
+
+[ 2017-08-16T10:54:17+08:00 ] 127.0.0.1 /s/images/preloader.gif
+ERR: 模板不存在:./Application/Home/View/mstp_85_empire/images.html
+
+[ 2017-08-16T10:54:19+08:00 ] 127.0.0.1 /s/captcha.php?c=FTFE
+ERR: 非法操作:index
+
+[ 2017-08-16T10:54:19+08:00 ] 127.0.0.1 /s/images/image_overlay.png
+ERR: 模板不存在:./Application/Home/View/mstp_85_empire/images.html
+
+[ 2017-08-16T10:54:20+08:00 ] 127.0.0.1 /s/images/preloader.gif
+ERR: 模板不存在:./Application/Home/View/mstp_85_empire/images.html
+
+[ 2017-08-16T10:54:20+08:00 ] 127.0.0.1 /s/images/image_overlay.png
+ERR: 模板不存在:./Application/Home/View/mstp_85_empire/images.html
+
+[ 2017-08-16T10:54:22+08:00 ] 127.0.0.1 /s/images/image_overlay.png
+ERR: 模板不存在:./Application/Home/View/mstp_85_empire/images.html
+
+[ 2017-08-16T10:54:24+08:00 ] 127.0.0.1 /s/images/image_overlay.png
+ERR: 模板不存在:./Application/Home/View/mstp_85_empire/images.html
+
+[ 2017-08-16T10:54:24+08:00 ] 127.0.0.1 /s/images/image_overlay.png
+ERR: 模板不存在:./Application/Home/View/mstp_85_empire/images.html
+
+[ 2017-08-16T10:55:18+08:00 ] 127.0.0.1 /s/images/preloader.gif
+ERR: 模板不存在:./Application/Home/View/mstp_85_empire/images.html
+
+[ 2017-08-16T10:55:19+08:00 ] 127.0.0.1 /s/captcha.php?c=3W2W
+ERR: 无法加载控制器:3W2W
+
+[ 2017-08-16T10:55:20+08:00 ] 127.0.0.1 /s/images/preloader.gif
+ERR: 模板不存在:./Application/Home/View/mstp_85_empire/images.html
+
+[ 2017-08-16T10:55:21+08:00 ] 127.0.0.1 /s/captcha.php?c=493C
+ERR: 无法加载控制器:493C
+
+[ 2017-08-16T10:55:49+08:00 ] 127.0.0.1 /s/images/preloader.gif
+ERR: 模板不存在:./Application/Home/View/mstp_85_empire/images.html
+
+[ 2017-08-16T10:55:50+08:00 ] 127.0.0.1 /s/captcha.php?c=R2TD
+ERR: 非法操作:index
+
+[ 2017-08-16T10:55:50+08:00 ] 127.0.0.1 /s/images/image_overlay.png
+ERR: 模板不存在:./Application/Home/View/mstp_85_empire/images.html
+
+[ 2017-08-16T10:55:51+08:00 ] 127.0.0.1 /s/images/image_overlay.png
+ERR: 模板不存在:./Application/Home/View/mstp_85_empire/images.html
+
+[ 2017-08-16T10:55:51+08:00 ] 127.0.0.1 /s/images/image_overlay.png
+ERR: 模板不存在:./Application/Home/View/mstp_85_empire/images.html
+
+[ 2017-08-16T10:55:54+08:00 ] 127.0.0.1 /s/images/image_overlay.png
+ERR: 模板不存在:./Application/Home/View/mstp_85_empire/images.html
+
+[ 2017-08-16T10:56:23+08:00 ] 127.0.0.1 /s/blog-1.html
+ERR: syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING)
+
+[ 2017-08-16T10:56:24+08:00 ] 127.0.0.1 /s/blog-1.html
+ERR: syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING)
+
+[ 2017-08-16T10:56:31+08:00 ] 127.0.0.1 /s/captcha.php?c=6T9J
+ERR: 无法加载控制器:6T9J
+
+[ 2017-08-16T10:56:32+08:00 ] 127.0.0.1 /s/images/image_overlay.png
+ERR: 模板不存在:./Application/Home/View/mstp_85_empire/images.html
+
+[ 2017-08-16T10:56:32+08:00 ] 127.0.0.1 /s/images/preloader.gif
+ERR: 模板不存在:./Application/Home/View/mstp_85_empire/images.html
+
+[ 2017-08-16T10:56:33+08:00 ] 127.0.0.1 /s/images/image_overlay.png
+ERR: 模板不存在:./Application/Home/View/mstp_85_empire/images.html
+
+[ 2017-08-16T10:56:48+08:00 ] 127.0.0.1 /s/post/article/156640
+ERR: syntax error, unexpected '/', expecting :: (T_PAAMAYIM_NEKUDOTAYIM)
+
+[ 2017-08-16T10:56:49+08:00 ] 127.0.0.1 /s/post/article/156640
+ERR: syntax error, unexpected '/', expecting :: (T_PAAMAYIM_NEKUDOTAYIM)
+
+[ 2017-08-16T10:58:18+08:00 ] 127.0.0.1 /s/captcha.php?c=HUCA
+ERR: 非法操作:index
+
+[ 2017-08-16T10:58:19+08:00 ] 127.0.0.1 /s/images/preloader.gif
+ERR: 模板不存在:./Application/Home/View/mstp_85_empire/images.html
+
+[ 2017-08-16T10:58:19+08:00 ] 127.0.0.1 /s/images/image_overlay.png
+ERR: 模板不存在:./Application/Home/View/mstp_85_empire/images.html
+
+[ 2017-08-16T10:58:19+08:00 ] 127.0.0.1 /s/images/image_overlay.png
+ERR: 模板不存在:./Application/Home/View/mstp_85_empire/images.html
+
+[ 2017-08-16T10:58:21+08:00 ] 127.0.0.1 /s/captcha.php?c=CJ7S
+ERR: 非法操作:index
+
+[ 2017-08-16T10:58:21+08:00 ] 127.0.0.1 /s/images/image_overlay.png
+ERR: 模板不存在:./Application/Home/View/mstp_85_empire/images.html
+
+[ 2017-08-16T10:58:22+08:00 ] 127.0.0.1 /s/images/preloader.gif
+ERR: 模板不存在:./Application/Home/View/mstp_85_empire/images.html
+
+[ 2017-08-16T10:58:23+08:00 ] 127.0.0.1 /s/captcha.php?c=LDZI
+ERR: 非法操作:index
+
+[ 2017-08-16T10:58:23+08:00 ] 127.0.0.1 /s/images/image_overlay.png
+ERR: 模板不存在:./Application/Home/View/mstp_85_empire/images.html
+
+[ 2017-08-16T10:58:24+08:00 ] 127.0.0.1 /s/images/preloader.gif
+ERR: 模板不存在:./Application/Home/View/mstp_85_empire/images.html
+
+[ 2017-08-16T10:58:42+08:00 ] 127.0.0.1 /s/post.html/article/158400
+ERR: syntax error, unexpected ']'
+
+[ 2017-08-16T10:58:42+08:00 ] 127.0.0.1 /s/post.html/article/158400
+ERR: syntax error, unexpected ']'
+
+[ 2017-08-16T11:26:56+08:00 ] 127.0.0.1 /s/post.html/article/158400
+ERR: syntax error, unexpected ''field'' (T_CONSTANT_ENCAPSED_STRING), expecting ']'
+
+[ 2017-08-16T11:29:19+08:00 ] 127.0.0.1 /s/post.html/article/158400
+ERR: 1242:Subquery returns more than 1 row
+ [ SQL语句 ] : SELECT `id`,`name`,`content`,`time`,(select id from  my_message_kevin as m2 where m2.level=m.id) FROM my_message_kevin m WHERE m.article_id = 44 AND `level` = 0 
+
+[ 2017-08-16T11:34:32+08:00 ] 127.0.0.1 /s/post.html/article/158400
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '*,",") from  my_message_kevin as m2 where m2.level=m.id) FROM my_message_kevin m' at line 1
+ [ SQL语句 ] : SELECT `id`,`name`,`content`,`time`,(select group_concat(*,",") from  my_message_kevin as m2 where m2.level=m.id) FROM my_message_kevin m WHERE m.article_id = 44 AND `level` = 0 
+
+[ 2017-08-16T11:35:44+08:00 ] 127.0.0.1 /s/post.html/article/158400
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'select * from  my_message_kevin as m2 where m2.level=m.id,",") FROM my_message_k' at line 1
+ [ SQL语句 ] : SELECT `id`,`name`,`content`,`time`,group_concat(select * from  my_message_kevin as m2 where m2.level=m.id,",") FROM my_message_kevin m WHERE m.article_id = 44 AND `level` = 0 
+
